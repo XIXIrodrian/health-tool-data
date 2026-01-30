@@ -2336,5 +2336,965 @@
     "source": "第三轮数据扩充",
     "last_updated": "2026-01-30T17:51:41.468233",
     "version": "3.0"
+  },
+  {
+    "material_id": "c077dab86bc075db",
+    "category": "谷物类",
+    "data": {
+      "name": "小米",
+      "category": "谷物类",
+      "nutrients": {
+        "energy": {
+          "value": 358,
+          "unit": "kcal/100g"
+        },
+        "protein": {
+          "value": 9,
+          "unit": "g/100g"
+        },
+        "iron": {
+          "value": 5.1,
+          "unit": "mg/100g"
+        }
+      },
+      "recommended_intake": {
+        "adult": "50-100g/天"
+      },
+      "health_benefits": [
+        "养胃",
+        "补铁",
+        "���神"
+      ],
+      "contraindications": [
+        "虚寒体质少食"
+      ],
+      "incompatible_foods": []
+    },
+    "source": "第七轮数据扩充-食物",
+    "last_updated": "2026-01-30T21:27:25.592811",
+    "version": "7.0"
+  },
+  {
+    "material_id": "6aec8679518e4e20",
+    "category": "谷物类",
+    "data": {
+      "name": "高粱",
+      "category": "谷物类",
+      "nutrients": {
+        "energy": {
+          "value": 351,
+          "unit": "kcal/100g"
+        },
+        "fiber": {
+          "value": 4.3,
+          "unit": "g/100g"
+        }
+      },
+      "recommended_intake": {
+        "adult": "50-100g/天"
+      },
+      "health_benefits": [
+        "健脾",
+        "消食",
+        "止泻"
+      ],
+      "contraindications": [
+        "大便燥结者慎食"
+      ],
+      "incompatible_foods": []
+    },
+    "source": "第七轮数据扩充-食物",
+    "last_updated": "2026-01-30T21:27:25.592811",
+    "version": "7.0"
+  },
+  {
+    "material_id": "87da58079862324c",
+    "category": "谷物类",
+    "data": {
+      "name": "荞麦",
+      "category": "谷物类",
+      "nutrients": {
+        "energy": {
+          "value": 337,
+          "unit": "kcal/100g"
+        },
+        "rutin": {
+          "value": "高",
+          "unit": "N/A"
+        }
+      },
+      "recommended_intake": {
+        "adult": "50-100g/天"
+      },
+      "health_benefits": [
+        "降血糖",
+        "降血脂",
+        "软化血管"
+      ],
+      "contraindications": [
+        "脾胃虚寒少食"
+      ],
+      "incompatible_foods": []
+    },
+    "source": "第七轮数据扩充-食物",
+    "last_updated": "2026-01-30T21:27:25.592811",
+    "version": "7.0"
+  },
+  {
+    "material_id": "d3e18cd185cd2d37",
+    "category": "蔬菜类",
+    "data": {
+      "name": "莲藕",
+      "category": "蔬菜类",
+      "nutrients": {
+        "energy": {
+          "value": 73,
+          "unit": "kcal/100g"
+        },
+        "vitamin_c": {
+          "value": 44,
+          "unit": "mg/100g"
+        }
+      },
+      "recommended_intake": {
+        "adult": "100-150g/天"
+      },
+      "health_benefits": [
+        "清热凉血",
+        "健脾开胃",
+        "止血"
+      ],
+      "contraindications": [
+        "脾胃虚寒少食生藕"
+      ],
+      "incompatible_foods": []
+    },
+    "source": "第七轮数据扩充-食物",
+    "last_updated": "2026-01-30T21:27:25.592811",
+    "version": "7.0"
+  },
+  {
+    "material_id": "df6b2998233d80b2",
+    "category": "蔬菜类",
+    "data": {
+      "name": "芋头",
+      "category": "蔬菜类",
+      "nutrients": {
+        "energy": {
+          "value": 79,
+          "unit": "kcal/100g"
+        },
+        "starch": {
+          "value": 17.5,
+          "unit": "g/100g"
+        }
+      },
+      "recommended_intake": {
+        "adult": "100-150g/天"
+      },
+      "health_benefits": [
+        "健脾",
+        "补中",
+        "解毒"
+      ],
+      "contraindications": [
+        "糖尿病患者控制量",
+        "生食有毒"
+      ],
+      "incompatible_foods": []
+    },
+    "source": "第七轮数据扩充-食物",
+    "last_updated": "2026-01-30T21:27:25.592811",
+    "version": "7.0"
+  },
+  {
+    "material_id": "6421e91748f7ded2",
+    "category": "蔬菜类",
+    "data": {
+      "name": "冬瓜",
+      "category": "蔬菜类",
+      "nutrients": {
+        "energy": {
+          "value": 11,
+          "unit": "kcal/100g"
+        },
+        "water": {
+          "value": 96,
+          "unit": "%"
+        }
+      },
+      "recommended_intake": {
+        "adult": "100-200g/天"
+      },
+      "health_benefits": [
+        "利尿消肿",
+        "清热解暑",
+        "减肥"
+      ],
+      "contraindications": [
+        "脾胃虚寒少食"
+      ],
+      "incompatible_foods": []
+    },
+    "source": "第七轮数据扩充-食物",
+    "last_updated": "2026-01-30T21:27:25.592811",
+    "version": "7.0"
+  },
+  {
+    "material_id": "273ae9af2339f436",
+    "category": "蔬菜类",
+    "data": {
+      "name": "苦瓜",
+      "category": "蔬菜类",
+      "nutrients": {
+        "energy": {
+          "value": 19,
+          "unit": "kcal/100g"
+        },
+        "苦瓜素": {
+          "value": "高",
+          "unit": "N/A"
+        }
+      },
+      "recommended_intake": {
+        "adult": "50-100g/天"
+      },
+      "health_benefits": [
+        "清热解毒",
+        "降血糖",
+        "明目"
+      ],
+      "contraindications": [
+        "脾胃虚寒慎食",
+        "孕妇少食"
+      ],
+      "incompatible_foods": []
+    },
+    "source": "第七轮数据扩充-食物",
+    "last_updated": "2026-01-30T21:27:25.592811",
+    "version": "7.0"
+  },
+  {
+    "material_id": "14a733ca41a02736",
+    "category": "蔬菜类",
+    "data": {
+      "name": "韭菜",
+      "category": "蔬菜类",
+      "nutrients": {
+        "energy": {
+          "value": 26,
+          "unit": "kcal/100g"
+        },
+        "fiber": {
+          "value": 1.4,
+          "unit": "g/100g"
+        }
+      },
+      "recommended_intake": {
+        "adult": "50-100g/天"
+      },
+      "health_benefits": [
+        "补肾壮阳",
+        "温中开胃",
+        "散瘀"
+      ],
+      "contraindications": [
+        "阴虚火旺者慎食",
+        "胃溃疡少食"
+      ],
+      "incompatible_foods": [
+        {
+          "food": "蜂蜜",
+          "reason": "同食易腹泻",
+          "severity": "轻微"
+        }
+      ]
+    },
+    "source": "第七轮数据扩充-食物",
+    "last_updated": "2026-01-30T21:27:25.592811",
+    "version": "7.0"
+  },
+  {
+    "material_id": "8e05f6c5b6446cea",
+    "category": "水果类",
+    "data": {
+      "name": "榴莲",
+      "category": "水果类",
+      "nutrients": {
+        "energy": {
+          "value": 147,
+          "unit": "kcal/100g"
+        },
+        "sugar": {
+          "value": 27,
+          "unit": "g/100g"
+        }
+      },
+      "recommended_intake": {
+        "adult": "100g/天"
+      },
+      "health_benefits": [
+        "滋补",
+        "增强免疫",
+        "活血散寒"
+      ],
+      "contraindications": [
+        "糖尿病患者禁食",
+        "热性体质少食",
+        "肥胖者控制量"
+      ],
+      "incompatible_foods": [
+        {
+          "food": "白酒",
+          "reason": "同食易上火",
+          "severity": "中等"
+        }
+      ]
+    },
+    "source": "第七轮数据扩充-食物",
+    "last_updated": "2026-01-30T21:27:25.592811",
+    "version": "7.0"
+  },
+  {
+    "material_id": "2c0adbde3ec8cac6",
+    "category": "水果类",
+    "data": {
+      "name": "芒果",
+      "category": "水果类",
+      "nutrients": {
+        "energy": {
+          "value": 35,
+          "unit": "kcal/100g"
+        },
+        "carotene": {
+          "value": 897,
+          "unit": "μg/100g"
+        }
+      },
+      "recommended_intake": {
+        "adult": "1-2个/天"
+      },
+      "health_benefits": [
+        "明目",
+        "美容",
+        "防癌"
+      ],
+      "contraindications": [
+        "芒果过敏者禁食",
+        "皮炎湿疹少食"
+      ],
+      "incompatible_foods": []
+    },
+    "source": "第七轮数据扩充-食物",
+    "last_updated": "2026-01-30T21:27:25.592811",
+    "version": "7.0"
+  },
+  {
+    "material_id": "67351ff3c6e6bcf3",
+    "category": "水果类",
+    "data": {
+      "name": "荔枝",
+      "category": "水果类",
+      "nutrients": {
+        "energy": {
+          "value": 70,
+          "unit": "kcal/100g"
+        },
+        "vitamin_c": {
+          "value": 41,
+          "unit": "mg/100g"
+        }
+      },
+      "recommended_intake": {
+        "adult": "5-10颗/天"
+      },
+      "health_benefits": [
+        "补脾益肝",
+        "生津止渴",
+        "补血"
+      ],
+      "contraindications": [
+        "上火体质少食",
+        "空腹大量食用易低血糖",
+        "糖尿病患者慎食"
+      ],
+      "incompatible_foods": []
+    },
+    "source": "第七轮数据扩充-食物",
+    "last_updated": "2026-01-30T21:27:25.592811",
+    "version": "7.0"
+  },
+  {
+    "material_id": "c3274743659feacc",
+    "category": "水果类",
+    "data": {
+      "name": "桃子",
+      "category": "水果类",
+      "nutrients": {
+        "energy": {
+          "value": 48,
+          "unit": "kcal/100g"
+        },
+        "iron": {
+          "value": 0.8,
+          "unit": "mg/100g"
+        }
+      },
+      "recommended_intake": {
+        "adult": "1-2个/天"
+      },
+      "health_benefits": [
+        "生津润肠",
+        "活血",
+        "补铁"
+      ],
+      "contraindications": [
+        "多食易腹胀",
+        "糖尿病患者控制量"
+      ],
+      "incompatible_foods": []
+    },
+    "source": "第七轮数据扩充-食物",
+    "last_updated": "2026-01-30T21:27:25.592811",
+    "version": "7.0"
+  },
+  {
+    "material_id": "504150f6d128caea",
+    "category": "水果类",
+    "data": {
+      "name": "樱桃",
+      "category": "水果类",
+      "nutrients": {
+        "energy": {
+          "value": 46,
+          "unit": "kcal/100g"
+        },
+        "iron": {
+          "value": 5.9,
+          "unit": "mg/100g"
+        }
+      },
+      "recommended_intake": {
+        "adult": "10-15颗/天"
+      },
+      "health_benefits": [
+        "补血",
+        "美容",
+        "抗炎"
+      ],
+      "contraindications": [
+        "上火体质少食",
+        "溃疡患者慎食"
+      ],
+      "incompatible_foods": []
+    },
+    "source": "第七轮数据扩充-食物",
+    "last_updated": "2026-01-30T21:27:25.592811",
+    "version": "7.0"
+  },
+  {
+    "material_id": "4744a65689b5a02a",
+    "category": "水产类",
+    "data": {
+      "name": "螃蟹",
+      "category": "水产类",
+      "nutrients": {
+        "energy": {
+          "value": 95,
+          "unit": "kcal/100g"
+        },
+        "protein": {
+          "value": 17.5,
+          "unit": "g/100g"
+        }
+      },
+      "recommended_intake": {
+        "adult": "100-150g/天"
+      },
+      "health_benefits": [
+        "清热解毒",
+        "补骨添髓",
+        "养筋活血"
+      ],
+      "contraindications": [
+        "痛风患者禁食",
+        "孕妇慎食",
+        "脾胃虚寒少食"
+      ],
+      "incompatible_foods": [
+        {
+          "food": "柿子",
+          "reason": "引起腹泻",
+          "severity": "高"
+        }
+      ]
+    },
+    "source": "第七轮数据扩充-食物",
+    "last_updated": "2026-01-30T21:27:25.592811",
+    "version": "7.0"
+  },
+  {
+    "material_id": "8e257ed1b9a0e83b",
+    "category": "水产类",
+    "data": {
+      "name": "鱿鱼",
+      "category": "水产类",
+      "nutrients": {
+        "energy": {
+          "value": 75,
+          "unit": "kcal/100g"
+        },
+        "protein": {
+          "value": 15.2,
+          "unit": "g/100g"
+        },
+        "cholesterol": {
+          "value": 268,
+          "unit": "mg/100g"
+        }
+      },
+      "recommended_intake": {
+        "adult": "50-100g/天"
+      },
+      "health_benefits": [
+        "补钙",
+        "护肝",
+        "补脑"
+      ],
+      "contraindications": [
+        "高胆固醇者少食",
+        "海鲜过敏者禁食"
+      ],
+      "incompatible_foods": []
+    },
+    "source": "第七轮数据扩充-食物",
+    "last_updated": "2026-01-30T21:27:25.592811",
+    "version": "7.0"
+  },
+  {
+    "material_id": "6b98f32494511971",
+    "category": "水产类",
+    "data": {
+      "name": "扇贝",
+      "category": "水产类",
+      "nutrients": {
+        "energy": {
+          "value": 60,
+          "unit": "kcal/100g"
+        },
+        "protein": {
+          "value": 11.1,
+          "unit": "g/100g"
+        }
+      },
+      "recommended_intake": {
+        "adult": "50-100g/天"
+      },
+      "health_benefits": [
+        "滋阴补肾",
+        "健脾调中"
+      ],
+      "contraindications": [
+        "海鲜过敏者禁食",
+        "痛风患者少食"
+      ],
+      "incompatible_foods": []
+    },
+    "source": "第七轮数据扩充-食物",
+    "last_updated": "2026-01-30T21:27:25.592811",
+    "version": "7.0"
+  },
+  {
+    "material_id": "eceed11f33380114",
+    "category": "水产类",
+    "data": {
+      "name": "生蚝",
+      "category": "水产类",
+      "nutrients": {
+        "energy": {
+          "value": 57,
+          "unit": "kcal/100g"
+        },
+        "zinc": {
+          "value": 71,
+          "unit": "mg/100g"
+        }
+      },
+      "recommended_intake": {
+        "adult": "50-100g/天"
+      },
+      "health_benefits": [
+        "补锌",
+        "提高免疫",
+        "补肾"
+      ],
+      "contraindications": [
+        "海鲜过敏者禁食",
+        "生食需新鲜卫生"
+      ],
+      "incompatible_foods": []
+    },
+    "source": "第七轮数据扩充-食物",
+    "last_updated": "2026-01-30T21:27:25.592811",
+    "version": "7.0"
+  },
+  {
+    "material_id": "1aced30295c9f6ce",
+    "category": "蛋类",
+    "data": {
+      "name": "鸡蛋",
+      "category": "蛋类",
+      "nutrients": {
+        "energy": {
+          "value": 144,
+          "unit": "kcal/100g"
+        },
+        "protein": {
+          "value": 13.3,
+          "unit": "g/100g"
+        },
+        "cholesterol": {
+          "value": 585,
+          "unit": "mg/100g"
+        }
+      },
+      "recommended_intake": {
+        "adult": "1-2个/天"
+      },
+      "health_benefits": [
+        "优质蛋白",
+        "护眼",
+        "健脑"
+      ],
+      "contraindications": [
+        "高胆固醇者控制量"
+      ],
+      "incompatible_foods": [
+        {
+          "food": "豆浆",
+          "reason": "影响吸收",
+          "severity": "轻微"
+        }
+      ]
+    },
+    "source": "第七轮数据扩充-食物",
+    "last_updated": "2026-01-30T21:27:25.592811",
+    "version": "7.0"
+  },
+  {
+    "material_id": "304a8d28972213b7",
+    "category": "蛋类",
+    "data": {
+      "name": "鸭蛋",
+      "category": "蛋类",
+      "nutrients": {
+        "energy": {
+          "value": 180,
+          "unit": "kcal/100g"
+        },
+        "protein": {
+          "value": 12.6,
+          "unit": "g/100g"
+        }
+      },
+      "recommended_intake": {
+        "adult": "1个/天"
+      },
+      "health_benefits": [
+        "滋阴清肺",
+        "补血"
+      ],
+      "contraindications": [
+        "脾胃虚寒少食"
+      ],
+      "incompatible_foods": []
+    },
+    "source": "第七轮数据扩充-食物",
+    "last_updated": "2026-01-30T21:27:25.592811",
+    "version": "7.0"
+  },
+  {
+    "material_id": "c388c1aae454a89b",
+    "category": "蛋类",
+    "data": {
+      "name": "鹌鹑蛋",
+      "category": "蛋类",
+      "nutrients": {
+        "energy": {
+          "value": 160,
+          "unit": "kcal/100g"
+        },
+        "protein": {
+          "value": 12.8,
+          "unit": "g/100g"
+        }
+      },
+      "recommended_intake": {
+        "adult": "3-5个/天"
+      },
+      "health_benefits": [
+        "补脑",
+        "养血",
+        "强身"
+      ],
+      "contraindications": [
+        "高胆固醇者控制量"
+      ],
+      "incompatible_foods": []
+    },
+    "source": "第七轮数据扩充-食物",
+    "last_updated": "2026-01-30T21:27:25.592811",
+    "version": "7.0"
+  },
+  {
+    "material_id": "5163770d6dccc222",
+    "category": "调味品",
+    "data": {
+      "name": "辣椒",
+      "category": "调味品",
+      "nutrients": {
+        "vitamin_c": {
+          "value": 144,
+          "unit": "mg/100g"
+        },
+        "capsaicin": {
+          "value": "高",
+          "unit": "N/A"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "开胃",
+        "促进消化",
+        "驱寒"
+      ],
+      "contraindications": [
+        "胃溃疡禁食",
+        "痔疮患者少食",
+        "上火体质慎食"
+      ],
+      "incompatible_foods": []
+    },
+    "source": "第七轮数据扩充-食物",
+    "last_updated": "2026-01-30T21:27:25.592811",
+    "version": "7.0"
+  },
+  {
+    "material_id": "e1a4a5bb340554ea",
+    "category": "调味品",
+    "data": {
+      "name": "孜然",
+      "category": "调味品",
+      "nutrients": {},
+      "recommended_intake": {
+        "adult": "1-3g/天"
+      },
+      "health_benefits": [
+        "温中暖胃",
+        "散寒止痛",
+        "杀菌"
+      ],
+      "contraindications": [
+        "阴虚火旺者慎用"
+      ],
+      "incompatible_foods": []
+    },
+    "source": "第七轮数据扩充-食物",
+    "last_updated": "2026-01-30T21:27:25.592811",
+    "version": "7.0"
+  },
+  {
+    "material_id": "c9221a82f65a3534",
+    "category": "调味品",
+    "data": {
+      "name": "香叶",
+      "category": "调味品",
+      "nutrients": {},
+      "recommended_intake": {
+        "adult": "2-3片/次"
+      },
+      "health_benefits": [
+        "增香",
+        "祛腥",
+        "助消化"
+      ],
+      "contraindications": [],
+      "incompatible_foods": []
+    },
+    "source": "第七轮数据扩充-食物",
+    "last_updated": "2026-01-30T21:27:25.592811",
+    "version": "7.0"
+  },
+  {
+    "material_id": "86620869cac6a81d",
+    "category": "饮品类",
+    "data": {
+      "name": "黑咖啡",
+      "category": "饮品类",
+      "nutrients": {
+        "energy": {
+          "value": 1,
+          "unit": "kcal/100ml"
+        },
+        "caffeine": {
+          "value": 40,
+          "unit": "mg/100ml"
+        }
+      },
+      "recommended_intake": {
+        "adult": "1-3杯/天"
+      },
+      "health_benefits": [
+        "提神",
+        "抗氧化",
+        "促进代谢"
+      ],
+      "contraindications": [
+        "孕妇少饮",
+        "失眠者避免",
+        "胃溃疡患者慎饮"
+      ],
+      "incompatible_foods": []
+    },
+    "source": "第七轮数据扩充-食物",
+    "last_updated": "2026-01-30T21:27:25.592811",
+    "version": "7.0"
+  },
+  {
+    "material_id": "92d1ac48a05239d0",
+    "category": "饮品类",
+    "data": {
+      "name": "豆浆",
+      "category": "饮品类",
+      "nutrients": {
+        "energy": {
+          "value": 14,
+          "unit": "kcal/100ml"
+        },
+        "protein": {
+          "value": 1.8,
+          "unit": "g/100ml"
+        }
+      },
+      "recommended_intake": {
+        "adult": "200-300ml/天"
+      },
+      "health_benefits": [
+        "补充植��蛋白",
+        "降胆固醇",
+        "美容"
+      ],
+      "contraindications": [
+        "痛风患者少饮",
+        "必须煮熟"
+      ],
+      "incompatible_foods": [
+        {
+          "food": "鸡蛋",
+          "reason": "影响吸收",
+          "severity": "轻微"
+        }
+      ]
+    },
+    "source": "第七轮数据扩充-食物",
+    "last_updated": "2026-01-30T21:27:25.594317",
+    "version": "7.0"
+  },
+  {
+    "material_id": "53704f22507b3fb3",
+    "category": "油脂类",
+    "data": {
+      "name": "大豆油",
+      "category": "油脂类",
+      "nutrients": {
+        "energy": {
+          "value": 899,
+          "unit": "kcal/100g"
+        },
+        "vitamin_e": {
+          "value": 93,
+          "unit": "mg/100g"
+        }
+      },
+      "recommended_intake": {
+        "adult": "25-30g/天"
+      },
+      "health_benefits": [
+        "补充维E",
+        "降胆固醇"
+      ],
+      "contraindications": [
+        "高温易产生有害物"
+      ],
+      "incompatible_foods": []
+    },
+    "source": "第七轮数据扩充-食物",
+    "last_updated": "2026-01-30T21:27:25.594317",
+    "version": "7.0"
+  },
+  {
+    "material_id": "fbd7494d474a5d11",
+    "category": "油脂类",
+    "data": {
+      "name": "菜籽油",
+      "category": "油脂类",
+      "nutrients": {
+        "energy": {
+          "value": 899,
+          "unit": "kcal/100g"
+        },
+        "油酸": {
+          "value": 61,
+          "unit": "%"
+        }
+      },
+      "recommended_intake": {
+        "adult": "25-30g/天"
+      },
+      "health_benefits": [
+        "软化血管",
+        "延缓衰老"
+      ],
+      "contraindications": [],
+      "incompatible_foods": []
+    },
+    "source": "第七轮数据扩充-食物",
+    "last_updated": "2026-01-30T21:27:25.594317",
+    "version": "7.0"
+  },
+  {
+    "material_id": "ccbbdcdaacbc211c",
+    "category": "油脂类",
+    "data": {
+      "name": "亚麻籽油",
+      "category": "油脂类",
+      "nutrients": {
+        "energy": {
+          "value": 899,
+          "unit": "kcal/100g"
+        },
+        "α-亚麻酸": {
+          "value": "55%",
+          "unit": "N/A"
+        }
+      },
+      "recommended_intake": {
+        "adult": "5-10ml/天"
+      },
+      "health_benefits": [
+        "补充Omega-3",
+        "降血脂",
+        "健脑"
+      ],
+      "contraindications": [
+        "不耐高温,凉拌为主"
+      ],
+      "incompatible_foods": []
+    },
+    "source": "第七轮数据扩充-食物",
+    "last_updated": "2026-01-30T21:27:25.594317",
+    "version": "7.0"
   }
 ]
