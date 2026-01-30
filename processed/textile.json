@@ -2440,5 +2440,340 @@
     "source": "纺织品标准数据库",
     "last_updated": "2026-01-30T23:52:22.967496",
     "version": "17.0"
+  },
+  {
+    "material_id": "a1f8676600349dc2",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "羊绒面料",
+      "composition": "100% 山羊绒",
+      "standard": "GB/T 16988-2013",
+      "chemical_treatments": [
+        {
+          "name": "柔软整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "保暖性极佳",
+        "柔软舒适",
+        "轻盈透气",
+        "奢华品质"
+      ],
+      "care_instructions": {
+        "washing": "30度手洗或专业干洗",
+        "drying": "平铺阴干",
+        "ironing": "低温蒸汽熨烫"
+      },
+      "certifications": [
+        "GB 18401 A类",
+        "国际羊绒标志"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "保暖性是羊毛8倍",
+        "超柔软",
+        "轻薄",
+        "高档奢华"
+      ],
+      "disadvantages": [
+        "价格昂贵",
+        "易起球",
+        "需精心护理"
+      ],
+      "maintenance_tips": [
+        "专业干洗",
+        "防虫防蛀",
+        "折叠收纳",
+        "避免摩擦"
+      ],
+      "health_recommendations": [
+        "敏感肌适用",
+        "冬季保暖首选",
+        "透气不闷"
+      ],
+      "physical_properties": {
+        "细度": "14-16μm",
+        "保暖率": "羊毛的8倍",
+        "起球等级": "3级"
+      },
+      "application_scenarios": [
+        "大衣",
+        "围巾",
+        "毛衣"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-30T23:57:45.034594",
+    "version": "18.0"
+  },
+  {
+    "material_id": "cd1c9b7e393336ca",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "羽绒填充物",
+      "composition": "90% 白鸭绒 + 10% 羽毛",
+      "standard": "GB/T 14272-2021",
+      "chemical_treatments": [
+        {
+          "name": "高温消毒",
+          "hazard": "无"
+        },
+        {
+          "name": "除臭处理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "保暖轻盈",
+        "透气性好",
+        "吸湿排汗"
+      ],
+      "care_instructions": {
+        "washing": "专业水洗或干洗",
+        "drying": "低温烘干拍打",
+        "storage": "通风干燥处存放"
+      },
+      "certifications": [
+        "GB/T 14272-2021",
+        "RDS认证"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "保暖性极佳",
+        "重量轻",
+        "蓬松度高",
+        "耐用"
+      ],
+      "disadvantages": [
+        "清洗不便",
+        "怕水",
+        "价格较高"
+      ],
+      "maintenance_tips": [
+        "避免压缩",
+        "定期拍打",
+        "防潮防虫",
+        "专业清洗"
+      ],
+      "health_recommendations": [
+        "透气保暖",
+        "防寒首选",
+        "注意过敏"
+      ],
+      "physical_properties": {
+        "蓬松度": "≥750",
+        "含绒量": "90%",
+        "耗氧指数": "≤4.8"
+      },
+      "application_scenarios": [
+        "羽绒服",
+        "被子",
+        "睡袋"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-30T23:57:45.034594",
+    "version": "18.0"
+  },
+  {
+    "material_id": "2a9079d29056fcda",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "氨纶弹力布",
+      "composition": "95% 棉 + 5% 氨纶",
+      "standard": "FZ/T 13014-2015",
+      "chemical_treatments": [
+        {
+          "name": "染色",
+          "hazard": "中"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "弹性好",
+        "舒适贴身",
+        "不易变形"
+      ],
+      "care_instructions": {
+        "washing": "40度机洗",
+        "drying": "避免高温烘干",
+        "ironing": "低温熨烫"
+      },
+      "certifications": [
+        "GB 18401 A类"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "高弹性",
+        "回弹性好",
+        "舒适贴身",
+        "不易起皱"
+      ],
+      "disadvantages": [
+        "不耐高温",
+        "易老化"
+      ],
+      "maintenance_tips": [
+        "避免暴晒",
+        "低温洗涤",
+        "阴干"
+      ],
+      "health_recommendations": [
+        "贴身舒适",
+        "运动适用",
+        "透气性好"
+      ],
+      "physical_properties": {
+        "弹性伸长率": "≥300%",
+        "回弹率": "≥95%",
+        "克重": "180-220g/m²"
+      },
+      "application_scenarios": [
+        "T恤",
+        "内衣",
+        "运动服"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-30T23:57:45.034594",
+    "version": "18.0"
+  },
+  {
+    "material_id": "df53a0fdd0fe5f58",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "涤棉混纺工装布",
+      "composition": "65% 涤纶 + 35% 棉",
+      "standard": "GB/T 14644-2014",
+      "chemical_treatments": [
+        {
+          "name": "抗皱整理",
+          "hazard": "低"
+        },
+        {
+          "name": "染色",
+          "hazard": "中"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "耐磨耐用",
+        "易洗快干"
+      ],
+      "care_instructions": {
+        "washing": "60度机洗",
+        "drying": "可机烘",
+        "ironing": "中温熨烫"
+      },
+      "certifications": [
+        "GB 18401 B类",
+        "阻燃B1级"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "挺括耐用",
+        "抗皱免烫",
+        "易洗快干",
+        "价格实惠"
+      ],
+      "disadvantages": [
+        "透气性一般",
+        "易起静电"
+      ],
+      "maintenance_tips": [
+        "定期清洗",
+        "使用柔顺剂",
+        "避免高温"
+      ],
+      "health_recommendations": [
+        "工装首选",
+        "耐脏耐磨",
+        "不适合贴身"
+      ],
+      "physical_properties": {
+        "克重": "200-260g/m²",
+        "断裂强力": "≥450N",
+        "耐磨次数": "≥3000次"
+      },
+      "application_scenarios": [
+        "工作服",
+        "制服",
+        "劳保服"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-30T23:57:45.034594",
+    "version": "18.0"
+  },
+  {
+    "material_id": "0bd8008277c6b383",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "冰丝凉感布",
+      "composition": "改性聚酯纤维",
+      "standard": "FZ/T 73036-2010",
+      "chemical_treatments": [
+        {
+          "name": "凉感整理",
+          "hazard": "低"
+        },
+        {
+          "name": "吸湿整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "凉感降温",
+        "吸湿速干",
+        "光滑舒适"
+      ],
+      "care_instructions": {
+        "washing": "30度机洗",
+        "drying": "阴干",
+        "ironing": "低温熨烫"
+      },
+      "certifications": [
+        "GB 18401 B类",
+        "凉感认证"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "瞬间凉感",
+        "吸湿排汗",
+        "丝滑触感",
+        "抗菌防臭"
+      ],
+      "disadvantages": [
+        "不耐高温",
+        "易勾丝"
+      ],
+      "maintenance_tips": [
+        "避免尖锐物",
+        "低温洗涤",
+        "避免暴晒"
+      ],
+      "health_recommendations": [
+        "夏季凉爽",
+        "降温2-3度",
+        "敏感肌慎用"
+      ],
+      "physical_properties": {
+        "克重": "100-140g/m²",
+        "凉感系数": "≥0.15",
+        "透湿率": "≥5000g/(m²·24h)"
+      },
+      "application_scenarios": [
+        "夏季内衣",
+        "凉席",
+        "运动服"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-30T23:57:45.034594",
+    "version": "18.0"
   }
 ]
