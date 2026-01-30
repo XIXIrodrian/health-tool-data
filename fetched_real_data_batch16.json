@@ -1,0 +1,1400 @@
+[
+  {
+    "material_id": "9ee6f36a835265b0",
+    "category": "谷物类",
+    "data": {
+      "name": "Bread, wheat or cracked wheat",
+      "category": "谷物类",
+      "nutrients": {
+        "protein": {
+          "value": 10.67,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 47.54,
+          "unit": "G"
+        },
+        "energy": {
+          "value": 274,
+          "unit": "KCAL"
+        },
+        "fiber": {
+          "value": 4,
+          "unit": "G"
+        },
+        "calcium": {
+          "value": 125,
+          "unit": "MG"
+        },
+        "iron": {
+          "value": 3.6,
+          "unit": "MG"
+        },
+        "vitamin_c": {
+          "value": 0.2,
+          "unit": "MG"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "提供营养",
+        "天然食物"
+      ],
+      "contraindications": [],
+      "incompatible_foods": [],
+      "advantages": [
+        "营养丰富",
+        "天然健康"
+      ],
+      "disadvantages": [
+        "注意适量食用"
+      ],
+      "maintenance_tips": [
+        "妥善储存",
+        "注意保质期"
+      ],
+      "health_recommendations": [
+        "均衡饮食",
+        "适量摄入"
+      ],
+      "physical_properties": {},
+      "application_scenarios": [
+        "日常饮食"
+      ]
+    },
+    "source": "USDA FoodData Central API",
+    "last_updated": "2026-01-30T23:43:38.915631",
+    "version": "16.0"
+  },
+  {
+    "material_id": "f6ecb36c93dc30c6",
+    "category": "谷物类",
+    "data": {
+      "name": "Roll, wheat or cracked wheat",
+      "category": "谷物类",
+      "nutrients": {
+        "protein": {
+          "value": 8.6,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 46,
+          "unit": "G"
+        },
+        "energy": {
+          "value": 273,
+          "unit": "KCAL"
+        },
+        "fiber": {
+          "value": 3.8,
+          "unit": "G"
+        },
+        "calcium": {
+          "value": 176,
+          "unit": "MG"
+        },
+        "iron": {
+          "value": 3.55,
+          "unit": "MG"
+        },
+        "vitamin_c": {
+          "value": 0,
+          "unit": "MG"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "提供营养",
+        "天然食物"
+      ],
+      "contraindications": [],
+      "incompatible_foods": [],
+      "advantages": [
+        "营养丰富",
+        "天然健康"
+      ],
+      "disadvantages": [
+        "注意适量食用"
+      ],
+      "maintenance_tips": [
+        "妥善储存",
+        "注意保质期"
+      ],
+      "health_recommendations": [
+        "均衡饮食",
+        "适量摄入"
+      ],
+      "physical_properties": {},
+      "application_scenarios": [
+        "日常饮食"
+      ]
+    },
+    "source": "USDA FoodData Central API",
+    "last_updated": "2026-01-30T23:43:38.915631",
+    "version": "16.0"
+  },
+  {
+    "material_id": "7b3bd1aad855ef5e",
+    "category": "谷物类",
+    "data": {
+      "name": "OATS",
+      "category": "谷物类",
+      "nutrients": {
+        "protein": {
+          "value": 12.5,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 67.5,
+          "unit": "G"
+        },
+        "energy": {
+          "value": 375,
+          "unit": "KCAL"
+        },
+        "fiber": {
+          "value": 5.0,
+          "unit": "G"
+        },
+        "calcium": {
+          "value": 0.0,
+          "unit": "MG"
+        },
+        "iron": {
+          "value": 4.5,
+          "unit": "MG"
+        },
+        "vitamin_c": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "提供营养",
+        "天然食物"
+      ],
+      "contraindications": [],
+      "incompatible_foods": [],
+      "advantages": [
+        "营养丰富",
+        "天然健康"
+      ],
+      "disadvantages": [
+        "注意适量食用"
+      ],
+      "maintenance_tips": [
+        "妥善储存",
+        "注意保质期"
+      ],
+      "health_recommendations": [
+        "均衡饮食",
+        "适量摄入"
+      ],
+      "physical_properties": {},
+      "application_scenarios": [
+        "日常饮食"
+      ]
+    },
+    "source": "USDA FoodData Central API",
+    "last_updated": "2026-01-30T23:43:41.612299",
+    "version": "16.0"
+  },
+  {
+    "material_id": "7b3bd1aad855ef5e",
+    "category": "谷物类",
+    "data": {
+      "name": "OATS",
+      "category": "谷物类",
+      "nutrients": {
+        "protein": {
+          "value": 12.5,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 67.5,
+          "unit": "G"
+        },
+        "energy": {
+          "value": 375,
+          "unit": "KCAL"
+        },
+        "fiber": {
+          "value": 5.0,
+          "unit": "G"
+        },
+        "calcium": {
+          "value": 0.0,
+          "unit": "MG"
+        },
+        "iron": {
+          "value": 4.5,
+          "unit": "MG"
+        },
+        "vitamin_c": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "提供营养",
+        "天然食物"
+      ],
+      "contraindications": [],
+      "incompatible_foods": [],
+      "advantages": [
+        "营养丰富",
+        "天然健康"
+      ],
+      "disadvantages": [
+        "注意适量食用"
+      ],
+      "maintenance_tips": [
+        "妥善储存",
+        "注意保质期"
+      ],
+      "health_recommendations": [
+        "均衡饮食",
+        "适量摄入"
+      ],
+      "physical_properties": {},
+      "application_scenarios": [
+        "日常饮食"
+      ]
+    },
+    "source": "USDA FoodData Central API",
+    "last_updated": "2026-01-30T23:43:41.612299",
+    "version": "16.0"
+  },
+  {
+    "material_id": "9ec2d18bb45a85fc",
+    "category": "谷物类",
+    "data": {
+      "name": "Barley",
+      "category": "谷物类",
+      "nutrients": {
+        "protein": {
+          "value": 2.2,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 27.23,
+          "unit": "G"
+        },
+        "energy": {
+          "value": 139,
+          "unit": "KCAL"
+        },
+        "fiber": {
+          "value": 3.7,
+          "unit": "G"
+        },
+        "calcium": {
+          "value": 11,
+          "unit": "MG"
+        },
+        "iron": {
+          "value": 1.28,
+          "unit": "MG"
+        },
+        "vitamin_c": {
+          "value": 0,
+          "unit": "MG"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "提供营养",
+        "天然食物"
+      ],
+      "contraindications": [],
+      "incompatible_foods": [],
+      "advantages": [
+        "营养丰富",
+        "天然健康"
+      ],
+      "disadvantages": [
+        "注意适量食用"
+      ],
+      "maintenance_tips": [
+        "妥善储存",
+        "注意保质期"
+      ],
+      "health_recommendations": [
+        "均衡饮食",
+        "适量摄入"
+      ],
+      "physical_properties": {},
+      "application_scenarios": [
+        "日常饮食"
+      ]
+    },
+    "source": "USDA FoodData Central API",
+    "last_updated": "2026-01-30T23:43:44.164259",
+    "version": "16.0"
+  },
+  {
+    "material_id": "4a0e86cca6388406",
+    "category": "谷物类",
+    "data": {
+      "name": "BARLEY",
+      "category": "谷物类",
+      "nutrients": {
+        "protein": {
+          "value": 1.77,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 23.9,
+          "unit": "G"
+        },
+        "energy": {
+          "value": 106,
+          "unit": "KCAL"
+        },
+        "fiber": {
+          "value": 0.9,
+          "unit": "G"
+        },
+        "calcium": {
+          "value": 0.0,
+          "unit": "MG"
+        },
+        "iron": {
+          "value": 0.0,
+          "unit": "MG"
+        },
+        "vitamin_c": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "提供营养",
+        "天然食物"
+      ],
+      "contraindications": [],
+      "incompatible_foods": [],
+      "advantages": [
+        "营养丰富",
+        "天然健康"
+      ],
+      "disadvantages": [
+        "注意适量食用"
+      ],
+      "maintenance_tips": [
+        "妥善储存",
+        "注意保质期"
+      ],
+      "health_recommendations": [
+        "均衡饮食",
+        "适量摄入"
+      ],
+      "physical_properties": {},
+      "application_scenarios": [
+        "日常饮食"
+      ]
+    },
+    "source": "USDA FoodData Central API",
+    "last_updated": "2026-01-30T23:43:44.164259",
+    "version": "16.0"
+  },
+  {
+    "material_id": "3bb1be91d4d57413",
+    "category": "谷物类",
+    "data": {
+      "name": "CORN",
+      "category": "谷物类",
+      "nutrients": {
+        "protein": {
+          "value": 0.8,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 12.8,
+          "unit": "G"
+        },
+        "energy": {
+          "value": 56.0,
+          "unit": "KCAL"
+        },
+        "fiber": {
+          "value": 0.8,
+          "unit": "G"
+        },
+        "calcium": {
+          "value": 3.0,
+          "unit": "MG"
+        },
+        "iron": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "提供营养",
+        "天然食物"
+      ],
+      "contraindications": [],
+      "incompatible_foods": [],
+      "advantages": [
+        "营养丰富",
+        "天然健康"
+      ],
+      "disadvantages": [
+        "注意适量食用"
+      ],
+      "maintenance_tips": [
+        "妥善储存",
+        "注意保质期"
+      ],
+      "health_recommendations": [
+        "均衡饮食",
+        "适量摄入"
+      ],
+      "physical_properties": {},
+      "application_scenarios": [
+        "日常饮食"
+      ]
+    },
+    "source": "USDA FoodData Central API",
+    "last_updated": "2026-01-30T23:43:46.677262",
+    "version": "16.0"
+  },
+  {
+    "material_id": "3bb1be91d4d57413",
+    "category": "谷物类",
+    "data": {
+      "name": "CORN",
+      "category": "谷物类",
+      "nutrients": {
+        "protein": {
+          "value": 2.67,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 21.3,
+          "unit": "G"
+        },
+        "energy": {
+          "value": 93.0,
+          "unit": "KCAL"
+        },
+        "fiber": {
+          "value": 2.7,
+          "unit": "G"
+        },
+        "calcium": {
+          "value": 4.0,
+          "unit": "MG"
+        },
+        "iron": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "提供营养",
+        "天然食物"
+      ],
+      "contraindications": [],
+      "incompatible_foods": [],
+      "advantages": [
+        "营养丰富",
+        "天然健康"
+      ],
+      "disadvantages": [
+        "注意适量食用"
+      ],
+      "maintenance_tips": [
+        "妥善储存",
+        "注意保质期"
+      ],
+      "health_recommendations": [
+        "均衡饮食",
+        "适量摄入"
+      ],
+      "physical_properties": {},
+      "application_scenarios": [
+        "日常饮食"
+      ]
+    },
+    "source": "USDA FoodData Central API",
+    "last_updated": "2026-01-30T23:43:46.677785",
+    "version": "16.0"
+  },
+  {
+    "material_id": "a8b07e448a52cb95",
+    "category": "蔬菜类",
+    "data": {
+      "name": "BROCCOLI",
+      "category": "蔬菜类",
+      "nutrients": {
+        "protein": {
+          "value": 2.35,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 4.71,
+          "unit": "G"
+        },
+        "energy": {
+          "value": 24.0,
+          "unit": "KCAL"
+        },
+        "fiber": {
+          "value": 3.5,
+          "unit": "G"
+        },
+        "calcium": {
+          "value": 59.0,
+          "unit": "MG"
+        },
+        "iron": {
+          "value": 0.82,
+          "unit": "MG"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "提供营养",
+        "天然食物"
+      ],
+      "contraindications": [],
+      "incompatible_foods": [],
+      "advantages": [
+        "营养丰富",
+        "天然健康"
+      ],
+      "disadvantages": [
+        "注意适量食用"
+      ],
+      "maintenance_tips": [
+        "妥善储存",
+        "注意保质期"
+      ],
+      "health_recommendations": [
+        "均衡饮食",
+        "适量摄入"
+      ],
+      "physical_properties": {},
+      "application_scenarios": [
+        "日常饮食"
+      ]
+    },
+    "source": "USDA FoodData Central API",
+    "last_updated": "2026-01-30T23:43:49.194192",
+    "version": "16.0"
+  },
+  {
+    "material_id": "a8b07e448a52cb95",
+    "category": "蔬菜类",
+    "data": {
+      "name": "BROCCOLI",
+      "category": "蔬菜类",
+      "nutrients": {
+        "protein": {
+          "value": 3.53,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 4.71,
+          "unit": "G"
+        },
+        "energy": {
+          "value": 29.0,
+          "unit": "KCAL"
+        },
+        "fiber": {
+          "value": 3.5,
+          "unit": "G"
+        },
+        "calcium": {
+          "value": 47.0,
+          "unit": "MG"
+        },
+        "iron": {
+          "value": 0.85,
+          "unit": "MG"
+        },
+        "vitamin_c": {
+          "value": 91.8,
+          "unit": "MG"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "提供营养",
+        "天然食物"
+      ],
+      "contraindications": [],
+      "incompatible_foods": [],
+      "advantages": [
+        "营养丰富",
+        "天然健康"
+      ],
+      "disadvantages": [
+        "注意适量食用"
+      ],
+      "maintenance_tips": [
+        "妥善储存",
+        "注意保质期"
+      ],
+      "health_recommendations": [
+        "均衡饮食",
+        "适量摄入"
+      ],
+      "physical_properties": {},
+      "application_scenarios": [
+        "日常饮食"
+      ]
+    },
+    "source": "USDA FoodData Central API",
+    "last_updated": "2026-01-30T23:43:49.194192",
+    "version": "16.0"
+  },
+  {
+    "material_id": "eb43b0736db00299",
+    "category": "涂料",
+    "data": {
+      "category": "涂料",
+      "material_type": "乳胶漆（内墙）",
+      "standard": "GB 18582-2020",
+      "chemical_components": [
+        {
+          "name": "丙烯酸乳液",
+          "cas": "N/A",
+          "hazard": "低"
+        },
+        {
+          "name": "钛白粉",
+          "cas": "13463-67-7",
+          "hazard": "低"
+        },
+        {
+          "name": "助剂",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "VOCs",
+          "severity": "低",
+          "description": "水性漆VOCs≤80g/L"
+        }
+      ],
+      "visual_cues": [
+        "白色/彩色液体",
+        "无刺激性气味",
+        "流动性好"
+      ],
+      "certifications": [
+        "GB 18582-2020",
+        "中国环境标志",
+        "十环认证"
+      ],
+      "advantages": [
+        "环保水性",
+        "VOCs低",
+        "无异味",
+        "色彩丰富",
+        "易施工"
+      ],
+      "disadvantages": [
+        "耐候性略低",
+        "需多遍涂刷"
+      ],
+      "maintenance_tips": [
+        "保持墙面清洁",
+        "避免尖锐物刮擦",
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择十环认证产品",
+        "施工时通风",
+        "干燥后入住"
+      ],
+      "physical_properties": {
+        "VOCs": "≤80g/L",
+        "干燥时间": "2-4小时",
+        "耐擦洗次数": "≥2000次"
+      },
+      "application_scenarios": [
+        "室内墙面",
+        "天花板",
+        "卧室客厅"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-30T23:48:06.883734",
+    "version": "16.0"
+  },
+  {
+    "material_id": "c6f7e127505404cd",
+    "category": "板材",
+    "data": {
+      "category": "板材",
+      "material_type": "细木工板（E0级）",
+      "standard": "GB/T 5849-2016",
+      "chemical_components": [
+        {
+          "name": "木材",
+          "cas": "N/A",
+          "hazard": "低"
+        },
+        {
+          "name": "脲醛树脂胶",
+          "cas": "9011-05-6",
+          "hazard": "中"
+        },
+        {
+          "name": "甲醛",
+          "cas": "50-00-0",
+          "hazard": "高"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "甲醛",
+          "severity": "低",
+          "description": "E0级甲醛释放量≤0.5mg/L"
+        }
+      ],
+      "visual_cues": [
+        "木纹清晰",
+        "表面平整",
+        "芯条可见"
+      ],
+      "certifications": [
+        "GB/T 5849-2016",
+        "E0级认证"
+      ],
+      "advantages": [
+        "握钉力强",
+        "不易变形",
+        "质轻强度高",
+        "加工方便"
+      ],
+      "disadvantages": [
+        "含胶量较大",
+        "需防潮"
+      ],
+      "maintenance_tips": [
+        "避免长期潮湿",
+        "通风干燥",
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择E0级产品",
+        "新装修通风3-6个月",
+        "使用前检测甲醛"
+      ],
+      "physical_properties": {
+        "甲醛释放量": "≤0.5mg/L",
+        "含水率": "8%-12%",
+        "静曲强度": "≥40MPa"
+      },
+      "application_scenarios": [
+        "家具制作",
+        "室内装修",
+        "隔断墙体"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-30T23:48:06.883734",
+    "version": "16.0"
+  },
+  {
+    "material_id": "c9429c6f4cfdabb4",
+    "category": "地板",
+    "data": {
+      "category": "地板",
+      "material_type": "强化复合地板",
+      "standard": "GB/T 18102-2020",
+      "chemical_components": [
+        {
+          "name": "高密度纤维板",
+          "cas": "N/A",
+          "hazard": "中"
+        },
+        {
+          "name": "三聚氰胺树脂",
+          "cas": "108-78-1",
+          "hazard": "中"
+        },
+        {
+          "name": "甲醛",
+          "cas": "50-00-0",
+          "hazard": "高"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "甲醛",
+          "severity": "中",
+          "description": "E1级甲醛释放量≤1.5mg/L"
+        }
+      ],
+      "visual_cues": [
+        "木纹装饰层",
+        "表面坚硬光滑",
+        "背面防潮层"
+      ],
+      "certifications": [
+        "GB/T 18102-2020",
+        "E1级认证"
+      ],
+      "advantages": [
+        "耐磨性强",
+        "易清洁",
+        "安装简便",
+        "价格适中"
+      ],
+      "disadvantages": [
+        "脚感偏硬",
+        "怕水怕潮",
+        "不可翻新"
+      ],
+      "maintenance_tips": [
+        "避免积水",
+        "定期清洁",
+        "避免重物拖拽"
+      ],
+      "health_recommendations": [
+        "选择E1级及以上",
+        "铺装后通风",
+        "保持室内干燥"
+      ],
+      "physical_properties": {
+        "甲醛释放量": "≤1.5mg/L",
+        "耐磨转数": "≥6000转",
+        "吸水厚度膨胀率": "≤8%"
+      },
+      "application_scenarios": [
+        "客厅",
+        "卧室",
+        "办公室"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-30T23:48:06.883734",
+    "version": "16.0"
+  },
+  {
+    "material_id": "463ec1f2b79bdd6f",
+    "category": "胶粘剂",
+    "data": {
+      "category": "胶粘剂",
+      "material_type": "水性木工胶",
+      "standard": "GB 18583-2008",
+      "chemical_components": [
+        {
+          "name": "聚乙酸乙烯酯",
+          "cas": "9003-20-7",
+          "hazard": "低"
+        },
+        {
+          "name": "水",
+          "cas": "7732-18-5",
+          "hazard": "无"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "VOCs",
+          "severity": "低",
+          "description": "水性胶VOCs含量低"
+        }
+      ],
+      "visual_cues": [
+        "白色乳液状",
+        "无刺激性气味",
+        "干后透明"
+      ],
+      "certifications": [
+        "GB 18583-2008",
+        "环保标志"
+      ],
+      "advantages": [
+        "环保无毒",
+        "粘接强度高",
+        "耐水性好",
+        "使用安全"
+      ],
+      "disadvantages": [
+        "干燥时间较长",
+        "不耐高温"
+      ],
+      "maintenance_tips": [
+        "密封保存",
+        "避免冰冻",
+        "开盖后尽快使用"
+      ],
+      "health_recommendations": [
+        "通风环境使用",
+        "避免皮肤长时间接触",
+        "儿童远离"
+      ],
+      "physical_properties": {
+        "固含量": "≥45%",
+        "粘度": "适中",
+        "干燥时间": "4-8小时"
+      },
+      "application_scenarios": [
+        "木工制作",
+        "家具维修",
+        "室内装修"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-30T23:48:06.883734",
+    "version": "16.0"
+  },
+  {
+    "material_id": "0c19859ba25d8e50",
+    "category": "吊顶材料",
+    "data": {
+      "category": "吊顶材料",
+      "material_type": "石膏板（纸面）",
+      "standard": "GB/T 9775-2008",
+      "chemical_components": [
+        {
+          "name": "建筑石膏",
+          "cas": "10101-41-4",
+          "hazard": "低"
+        },
+        {
+          "name": "护面纸",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "粉尘",
+          "severity": "低",
+          "description": "切割时产生粉尘"
+        }
+      ],
+      "visual_cues": [
+        "白色纸面",
+        "表面平整",
+        "边缘整齐"
+      ],
+      "certifications": [
+        "GB/T 9775-2008",
+        "防火A级"
+      ],
+      "advantages": [
+        "防火性能好",
+        "隔音效果佳",
+        "重量轻",
+        "施工方便"
+      ],
+      "disadvantages": [
+        "怕水怕潮",
+        "易破损",
+        "承重能力弱"
+      ],
+      "maintenance_tips": [
+        "保持干燥",
+        "避免撞击",
+        "定期检查裂缝"
+      ],
+      "health_recommendations": [
+        "安装后通风",
+        "切割时戴口罩",
+        "防潮处理"
+      ],
+      "physical_properties": {
+        "厚度": "9.5-12mm",
+        "密度": "≥0.7g/cm³",
+        "断裂荷载": "≥400N"
+      },
+      "application_scenarios": [
+        "吊顶",
+        "隔墙",
+        "装饰造型"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-30T23:48:06.883734",
+    "version": "16.0"
+  },
+  {
+    "material_id": "778f1f1783a51f37",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "纯棉布（平纹）",
+      "composition": "100% 纯棉",
+      "standard": "GB/T 5296.4-2012",
+      "chemical_treatments": [
+        {
+          "name": "漂白",
+          "hazard": "低"
+        },
+        {
+          "name": "染色",
+          "hazard": "中"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "透气吸湿",
+        "亲肤柔软",
+        "天然环保"
+      ],
+      "care_instructions": {
+        "washing": "40度以下水洗",
+        "drying": "自然晾干",
+        "ironing": "高温熨烫"
+      },
+      "certifications": [
+        "GB 18401 A类",
+        "OEKO-TEX Standard 100"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "吸湿透气",
+        "柔软舒适",
+        "耐用耐洗",
+        "不易起静电"
+      ],
+      "disadvantages": [
+        "易皱",
+        "易缩水",
+        "易褪色"
+      ],
+      "maintenance_tips": [
+        "深浅色分开洗",
+        "避免暴晒",
+        "熨烫时喷水"
+      ],
+      "health_recommendations": [
+        "婴幼儿优选",
+        "敏感肌适用",
+        "首次洗涤后使用"
+      ],
+      "physical_properties": {
+        "克重": "120-150g/m²",
+        "纱支": "40s-60s",
+        "缩水率": "≤3%"
+      },
+      "application_scenarios": [
+        "贴身衣物",
+        "床上用品",
+        "婴儿用品"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-30T23:48:06.883734",
+    "version": "16.0"
+  },
+  {
+    "material_id": "59092a5dcff13393",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "涤纶混纺布",
+      "composition": "65% 涤纶 + 35% 棉",
+      "standard": "FZ/T 14007-2011",
+      "chemical_treatments": [
+        {
+          "name": "染色",
+          "hazard": "中"
+        },
+        {
+          "name": "整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "耐用",
+        "不易皱",
+        "快干"
+      ],
+      "care_instructions": {
+        "washing": "40度机洗",
+        "drying": "可机烘低温",
+        "ironing": "中温熨烫"
+      },
+      "certifications": [
+        "GB 18401 B类",
+        "GB/T 2910"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "耐磨抗皱",
+        "挺括定型",
+        "快干易洗",
+        "价格实惠"
+      ],
+      "disadvantages": [
+        "透气性一般",
+        "易起静电",
+        "吸湿性差"
+      ],
+      "maintenance_tips": [
+        "避免高温",
+        "柔顺剂减少静电",
+        "深浅分洗"
+      ],
+      "health_recommendations": [
+        "外衣首选",
+        "运动服适用",
+        "不适合贴身穿着"
+      ],
+      "physical_properties": {
+        "克重": "180-220g/m²",
+        "断裂强力": "≥350N",
+        "透气率": "中等"
+      },
+      "application_scenarios": [
+        "工装",
+        "制服",
+        "外套"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-30T23:48:06.883734",
+    "version": "16.0"
+  },
+  {
+    "material_id": "fd8cc76b3e731acc",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "亚麻布",
+      "composition": "100% 亚麻纤维",
+      "standard": "GB/T 15551-2007",
+      "chemical_treatments": [
+        {
+          "name": "脱胶",
+          "hazard": "低"
+        },
+        {
+          "name": "漂白",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "天然抑菌",
+        "透气凉爽",
+        "吸湿排汗"
+      ],
+      "care_instructions": {
+        "washing": "30-40度水洗",
+        "drying": "自然晾干",
+        "ironing": "高温蒸汽熨烫"
+      },
+      "certifications": [
+        "GB 18401 A类",
+        "欧洲亚麻标志"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "透气性极佳",
+        "天然抑菌",
+        "吸湿散热",
+        "越洗越软"
+      ],
+      "disadvantages": [
+        "极易皱",
+        "较粗糙",
+        "价格较高"
+      ],
+      "maintenance_tips": [
+        "深色需分开洗",
+        "湿润时熨烫",
+        "避免拧干"
+      ],
+      "health_recommendations": [
+        "夏季首选",
+        "皮肤敏感适用",
+        "天然环保"
+      ],
+      "physical_properties": {
+        "克重": "200-300g/m²",
+        "吸湿率": "12%",
+        "导热性": "极好"
+      },
+      "application_scenarios": [
+        "夏季服装",
+        "家居服",
+        "床上用品"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-30T23:48:06.883734",
+    "version": "16.0"
+  },
+  {
+    "material_id": "1c2ae0b74193399c",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "竹纤维布",
+      "composition": "100% 竹浆纤维",
+      "standard": "FZ/T 54003-2011",
+      "chemical_treatments": [
+        {
+          "name": "竹浆提取",
+          "hazard": "低"
+        },
+        {
+          "name": "染色",
+          "hazard": "中"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "天然抗菌",
+        "吸湿透气",
+        "柔软舒适"
+      ],
+      "care_instructions": {
+        "washing": "40度以下机洗",
+        "drying": "阴干或低温烘干",
+        "ironing": "中温熨烫"
+      },
+      "certifications": [
+        "GB 18401 A类",
+        "抗菌认证"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "天然抗菌",
+        "柔软亲肤",
+        "吸湿性强",
+        "抗紫外线"
+      ],
+      "disadvantages": [
+        "易缩水",
+        "易起球",
+        "价格偏高"
+      ],
+      "maintenance_tips": [
+        "首次洗涤浸泡",
+        "避免暴晒",
+        "柔和洗涤"
+      ],
+      "health_recommendations": [
+        "抗菌需求者首选",
+        "婴幼儿适用",
+        "环保可降解"
+      ],
+      "physical_properties": {
+        "克重": "140-180g/m²",
+        "抗菌率": "≥90%",
+        "吸湿率": "≥14%"
+      },
+      "application_scenarios": [
+        "贴身衣物",
+        "毛巾浴巾",
+        "婴儿用品"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-30T23:48:06.883734",
+    "version": "16.0"
+  },
+  {
+    "material_id": "d8ce6d54547eaec9",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "羊毛呢绒",
+      "composition": "100% 纯羊毛",
+      "standard": "GB/T 18267-2013",
+      "chemical_treatments": [
+        {
+          "name": "防缩处理",
+          "hazard": "低"
+        },
+        {
+          "name": "染色",
+          "hazard": "中"
+        }
+      ],
+      "health_risks": [
+        {
+          "type": "过敏",
+          "severity": "低",
+          "description": "部分人对羊毛过敏"
+        }
+      ],
+      "health_benefits": [
+        "保暖性好",
+        "吸湿透气",
+        "弹性好"
+      ],
+      "care_instructions": {
+        "washing": "30度手洗或干洗",
+        "drying": "平铺阴干",
+        "ironing": "低温垫布熨烫"
+      },
+      "certifications": [
+        "GB 18401 B类",
+        "国际羊毛标志"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "保暖性极佳",
+        "弹性好不易皱",
+        "吸湿排汗",
+        "高档品质"
+      ],
+      "disadvantages": [
+        "需干洗",
+        "易虫蛀",
+        "价格较高"
+      ],
+      "maintenance_tips": [
+        "收纳前清洗",
+        "放樟脑丸防虫",
+        "避免暴晒"
+      ],
+      "health_recommendations": [
+        "冬季保暖首选",
+        "注意过敏体质",
+        "定期清洁"
+      ],
+      "physical_properties": {
+        "克重": "300-500g/m²",
+        "保暖性": "优秀",
+        "弹性回复率": "≥65%"
+      },
+      "application_scenarios": [
+        "大衣外套",
+        "西装",
+        "冬季服装"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-30T23:48:06.883734",
+    "version": "16.0"
+  }
+]

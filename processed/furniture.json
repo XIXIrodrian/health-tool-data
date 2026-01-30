@@ -2620,5 +2620,374 @@
     "source": "国家建材标准数据库",
     "last_updated": "2026-01-30T23:28:42.718317",
     "version": "14.0"
+  },
+  {
+    "material_id": "eb43b0736db00299",
+    "category": "涂料",
+    "data": {
+      "category": "涂料",
+      "material_type": "乳胶漆（内墙）",
+      "standard": "GB 18582-2020",
+      "chemical_components": [
+        {
+          "name": "丙烯酸乳液",
+          "cas": "N/A",
+          "hazard": "低"
+        },
+        {
+          "name": "钛白粉",
+          "cas": "13463-67-7",
+          "hazard": "低"
+        },
+        {
+          "name": "助剂",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "VOCs",
+          "severity": "低",
+          "description": "水性漆VOCs≤80g/L"
+        }
+      ],
+      "visual_cues": [
+        "白色/彩色液体",
+        "无刺激性气味",
+        "流动性好"
+      ],
+      "certifications": [
+        "GB 18582-2020",
+        "中国环境标志",
+        "十环认证"
+      ],
+      "advantages": [
+        "环保水性",
+        "VOCs低",
+        "无异味",
+        "色彩丰富",
+        "易施工"
+      ],
+      "disadvantages": [
+        "耐候性略低",
+        "需多遍涂刷"
+      ],
+      "maintenance_tips": [
+        "保持墙面清洁",
+        "避免尖锐物刮擦",
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择十环认证产品",
+        "施工时通风",
+        "干燥后入住"
+      ],
+      "physical_properties": {
+        "VOCs": "≤80g/L",
+        "干燥时间": "2-4小时",
+        "耐擦洗次数": "≥2000次"
+      },
+      "application_scenarios": [
+        "室内墙面",
+        "天花板",
+        "卧室客厅"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-30T23:48:06.883734",
+    "version": "16.0"
+  },
+  {
+    "material_id": "c6f7e127505404cd",
+    "category": "板材",
+    "data": {
+      "category": "板材",
+      "material_type": "细木工板（E0级）",
+      "standard": "GB/T 5849-2016",
+      "chemical_components": [
+        {
+          "name": "木材",
+          "cas": "N/A",
+          "hazard": "低"
+        },
+        {
+          "name": "脲醛树脂胶",
+          "cas": "9011-05-6",
+          "hazard": "中"
+        },
+        {
+          "name": "甲醛",
+          "cas": "50-00-0",
+          "hazard": "高"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "甲醛",
+          "severity": "低",
+          "description": "E0级甲醛释放量≤0.5mg/L"
+        }
+      ],
+      "visual_cues": [
+        "木纹清晰",
+        "表面平整",
+        "芯条可见"
+      ],
+      "certifications": [
+        "GB/T 5849-2016",
+        "E0级认证"
+      ],
+      "advantages": [
+        "握钉力强",
+        "不易变形",
+        "质轻强度高",
+        "加工方便"
+      ],
+      "disadvantages": [
+        "含胶量较大",
+        "需防潮"
+      ],
+      "maintenance_tips": [
+        "避免长期潮湿",
+        "通风干燥",
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择E0级产品",
+        "新装修通风3-6个月",
+        "使用前检测甲醛"
+      ],
+      "physical_properties": {
+        "甲醛释放量": "≤0.5mg/L",
+        "含水率": "8%-12%",
+        "静曲强度": "≥40MPa"
+      },
+      "application_scenarios": [
+        "家具制作",
+        "室内装修",
+        "隔断墙体"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-30T23:48:06.883734",
+    "version": "16.0"
+  },
+  {
+    "material_id": "c9429c6f4cfdabb4",
+    "category": "地板",
+    "data": {
+      "category": "地板",
+      "material_type": "强化复合地板",
+      "standard": "GB/T 18102-2020",
+      "chemical_components": [
+        {
+          "name": "高密度纤维板",
+          "cas": "N/A",
+          "hazard": "中"
+        },
+        {
+          "name": "三聚氰胺树脂",
+          "cas": "108-78-1",
+          "hazard": "中"
+        },
+        {
+          "name": "甲醛",
+          "cas": "50-00-0",
+          "hazard": "高"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "甲醛",
+          "severity": "中",
+          "description": "E1级甲醛释放量≤1.5mg/L"
+        }
+      ],
+      "visual_cues": [
+        "木纹装饰层",
+        "表面坚硬光滑",
+        "背面防潮层"
+      ],
+      "certifications": [
+        "GB/T 18102-2020",
+        "E1级认证"
+      ],
+      "advantages": [
+        "耐磨性强",
+        "易清洁",
+        "安装简便",
+        "价格适中"
+      ],
+      "disadvantages": [
+        "脚感偏硬",
+        "怕水怕潮",
+        "不可翻新"
+      ],
+      "maintenance_tips": [
+        "避免积水",
+        "定期清洁",
+        "避免重物拖拽"
+      ],
+      "health_recommendations": [
+        "选择E1级及以上",
+        "铺装后通风",
+        "保持室内干燥"
+      ],
+      "physical_properties": {
+        "甲醛释放量": "≤1.5mg/L",
+        "耐磨转数": "≥6000转",
+        "吸水厚度膨胀率": "≤8%"
+      },
+      "application_scenarios": [
+        "客厅",
+        "卧室",
+        "办公室"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-30T23:48:06.883734",
+    "version": "16.0"
+  },
+  {
+    "material_id": "463ec1f2b79bdd6f",
+    "category": "胶粘剂",
+    "data": {
+      "category": "胶粘剂",
+      "material_type": "水性木工胶",
+      "standard": "GB 18583-2008",
+      "chemical_components": [
+        {
+          "name": "聚乙酸乙烯酯",
+          "cas": "9003-20-7",
+          "hazard": "低"
+        },
+        {
+          "name": "水",
+          "cas": "7732-18-5",
+          "hazard": "无"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "VOCs",
+          "severity": "低",
+          "description": "水性胶VOCs含量低"
+        }
+      ],
+      "visual_cues": [
+        "白色乳液状",
+        "无刺激性气味",
+        "干后透明"
+      ],
+      "certifications": [
+        "GB 18583-2008",
+        "环保标志"
+      ],
+      "advantages": [
+        "环保无毒",
+        "粘接强度高",
+        "耐水性好",
+        "使用安全"
+      ],
+      "disadvantages": [
+        "干燥时间较长",
+        "不耐高温"
+      ],
+      "maintenance_tips": [
+        "密封保存",
+        "避免冰冻",
+        "开盖后尽快使用"
+      ],
+      "health_recommendations": [
+        "通风环境使用",
+        "避免皮肤长时间接触",
+        "儿童远离"
+      ],
+      "physical_properties": {
+        "固含量": "≥45%",
+        "粘度": "适中",
+        "干燥时间": "4-8小时"
+      },
+      "application_scenarios": [
+        "木工制作",
+        "家具维修",
+        "室内装修"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-30T23:48:06.883734",
+    "version": "16.0"
+  },
+  {
+    "material_id": "0c19859ba25d8e50",
+    "category": "吊顶材料",
+    "data": {
+      "category": "吊顶材料",
+      "material_type": "石膏板（纸面）",
+      "standard": "GB/T 9775-2008",
+      "chemical_components": [
+        {
+          "name": "建筑石膏",
+          "cas": "10101-41-4",
+          "hazard": "低"
+        },
+        {
+          "name": "护面纸",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "粉尘",
+          "severity": "低",
+          "description": "切割时产生粉尘"
+        }
+      ],
+      "visual_cues": [
+        "白色纸面",
+        "表面平整",
+        "边缘整齐"
+      ],
+      "certifications": [
+        "GB/T 9775-2008",
+        "防火A级"
+      ],
+      "advantages": [
+        "防火性能好",
+        "隔音效果佳",
+        "重量轻",
+        "施工方便"
+      ],
+      "disadvantages": [
+        "怕水怕潮",
+        "易破损",
+        "承重能力弱"
+      ],
+      "maintenance_tips": [
+        "保持干燥",
+        "避免撞击",
+        "定期检查裂缝"
+      ],
+      "health_recommendations": [
+        "安装后通风",
+        "切割时戴口罩",
+        "防潮处理"
+      ],
+      "physical_properties": {
+        "厚度": "9.5-12mm",
+        "密度": "≥0.7g/cm³",
+        "断裂荷载": "≥400N"
+      },
+      "application_scenarios": [
+        "吊顶",
+        "隔墙",
+        "装饰造型"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-30T23:48:06.883734",
+    "version": "16.0"
   }
 ]

@@ -3680,5 +3680,683 @@
     "source": "USDA FoodData Central API",
     "last_updated": "2026-01-30T23:28:42.718317",
     "version": "14.0"
+  },
+  {
+    "material_id": "9ee6f36a835265b0",
+    "category": "谷物类",
+    "data": {
+      "name": "Bread, wheat or cracked wheat",
+      "category": "谷物类",
+      "nutrients": {
+        "protein": {
+          "value": 10.67,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 47.54,
+          "unit": "G"
+        },
+        "energy": {
+          "value": 274,
+          "unit": "KCAL"
+        },
+        "fiber": {
+          "value": 4,
+          "unit": "G"
+        },
+        "calcium": {
+          "value": 125,
+          "unit": "MG"
+        },
+        "iron": {
+          "value": 3.6,
+          "unit": "MG"
+        },
+        "vitamin_c": {
+          "value": 0.2,
+          "unit": "MG"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "提供营养",
+        "天然食物"
+      ],
+      "contraindications": [],
+      "incompatible_foods": [],
+      "advantages": [
+        "营养丰富",
+        "天然健康"
+      ],
+      "disadvantages": [
+        "注意适量食用"
+      ],
+      "maintenance_tips": [
+        "妥善储存",
+        "注意保质期"
+      ],
+      "health_recommendations": [
+        "均衡饮食",
+        "适量摄入"
+      ],
+      "physical_properties": {},
+      "application_scenarios": [
+        "日常饮食"
+      ]
+    },
+    "source": "USDA FoodData Central API",
+    "last_updated": "2026-01-30T23:43:38.915631",
+    "version": "16.0"
+  },
+  {
+    "material_id": "f6ecb36c93dc30c6",
+    "category": "谷物类",
+    "data": {
+      "name": "Roll, wheat or cracked wheat",
+      "category": "谷物类",
+      "nutrients": {
+        "protein": {
+          "value": 8.6,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 46,
+          "unit": "G"
+        },
+        "energy": {
+          "value": 273,
+          "unit": "KCAL"
+        },
+        "fiber": {
+          "value": 3.8,
+          "unit": "G"
+        },
+        "calcium": {
+          "value": 176,
+          "unit": "MG"
+        },
+        "iron": {
+          "value": 3.55,
+          "unit": "MG"
+        },
+        "vitamin_c": {
+          "value": 0,
+          "unit": "MG"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "提供营养",
+        "天然食物"
+      ],
+      "contraindications": [],
+      "incompatible_foods": [],
+      "advantages": [
+        "营养丰富",
+        "天然健康"
+      ],
+      "disadvantages": [
+        "注意适量食用"
+      ],
+      "maintenance_tips": [
+        "妥善储存",
+        "注意保质期"
+      ],
+      "health_recommendations": [
+        "均衡饮食",
+        "适量摄入"
+      ],
+      "physical_properties": {},
+      "application_scenarios": [
+        "日常饮食"
+      ]
+    },
+    "source": "USDA FoodData Central API",
+    "last_updated": "2026-01-30T23:43:38.915631",
+    "version": "16.0"
+  },
+  {
+    "material_id": "7b3bd1aad855ef5e",
+    "category": "谷物类",
+    "data": {
+      "name": "OATS",
+      "category": "谷物类",
+      "nutrients": {
+        "protein": {
+          "value": 12.5,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 67.5,
+          "unit": "G"
+        },
+        "energy": {
+          "value": 375,
+          "unit": "KCAL"
+        },
+        "fiber": {
+          "value": 5.0,
+          "unit": "G"
+        },
+        "calcium": {
+          "value": 0.0,
+          "unit": "MG"
+        },
+        "iron": {
+          "value": 4.5,
+          "unit": "MG"
+        },
+        "vitamin_c": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "提供营养",
+        "天然食物"
+      ],
+      "contraindications": [],
+      "incompatible_foods": [],
+      "advantages": [
+        "营养丰富",
+        "天然健康"
+      ],
+      "disadvantages": [
+        "注意适量食用"
+      ],
+      "maintenance_tips": [
+        "妥善储存",
+        "注意保质期"
+      ],
+      "health_recommendations": [
+        "均衡饮食",
+        "适量摄入"
+      ],
+      "physical_properties": {},
+      "application_scenarios": [
+        "日常饮食"
+      ]
+    },
+    "source": "USDA FoodData Central API",
+    "last_updated": "2026-01-30T23:43:41.612299",
+    "version": "16.0"
+  },
+  {
+    "material_id": "7b3bd1aad855ef5e",
+    "category": "谷物类",
+    "data": {
+      "name": "OATS",
+      "category": "谷物类",
+      "nutrients": {
+        "protein": {
+          "value": 12.5,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 67.5,
+          "unit": "G"
+        },
+        "energy": {
+          "value": 375,
+          "unit": "KCAL"
+        },
+        "fiber": {
+          "value": 5.0,
+          "unit": "G"
+        },
+        "calcium": {
+          "value": 0.0,
+          "unit": "MG"
+        },
+        "iron": {
+          "value": 4.5,
+          "unit": "MG"
+        },
+        "vitamin_c": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "提供营养",
+        "天然食物"
+      ],
+      "contraindications": [],
+      "incompatible_foods": [],
+      "advantages": [
+        "营养丰富",
+        "天然健康"
+      ],
+      "disadvantages": [
+        "注意适量食用"
+      ],
+      "maintenance_tips": [
+        "妥善储存",
+        "注意保质期"
+      ],
+      "health_recommendations": [
+        "均衡饮食",
+        "适量摄入"
+      ],
+      "physical_properties": {},
+      "application_scenarios": [
+        "日常饮食"
+      ]
+    },
+    "source": "USDA FoodData Central API",
+    "last_updated": "2026-01-30T23:43:41.612299",
+    "version": "16.0"
+  },
+  {
+    "material_id": "9ec2d18bb45a85fc",
+    "category": "谷物类",
+    "data": {
+      "name": "Barley",
+      "category": "谷物类",
+      "nutrients": {
+        "protein": {
+          "value": 2.2,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 27.23,
+          "unit": "G"
+        },
+        "energy": {
+          "value": 139,
+          "unit": "KCAL"
+        },
+        "fiber": {
+          "value": 3.7,
+          "unit": "G"
+        },
+        "calcium": {
+          "value": 11,
+          "unit": "MG"
+        },
+        "iron": {
+          "value": 1.28,
+          "unit": "MG"
+        },
+        "vitamin_c": {
+          "value": 0,
+          "unit": "MG"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "提供营养",
+        "天然食物"
+      ],
+      "contraindications": [],
+      "incompatible_foods": [],
+      "advantages": [
+        "营养丰富",
+        "天然健康"
+      ],
+      "disadvantages": [
+        "注意适量食用"
+      ],
+      "maintenance_tips": [
+        "妥善储存",
+        "注意保质期"
+      ],
+      "health_recommendations": [
+        "均衡饮食",
+        "适量摄入"
+      ],
+      "physical_properties": {},
+      "application_scenarios": [
+        "日常饮食"
+      ]
+    },
+    "source": "USDA FoodData Central API",
+    "last_updated": "2026-01-30T23:43:44.164259",
+    "version": "16.0"
+  },
+  {
+    "material_id": "4a0e86cca6388406",
+    "category": "谷物类",
+    "data": {
+      "name": "BARLEY",
+      "category": "谷物类",
+      "nutrients": {
+        "protein": {
+          "value": 1.77,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 23.9,
+          "unit": "G"
+        },
+        "energy": {
+          "value": 106,
+          "unit": "KCAL"
+        },
+        "fiber": {
+          "value": 0.9,
+          "unit": "G"
+        },
+        "calcium": {
+          "value": 0.0,
+          "unit": "MG"
+        },
+        "iron": {
+          "value": 0.0,
+          "unit": "MG"
+        },
+        "vitamin_c": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "提供营养",
+        "天然食物"
+      ],
+      "contraindications": [],
+      "incompatible_foods": [],
+      "advantages": [
+        "营养丰富",
+        "天然健康"
+      ],
+      "disadvantages": [
+        "注意适量食用"
+      ],
+      "maintenance_tips": [
+        "妥善储存",
+        "注意保质期"
+      ],
+      "health_recommendations": [
+        "均衡饮食",
+        "适量摄入"
+      ],
+      "physical_properties": {},
+      "application_scenarios": [
+        "日常饮食"
+      ]
+    },
+    "source": "USDA FoodData Central API",
+    "last_updated": "2026-01-30T23:43:44.164259",
+    "version": "16.0"
+  },
+  {
+    "material_id": "3bb1be91d4d57413",
+    "category": "谷物类",
+    "data": {
+      "name": "CORN",
+      "category": "谷物类",
+      "nutrients": {
+        "protein": {
+          "value": 0.8,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 12.8,
+          "unit": "G"
+        },
+        "energy": {
+          "value": 56.0,
+          "unit": "KCAL"
+        },
+        "fiber": {
+          "value": 0.8,
+          "unit": "G"
+        },
+        "calcium": {
+          "value": 3.0,
+          "unit": "MG"
+        },
+        "iron": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "提供营养",
+        "天然食物"
+      ],
+      "contraindications": [],
+      "incompatible_foods": [],
+      "advantages": [
+        "营养丰富",
+        "天然健康"
+      ],
+      "disadvantages": [
+        "注意适量食用"
+      ],
+      "maintenance_tips": [
+        "妥善储存",
+        "注意保质期"
+      ],
+      "health_recommendations": [
+        "均衡饮食",
+        "适量摄入"
+      ],
+      "physical_properties": {},
+      "application_scenarios": [
+        "日常饮食"
+      ]
+    },
+    "source": "USDA FoodData Central API",
+    "last_updated": "2026-01-30T23:43:46.677262",
+    "version": "16.0"
+  },
+  {
+    "material_id": "3bb1be91d4d57413",
+    "category": "谷物类",
+    "data": {
+      "name": "CORN",
+      "category": "谷物类",
+      "nutrients": {
+        "protein": {
+          "value": 2.67,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 21.3,
+          "unit": "G"
+        },
+        "energy": {
+          "value": 93.0,
+          "unit": "KCAL"
+        },
+        "fiber": {
+          "value": 2.7,
+          "unit": "G"
+        },
+        "calcium": {
+          "value": 4.0,
+          "unit": "MG"
+        },
+        "iron": {
+          "value": 0.0,
+          "unit": "MG"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "提供营养",
+        "天然食物"
+      ],
+      "contraindications": [],
+      "incompatible_foods": [],
+      "advantages": [
+        "营养丰富",
+        "天然健康"
+      ],
+      "disadvantages": [
+        "注意适量食用"
+      ],
+      "maintenance_tips": [
+        "妥善储存",
+        "注意保质期"
+      ],
+      "health_recommendations": [
+        "均衡饮食",
+        "适量摄入"
+      ],
+      "physical_properties": {},
+      "application_scenarios": [
+        "日常饮食"
+      ]
+    },
+    "source": "USDA FoodData Central API",
+    "last_updated": "2026-01-30T23:43:46.677785",
+    "version": "16.0"
+  },
+  {
+    "material_id": "a8b07e448a52cb95",
+    "category": "蔬菜类",
+    "data": {
+      "name": "BROCCOLI",
+      "category": "蔬菜类",
+      "nutrients": {
+        "protein": {
+          "value": 2.35,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 4.71,
+          "unit": "G"
+        },
+        "energy": {
+          "value": 24.0,
+          "unit": "KCAL"
+        },
+        "fiber": {
+          "value": 3.5,
+          "unit": "G"
+        },
+        "calcium": {
+          "value": 59.0,
+          "unit": "MG"
+        },
+        "iron": {
+          "value": 0.82,
+          "unit": "MG"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "提供营养",
+        "天然食物"
+      ],
+      "contraindications": [],
+      "incompatible_foods": [],
+      "advantages": [
+        "营养丰富",
+        "天然健康"
+      ],
+      "disadvantages": [
+        "注意适量食用"
+      ],
+      "maintenance_tips": [
+        "妥善储存",
+        "注意保质期"
+      ],
+      "health_recommendations": [
+        "均衡饮食",
+        "适量摄入"
+      ],
+      "physical_properties": {},
+      "application_scenarios": [
+        "日常饮食"
+      ]
+    },
+    "source": "USDA FoodData Central API",
+    "last_updated": "2026-01-30T23:43:49.194192",
+    "version": "16.0"
+  },
+  {
+    "material_id": "a8b07e448a52cb95",
+    "category": "蔬菜类",
+    "data": {
+      "name": "BROCCOLI",
+      "category": "蔬菜类",
+      "nutrients": {
+        "protein": {
+          "value": 3.53,
+          "unit": "G"
+        },
+        "carbohydrate": {
+          "value": 4.71,
+          "unit": "G"
+        },
+        "energy": {
+          "value": 29.0,
+          "unit": "KCAL"
+        },
+        "fiber": {
+          "value": 3.5,
+          "unit": "G"
+        },
+        "calcium": {
+          "value": 47.0,
+          "unit": "MG"
+        },
+        "iron": {
+          "value": 0.85,
+          "unit": "MG"
+        },
+        "vitamin_c": {
+          "value": 91.8,
+          "unit": "MG"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "提供营养",
+        "天然食物"
+      ],
+      "contraindications": [],
+      "incompatible_foods": [],
+      "advantages": [
+        "营养丰富",
+        "天然健康"
+      ],
+      "disadvantages": [
+        "注意适量食用"
+      ],
+      "maintenance_tips": [
+        "妥善储存",
+        "注意保质期"
+      ],
+      "health_recommendations": [
+        "均衡饮食",
+        "适量摄入"
+      ],
+      "physical_properties": {},
+      "application_scenarios": [
+        "日常饮食"
+      ]
+    },
+    "source": "USDA FoodData Central API",
+    "last_updated": "2026-01-30T23:43:49.194192",
+    "version": "16.0"
   }
 ]
