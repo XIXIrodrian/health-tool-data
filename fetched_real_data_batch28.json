@@ -1,0 +1,477 @@
+[
+  {
+    "material_id": "184449a9de8289cc",
+    "category": "智能",
+    "data": {
+      "category": "智能",
+      "material_type": "智能门锁",
+      "standard": "GA 374-2019",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GA 374-2019"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GA 374-2019"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:14:55.143876",
+    "version": "28.0"
+  },
+  {
+    "material_id": "1443d46518f01ce0",
+    "category": "智能",
+    "data": {
+      "category": "智能",
+      "material_type": "智能开关",
+      "standard": "GB/T 35770-2017",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 35770-2017"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 35770-2017"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:14:55.143876",
+    "version": "28.0"
+  },
+  {
+    "material_id": "625322fe9155758d",
+    "category": "智能",
+    "data": {
+      "category": "智能",
+      "material_type": "智能插座",
+      "standard": "GB 2099.1-2021",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB 2099.1-2021"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB 2099.1-2021"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:14:55.143876",
+    "version": "28.0"
+  },
+  {
+    "material_id": "288a8f868e407924",
+    "category": "智能",
+    "data": {
+      "category": "智能",
+      "material_type": "智能窗帘",
+      "standard": "GB/T 21561-2018",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 21561-2018"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 21561-2018"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:14:55.143876",
+    "version": "28.0"
+  },
+  {
+    "material_id": "7908f057bcdadd80",
+    "category": "智能",
+    "data": {
+      "category": "智能",
+      "material_type": "智能音箱",
+      "standard": "GB/T 37971-2019",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 37971-2019"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 37971-2019"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:14:55.143876",
+    "version": "28.0"
+  },
+  {
+    "material_id": "57481d599ca5a3cd",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "智能服饰",
+      "composition": "发热内衣",
+      "standard": "FZ/T 73022-2019",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 73022-2019",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 73022-2019"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:14:55.143876",
+    "version": "28.0"
+  },
+  {
+    "material_id": "57481d599ca5a3cd",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "智能服饰",
+      "composition": "按摩垫",
+      "standard": "GB/T 22843-2009",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "GB/T 22843-2009",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 22843-2009"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:14:55.143876",
+    "version": "28.0"
+  },
+  {
+    "material_id": "e9b3cda3b988c20f",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "智能手环",
+      "composition": "硅胶",
+      "standard": "GB/T 34370-2017",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "GB/T 34370-2017",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 34370-2017"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:14:55.143876",
+    "version": "28.0"
+  },
+  {
+    "material_id": "59de7c47c9714909",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "护具",
+      "composition": "护膝",
+      "standard": "FZ/T 64012-2011",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 64012-2011",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 64012-2011"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:14:55.143876",
+    "version": "28.0"
+  },
+  {
+    "material_id": "59de7c47c9714909",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "护具",
+      "composition": "护腰",
+      "standard": "GB/T 16759-2008",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "GB/T 16759-2008",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 16759-2008"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:14:55.143876",
+    "version": "28.0"
+  }
+]

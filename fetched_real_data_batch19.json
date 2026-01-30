@@ -1,0 +1,565 @@
+[
+  {
+    "material_id": "effa5023ba91a78f",
+    "category": "涂料",
+    "data": {
+      "category": "涂料",
+      "material_type": "外墙乳胶漆",
+      "standard": "GB/T 9755-2014",
+      "chemical_components": [
+        {
+          "name": "丙烯酸乳液",
+          "cas": "N/A",
+          "hazard": "低"
+        },
+        {
+          "name": "钛白粉",
+          "cas": "13463-67-7",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "VOCs",
+          "severity": "低",
+          "description": "VOCs≤200g/L"
+        }
+      ],
+      "visual_cues": [
+        "乳白色液体",
+        "无刺激性气味"
+      ],
+      "certifications": [
+        "GB/T 9755-2014"
+      ],
+      "advantages": [
+        "耐候性好",
+        "防水防霉",
+        "色彩丰富"
+      ],
+      "disadvantages": [
+        "需多遍涂刷"
+      ],
+      "maintenance_tips": [
+        "定期清洗",
+        "检查开裂"
+      ],
+      "health_recommendations": [
+        "通风施工"
+      ],
+      "physical_properties": {
+        "VOCs": "≤200g/L",
+        "耐候性": "优"
+      },
+      "application_scenarios": [
+        "外墙",
+        "阳台"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:05:43.363310",
+    "version": "19.0"
+  },
+  {
+    "material_id": "04bf115b4b7d36e2",
+    "category": "涂料",
+    "data": {
+      "category": "涂料",
+      "material_type": "木器漆",
+      "standard": "GB 18581-2020",
+      "chemical_components": [
+        {
+          "name": "聚氨酯树脂",
+          "cas": "N/A",
+          "hazard": "中"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "VOCs",
+          "severity": "中",
+          "description": "需通风"
+        }
+      ],
+      "visual_cues": [
+        "透明或半透明",
+        "光泽度高"
+      ],
+      "certifications": [
+        "GB 18581-2020"
+      ],
+      "advantages": [
+        "保护木材",
+        "增强光泽",
+        "耐磨"
+      ],
+      "disadvantages": [
+        "气味较重"
+      ],
+      "maintenance_tips": [
+        "避免暴晒"
+      ],
+      "health_recommendations": [
+        "充分通风",
+        "干燥后入住"
+      ],
+      "physical_properties": {
+        "光泽度": "60°≥80",
+        "硬度": "≥0.5"
+      },
+      "application_scenarios": [
+        "家具",
+        "木地板"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:05:43.363310",
+    "version": "19.0"
+  },
+  {
+    "material_id": "08312e21f27db982",
+    "category": "电线电缆",
+    "data": {
+      "category": "电线电缆",
+      "material_type": "BV铜芯电线",
+      "standard": "GB/T 5023-2008",
+      "chemical_components": [
+        {
+          "name": "铜",
+          "cas": "7440-50-8",
+          "hazard": "无"
+        },
+        {
+          "name": "PVC绝缘",
+          "cas": "9002-86-2",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "过载发热",
+          "severity": "高",
+          "description": "超负荷使用危险"
+        }
+      ],
+      "visual_cues": [
+        "铜色金属",
+        "PVC外皮"
+      ],
+      "certifications": [
+        "GB/T 5023-2008",
+        "3C认证"
+      ],
+      "advantages": [
+        "导电性好",
+        "耐用",
+        "安全可靠"
+      ],
+      "disadvantages": [
+        "价格较高"
+      ],
+      "maintenance_tips": [
+        "避免过载",
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "专业安装",
+        "选择3C认证"
+      ],
+      "physical_properties": {
+        "导电率": "≥58%",
+        "绝缘厚度": "≥0.8mm"
+      },
+      "application_scenarios": [
+        "室内布线",
+        "家用电路"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:05:43.363310",
+    "version": "19.0"
+  },
+  {
+    "material_id": "7f857ec2a7c1b637",
+    "category": "电线电缆",
+    "data": {
+      "category": "电线电缆",
+      "material_type": "网线（超五类）",
+      "standard": "GB/T 50312-2016",
+      "chemical_components": [
+        {
+          "name": "铜芯",
+          "cas": "7440-50-8",
+          "hazard": "无"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "八芯双绞线",
+        "外皮标注CAT5e"
+      ],
+      "certifications": [
+        "GB/T 50312-2016"
+      ],
+      "advantages": [
+        "传输稳定",
+        "抗干扰",
+        "性价比高"
+      ],
+      "disadvantages": [
+        "最高百兆"
+      ],
+      "maintenance_tips": [
+        "避免折弯",
+        "防潮"
+      ],
+      "health_recommendations": [
+        "环保无毒"
+      ],
+      "physical_properties": {
+        "传输速率": "100Mbps",
+        "传输距离": "≤100m"
+      },
+      "application_scenarios": [
+        "家庭网络",
+        "监控"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:05:43.363310",
+    "version": "19.0"
+  },
+  {
+    "material_id": "07332e8dc72a5171",
+    "category": "照明灯具",
+    "data": {
+      "category": "照明灯具",
+      "material_type": "LED吸顶灯",
+      "standard": "GB 7000.1-2015",
+      "chemical_components": [
+        {
+          "name": "LED芯片",
+          "cas": "N/A",
+          "hazard": "无"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "圆形或方形",
+        "亚克力灯罩"
+      ],
+      "certifications": [
+        "GB 7000.1-2015",
+        "3C认证"
+      ],
+      "advantages": [
+        "节能省电",
+        "寿命长",
+        "光线柔和"
+      ],
+      "disadvantages": [
+        "初期投入高"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免频繁开关"
+      ],
+      "health_recommendations": [
+        "选择无频闪",
+        "色温3000-5000K"
+      ],
+      "physical_properties": {
+        "功率": "20-60W",
+        "寿命": "≥25000h"
+      },
+      "application_scenarios": [
+        "客厅",
+        "卧室"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:05:43.363310",
+    "version": "19.0"
+  },
+  {
+    "material_id": "3e1c6aa690e09fa7",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "60支长绒棉四件套",
+      "composition": "100% 埃及长绒棉",
+      "standard": "GB/T 22844-2009",
+      "chemical_treatments": [
+        {
+          "name": "丝光处理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "超柔软",
+        "高支高密",
+        "透气吸汗"
+      ],
+      "care_instructions": {
+        "washing": "40度机洗",
+        "drying": "阴干",
+        "ironing": "中温"
+      },
+      "certifications": [
+        "GB 18401 A类",
+        "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "丝滑柔软",
+        "高档品质",
+        "耐用不起球"
+      ],
+      "disadvantages": [
+        "价格昂贵",
+        "易皱"
+      ],
+      "maintenance_tips": [
+        "深浅分洗",
+        "避免暴晒"
+      ],
+      "health_recommendations": [
+        "亲肤舒适",
+        "敏感肌适用"
+      ],
+      "physical_properties": {
+        "纱支": "60s",
+        "密度": "300根/英寸"
+      },
+      "application_scenarios": [
+        "高档床品",
+        "礼品"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:05:43.363310",
+    "version": "19.0"
+  },
+  {
+    "material_id": "b565d9d95a53417e",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "蚕丝被填充物",
+      "composition": "100% 桑蚕丝",
+      "standard": "GB/T 24252-2009",
+      "chemical_treatments": [],
+      "health_risks": [],
+      "health_benefits": [
+        "天然蛋白纤维",
+        "轻盈保暖",
+        "透气排湿"
+      ],
+      "care_instructions": {
+        "washing": "不可水洗",
+        "drying": "晾晒",
+        "storage": "通风干燥"
+      },
+      "certifications": [
+        "GB/T 24252-2009",
+        "优等品"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "贴身舒适",
+        "冬暖夏凉",
+        "不易滋生细菌"
+      ],
+      "disadvantages": [
+        "价格昂贵",
+        "需专业护理"
+      ],
+      "maintenance_tips": [
+        "定期晾晒",
+        "避免重压",
+        "防潮防虫"
+      ],
+      "health_recommendations": [
+        "过敏原少",
+        "适合敏感肌"
+      ],
+      "physical_properties": {
+        "含丝量": "≥50%",
+        "蓬松度": "优"
+      },
+      "application_scenarios": [
+        "春秋被",
+        "夏凉被"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:05:43.363310",
+    "version": "19.0"
+  },
+  {
+    "material_id": "ff8a58aef85b7835",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "珊瑚绒毯",
+      "composition": "100% 聚酯纤维",
+      "standard": "FZ/T 62011-2009",
+      "chemical_treatments": [
+        {
+          "name": "柔软整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "柔软保暖",
+        "不掉毛"
+      ],
+      "care_instructions": {
+        "washing": "30度机洗",
+        "drying": "低温烘干",
+        "ironing": "不可熨烫"
+      },
+      "certifications": [
+        "GB 18401 B类"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "超柔软",
+        "保暖性好",
+        "易打理",
+        "价格实惠"
+      ],
+      "disadvantages": [
+        "易产生静电",
+        "不透气"
+      ],
+      "maintenance_tips": [
+        "避免高温",
+        "使用柔顺剂"
+      ],
+      "health_recommendations": [
+        "冬季保暖",
+        "注意通风"
+      ],
+      "physical_properties": {
+        "克重": "300-500g/m²",
+        "绒高": "3-5mm"
+      },
+      "application_scenarios": [
+        "沙发毯",
+        "午睡毯"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:05:43.363310",
+    "version": "19.0"
+  },
+  {
+    "material_id": "d3b2d082ebc167a3",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "记忆棉枕芯",
+      "composition": "聚氨酯慢回弹海绵",
+      "standard": "GB/T 22843-2009",
+      "chemical_treatments": [],
+      "health_risks": [],
+      "health_benefits": [
+        "记忆塑形",
+        "缓解颈椎压力"
+      ],
+      "care_instructions": {
+        "washing": "不可水洗",
+        "drying": "自然通风",
+        "storage": "避免挤压"
+      },
+      "certifications": [
+        "GB/T 22843-2009"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "慢回弹",
+        "贴合颈部",
+        "支撑性好"
+      ],
+      "disadvantages": [
+        "不透气",
+        "夏季闷热"
+      ],
+      "maintenance_tips": [
+        "定期晾晒",
+        "避免暴晒",
+        "配套枕套"
+      ],
+      "health_recommendations": [
+        "颈椎保护",
+        "改善睡眠"
+      ],
+      "physical_properties": {
+        "密度": "45-80kg/m³",
+        "回弹时间": "3-5秒"
+      },
+      "application_scenarios": [
+        "助眠",
+        "颈椎护理"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:05:43.363310",
+    "version": "19.0"
+  },
+  {
+    "material_id": "b1d96597a14c06d4",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "法兰绒睡衣布",
+      "composition": "100% 聚酯纤维",
+      "standard": "FZ/T 73017-2014",
+      "chemical_treatments": [
+        {
+          "name": "拉毛整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "柔软保暖",
+        "舒适亲肤"
+      ],
+      "care_instructions": {
+        "washing": "30度机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "GB 18401 B类"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "保暖性好",
+        "手感柔软",
+        "不易起球"
+      ],
+      "disadvantages": [
+        "易产生静电"
+      ],
+      "maintenance_tips": [
+        "反面洗涤",
+        "柔顺剂"
+      ],
+      "health_recommendations": [
+        "秋冬保暖",
+        "家居服首选"
+      ],
+      "physical_properties": {
+        "克重": "180-220g/m²",
+        "绒毛长度": "2-3mm"
+      },
+      "application_scenarios": [
+        "睡衣",
+        "家居服"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:05:43.363310",
+    "version": "19.0"
+  }
+]

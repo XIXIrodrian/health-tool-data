@@ -1,0 +1,477 @@
+[
+  {
+    "material_id": "584e5e3ff5bc0633",
+    "category": "园林",
+    "data": {
+      "category": "园林",
+      "material_type": "人造草坪",
+      "standard": "GB/T 20394-2019",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 20394-2019"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 20394-2019"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:14:55.147959",
+    "version": "30.0"
+  },
+  {
+    "material_id": "86b89213b2b5eb28",
+    "category": "园林",
+    "data": {
+      "category": "园林",
+      "material_type": "仿真植物",
+      "standard": "GB/T 28200-2011",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 28200-2011"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 28200-2011"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:14:55.147959",
+    "version": "30.0"
+  },
+  {
+    "material_id": "0dc5107202d69b9e",
+    "category": "园林",
+    "data": {
+      "category": "园林",
+      "material_type": "花箱",
+      "standard": "GB/T 28202-2011",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 28202-2011"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 28202-2011"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:14:55.147959",
+    "version": "30.0"
+  },
+  {
+    "material_id": "d1aa850d3fdaf044",
+    "category": "园林",
+    "data": {
+      "category": "园林",
+      "material_type": "围栏",
+      "standard": "GB/T 28204-2011",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 28204-2011"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 28204-2011"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:14:55.147959",
+    "version": "30.0"
+  },
+  {
+    "material_id": "ff80841af728e965",
+    "category": "园林",
+    "data": {
+      "category": "园林",
+      "material_type": "凉亭",
+      "standard": "GB/T 50361-2018",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 50361-2018"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 50361-2018"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:14:55.147959",
+    "version": "30.0"
+  },
+  {
+    "material_id": "cdc9ad4fd0005978",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "遮阳伞",
+      "composition": "涤纶",
+      "standard": "FZ/T 64012-2011",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 64012-2011",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 64012-2011"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:14:55.147959",
+    "version": "30.0"
+  },
+  {
+    "material_id": "82c397bfbee39c92",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "遮阳网",
+      "composition": "聚乙烯",
+      "standard": "GB/T 20672-2006",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "GB/T 20672-2006",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 20672-2006"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:14:55.147959",
+    "version": "30.0"
+  },
+  {
+    "material_id": "ef5ab800f45c1776",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "防尘罩",
+      "composition": "无纺布",
+      "standard": "GB/T 24254-2009",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "GB/T 24254-2009",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 24254-2009"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:14:55.147959",
+    "version": "30.0"
+  },
+  {
+    "material_id": "c1196e815b4bf521",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "收纳袋",
+      "composition": "无纺布",
+      "standard": "GB/T 24254-2009",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "GB/T 24254-2009",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 24254-2009"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:14:55.147959",
+    "version": "30.0"
+  },
+  {
+    "material_id": "ec6e471281f48ee3",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "购物袋",
+      "composition": "帆布",
+      "standard": "FZ/T 24014-2010",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 24014-2010",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 24014-2010"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:14:55.147959",
+    "version": "30.0"
+  }
+]

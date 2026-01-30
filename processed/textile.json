@@ -2775,5 +2775,3286 @@
     "source": "纺织品标准数据库",
     "last_updated": "2026-01-30T23:57:45.034594",
     "version": "18.0"
+  },
+  {
+    "material_id": "3e1c6aa690e09fa7",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "60支长绒棉四件套",
+      "composition": "100% 埃及长绒棉",
+      "standard": "GB/T 22844-2009",
+      "chemical_treatments": [
+        {
+          "name": "丝光处理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "超柔软",
+        "高支高密",
+        "透气吸汗"
+      ],
+      "care_instructions": {
+        "washing": "40度机洗",
+        "drying": "阴干",
+        "ironing": "中温"
+      },
+      "certifications": [
+        "GB 18401 A类",
+        "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "丝滑柔软",
+        "高档品质",
+        "耐用不起球"
+      ],
+      "disadvantages": [
+        "价格昂贵",
+        "易皱"
+      ],
+      "maintenance_tips": [
+        "深浅分洗",
+        "避免暴晒"
+      ],
+      "health_recommendations": [
+        "亲肤舒适",
+        "敏感肌适用"
+      ],
+      "physical_properties": {
+        "纱支": "60s",
+        "密度": "300根/英寸"
+      },
+      "application_scenarios": [
+        "高档床品",
+        "礼品"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:05:43.363310",
+    "version": "19.0"
+  },
+  {
+    "material_id": "b565d9d95a53417e",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "蚕丝被填充物",
+      "composition": "100% 桑蚕丝",
+      "standard": "GB/T 24252-2009",
+      "chemical_treatments": [],
+      "health_risks": [],
+      "health_benefits": [
+        "天然蛋白纤维",
+        "轻盈保暖",
+        "透气排湿"
+      ],
+      "care_instructions": {
+        "washing": "不可水洗",
+        "drying": "晾晒",
+        "storage": "通风干燥"
+      },
+      "certifications": [
+        "GB/T 24252-2009",
+        "优等品"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "贴身舒适",
+        "冬暖夏凉",
+        "不易滋生细菌"
+      ],
+      "disadvantages": [
+        "价格昂贵",
+        "需专业护理"
+      ],
+      "maintenance_tips": [
+        "定期晾晒",
+        "避免重压",
+        "防潮防虫"
+      ],
+      "health_recommendations": [
+        "过敏原少",
+        "适合敏感肌"
+      ],
+      "physical_properties": {
+        "含丝量": "≥50%",
+        "蓬松度": "优"
+      },
+      "application_scenarios": [
+        "春秋被",
+        "夏凉被"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:05:43.363310",
+    "version": "19.0"
+  },
+  {
+    "material_id": "ff8a58aef85b7835",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "珊瑚绒毯",
+      "composition": "100% 聚酯纤维",
+      "standard": "FZ/T 62011-2009",
+      "chemical_treatments": [
+        {
+          "name": "柔软整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "柔软保暖",
+        "不掉毛"
+      ],
+      "care_instructions": {
+        "washing": "30度机洗",
+        "drying": "低温烘干",
+        "ironing": "不可熨烫"
+      },
+      "certifications": [
+        "GB 18401 B类"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "超柔软",
+        "保暖性好",
+        "易打理",
+        "价格实惠"
+      ],
+      "disadvantages": [
+        "易产生静电",
+        "不透气"
+      ],
+      "maintenance_tips": [
+        "避免高温",
+        "使用柔顺剂"
+      ],
+      "health_recommendations": [
+        "冬季保暖",
+        "注意通风"
+      ],
+      "physical_properties": {
+        "克重": "300-500g/m²",
+        "绒高": "3-5mm"
+      },
+      "application_scenarios": [
+        "沙发毯",
+        "午睡毯"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:05:43.363310",
+    "version": "19.0"
+  },
+  {
+    "material_id": "d3b2d082ebc167a3",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "记忆棉枕芯",
+      "composition": "聚氨酯慢回弹海绵",
+      "standard": "GB/T 22843-2009",
+      "chemical_treatments": [],
+      "health_risks": [],
+      "health_benefits": [
+        "记忆塑形",
+        "缓解颈椎压力"
+      ],
+      "care_instructions": {
+        "washing": "不可水洗",
+        "drying": "自然通风",
+        "storage": "避免挤压"
+      },
+      "certifications": [
+        "GB/T 22843-2009"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "慢回弹",
+        "贴合颈部",
+        "支撑性好"
+      ],
+      "disadvantages": [
+        "不透气",
+        "夏季闷热"
+      ],
+      "maintenance_tips": [
+        "定期晾晒",
+        "避免暴晒",
+        "配套枕套"
+      ],
+      "health_recommendations": [
+        "颈椎保护",
+        "改善睡眠"
+      ],
+      "physical_properties": {
+        "密度": "45-80kg/m³",
+        "回弹时间": "3-5秒"
+      },
+      "application_scenarios": [
+        "助眠",
+        "颈椎护理"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:05:43.363310",
+    "version": "19.0"
+  },
+  {
+    "material_id": "b1d96597a14c06d4",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "法兰绒睡衣布",
+      "composition": "100% 聚酯纤维",
+      "standard": "FZ/T 73017-2014",
+      "chemical_treatments": [
+        {
+          "name": "拉毛整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "柔软保暖",
+        "舒适亲肤"
+      ],
+      "care_instructions": {
+        "washing": "30度机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "GB 18401 B类"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "保暖性好",
+        "手感柔软",
+        "不易起球"
+      ],
+      "disadvantages": [
+        "易产生静电"
+      ],
+      "maintenance_tips": [
+        "反面洗涤",
+        "柔顺剂"
+      ],
+      "health_recommendations": [
+        "秋冬保暖",
+        "家居服首选"
+      ],
+      "physical_properties": {
+        "克重": "180-220g/m²",
+        "绒毛长度": "2-3mm"
+      },
+      "application_scenarios": [
+        "睡衣",
+        "家居服"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:05:43.363310",
+    "version": "19.0"
+  },
+  {
+    "material_id": "5a381883ea1fc19b",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "摇粒绒",
+      "composition": "100% 聚酯",
+      "standard": "FZ/T 73022-2019",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 73022-2019",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 73022-2019"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:07:26.602296",
+    "version": "20.0"
+  },
+  {
+    "material_id": "98881f639658d753",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "牛仔布",
+      "composition": "98%棉+2%弹力",
+      "standard": "FZ/T 81006-2017",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 81006-2017",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 81006-2017"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:07:26.602296",
+    "version": "20.0"
+  },
+  {
+    "material_id": "b277cea771acf885",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "帆布",
+      "composition": "100%棉",
+      "standard": "FZ/T 24014-2010",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 24014-2010",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 24014-2010"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:07:26.602296",
+    "version": "20.0"
+  },
+  {
+    "material_id": "8d0fbcb3030bae97",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "灯芯绒",
+      "composition": "100%棉",
+      "standard": "FZ/T 14011-2012",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 14011-2012",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 14011-2012"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:07:26.602296",
+    "version": "20.0"
+  },
+  {
+    "material_id": "e428fb36543e2fe0",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "牛津布",
+      "composition": "涤纶",
+      "standard": "FZ/T 14011-2012",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 14011-2012",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 14011-2012"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:07:26.602296",
+    "version": "20.0"
+  },
+  {
+    "material_id": "dffa76a9cf76f389",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "毛巾",
+      "composition": "纯棉",
+      "standard": "GB/T 22864-2020",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "GB/T 22864-2020",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 22864-2020"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:07:26.603293",
+    "version": "21.0"
+  },
+  {
+    "material_id": "703be79db101e508",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "浴巾",
+      "composition": "纯棉",
+      "standard": "GB/T 22864-2020",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "GB/T 22864-2020",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 22864-2020"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:07:26.603293",
+    "version": "21.0"
+  },
+  {
+    "material_id": "d2a63bba335c90c1",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "浴袍",
+      "composition": "珊瑚绒",
+      "standard": "FZ/T 62014-2015",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 62014-2015",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 62014-2015"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:07:26.603293",
+    "version": "21.0"
+  },
+  {
+    "material_id": "39a9ae7acb01b4c0",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "地垫",
+      "composition": "超细纤维",
+      "standard": "GB/T 22799-2019",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "GB/T 22799-2019",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 22799-2019"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:07:26.603293",
+    "version": "21.0"
+  },
+  {
+    "material_id": "0a5b7e5c3fa8b34a",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "浴帘",
+      "composition": "涤纶",
+      "standard": "GB 18401",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "GB 18401",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "GB 18401"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:07:26.603293",
+    "version": "21.0"
+  },
+  {
+    "material_id": "ee8462b0a5db567b",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "��裙",
+      "composition": "涤棉",
+      "standard": "FZ/T 62011-2009",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 62011-2009",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 62011-2009"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:07:26.604794",
+    "version": "22.0"
+  },
+  {
+    "material_id": "787418e040253e92",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "隔热手套",
+      "composition": "硅胶",
+      "standard": "GB 4806.11-2016",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "GB 4806.11-2016",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "GB 4806.11-2016"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:07:26.604794",
+    "version": "22.0"
+  },
+  {
+    "material_id": "f8243496c512deb7",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "抹布",
+      "composition": "超细纤维",
+      "standard": "GB/T 22799-2019",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "GB/T 22799-2019",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 22799-2019"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:07:26.604794",
+    "version": "22.0"
+  },
+  {
+    "material_id": "c9363ce233fb0fb2",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "桌布",
+      "composition": "PVC",
+      "standard": "GB 9685-2016",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "GB 9685-2016",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "GB 9685-2016"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:07:26.604794",
+    "version": "22.0"
+  },
+  {
+    "material_id": "54fe7d11d50189ca",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "坐垫",
+      "composition": "海绵",
+      "standard": "GB/T 22843-2009",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "GB/T 22843-2009",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 22843-2009"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:07:26.604794",
+    "version": "22.0"
+  },
+  {
+    "material_id": "bcd0496a61d37531",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "遮光窗帘",
+      "composition": "涤纶遮光",
+      "standard": "FZ/T 61012-2021",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 61012-2021",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 61012-2021"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:07:26.606188",
+    "version": "23.0"
+  },
+  {
+    "material_id": "d207cecf6524f4c8",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "纱帘",
+      "composition": "涤纶",
+      "standard": "FZ/T 61012-2021",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 61012-2021",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 61012-2021"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:07:26.606188",
+    "version": "23.0"
+  },
+  {
+    "material_id": "f3c6acb3298b0430",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "竹帘",
+      "composition": "天然竹材",
+      "standard": "GB/T 28200-2011",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "GB/T 28200-2011",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 28200-2011"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:07:26.606188",
+    "version": "23.0"
+  },
+  {
+    "material_id": "bf8aa461d5d8f86d",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "百叶帘",
+      "composition": "铝合金",
+      "standard": "GB/T 5237-2017",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "GB/T 5237-2017",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 5237-2017"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:07:26.606188",
+    "version": "23.0"
+  },
+  {
+    "material_id": "cf5646ca42282600",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "罗马帘",
+      "composition": "涤棉",
+      "standard": "FZ/T 61012-2021",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 61012-2021",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 61012-2021"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:07:26.606188",
+    "version": "23.0"
+  },
+  {
+    "material_id": "6f58eb5361e57efa",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "保暖内衣",
+      "composition": "德绒",
+      "standard": "FZ/T 73022-2019",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 73022-2019",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 73022-2019"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:07:26.608087",
+    "version": "24.0"
+  },
+  {
+    "material_id": "5f81f3ae58168004",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "秋衣秋裤",
+      "composition": "莫代尔",
+      "standard": "FZ/T 52013-2014",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 52013-2014",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 52013-2014"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:07:26.608087",
+    "version": "24.0"
+  },
+  {
+    "material_id": "27d03b96b26872f1",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "加绒裤",
+      "composition": "金丝绒",
+      "standard": "FZ/T 73020-2019",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 73020-2019",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 73020-2019"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:07:26.608087",
+    "version": "24.0"
+  },
+  {
+    "material_id": "261b5e612ded7446",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "保暖袜",
+      "composition": "羊毛混纺",
+      "standard": "FZ/T 73001-2016",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 73001-2016",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 73001-2016"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:07:26.608087",
+    "version": "24.0"
+  },
+  {
+    "material_id": "aebc7d1de4933e99",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "打底裤",
+      "composition": "氨纶",
+      "standard": "FZ/T 13014-2015",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 13014-2015",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 13014-2015"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:07:26.608087",
+    "version": "24.0"
+  },
+  {
+    "material_id": "c83213b6180012bf",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "窗纱",
+      "composition": "涤纶",
+      "standard": "FZ/T 61012-2021",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 61012-2021",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 61012-2021"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:07:26.609533",
+    "version": "25.0"
+  },
+  {
+    "material_id": "05799afd2b5ee843",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "桌旗",
+      "composition": "棉麻",
+      "standard": "FZ/T 62011-2009",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 62011-2009",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 62011-2009"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:07:26.609533",
+    "version": "25.0"
+  },
+  {
+    "material_id": "f0defb63c48ca139",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "沙发套",
+      "composition": "弹力布",
+      "standard": "FZ/T 62014-2015",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 62014-2015",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 62014-2015"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:07:26.609533",
+    "version": "25.0"
+  },
+  {
+    "material_id": "da972f084b6d3104",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "靠垫",
+      "composition": "棉麻",
+      "standard": "GB/T 22843-2009",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "GB/T 22843-2009",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 22843-2009"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:07:26.609533",
+    "version": "25.0"
+  },
+  {
+    "material_id": "794d463b6fda836a",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "地毯",
+      "composition": "羊毛",
+      "standard": "GB/T 17748-2016",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "GB/T 17748-2016",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 17748-2016"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:07:26.609533",
+    "version": "25.0"
+  },
+  {
+    "material_id": "3abdaab99312de12",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "冲锋衣",
+      "composition": "复合面料",
+      "standard": "FZ/T 81008-2019",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 81008-2019",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 81008-2019"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:07:26.612307",
+    "version": "26.0"
+  },
+  {
+    "material_id": "4cd62bef11b719e4",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "速干裤",
+      "composition": "尼龙",
+      "standard": "FZ/T 73023-2021",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 73023-2021",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 73023-2021"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:07:26.612307",
+    "version": "26.0"
+  },
+  {
+    "material_id": "6efc908be6e1e1cf",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "登山服",
+      "composition": "防风布",
+      "standard": "FZ/T 73046-2013",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 73046-2013",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 73046-2013"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:07:26.612307",
+    "version": "26.0"
+  },
+  {
+    "material_id": "b7d8ff9c983ce79c",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "帐篷布",
+      "composition": "涤纶防水",
+      "standard": "FZ/T 64012-2011",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 64012-2011",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 64012-2011"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:07:26.612307",
+    "version": "26.0"
+  },
+  {
+    "material_id": "3dc4c97aefed1b7a",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "背包",
+      "composition": "尼龙",
+      "standard": "QB/T 1333-2018",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "QB/T 1333-2018",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "QB/T 1333-2018"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:07:26.612307",
+    "version": "26.0"
+  },
+  {
+    "material_id": "f39f92e4e75876ba",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "保暖围巾",
+      "composition": "羊绒",
+      "standard": "FZ/T 24014-2010",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 24014-2010",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 24014-2010"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:14:55.142827",
+    "version": "27.0"
+  },
+  {
+    "material_id": "92b944c2f1899113",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "保暖手套",
+      "composition": "羊毛",
+      "standard": "FZ/T 73001-2016",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 73001-2016",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 73001-2016"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:14:55.142827",
+    "version": "27.0"
+  },
+  {
+    "material_id": "f4b0519938821681",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "保暖帽",
+      "composition": "针织",
+      "standard": "FZ/T 73018-2012",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 73018-2012",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 73018-2012"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:14:55.142827",
+    "version": "27.0"
+  },
+  {
+    "material_id": "8635922e3d237ef8",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "保暖马甲",
+      "composition": "羽绒",
+      "standard": "GB/T 14272-2021",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "GB/T 14272-2021",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 14272-2021"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:14:55.142827",
+    "version": "27.0"
+  },
+  {
+    "material_id": "1804ed630d52e85d",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "暖宝宝",
+      "composition": "无纺布",
+      "standard": "GB/T 24254-2009",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "GB/T 24254-2009",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 24254-2009"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:14:55.142827",
+    "version": "27.0"
+  },
+  {
+    "material_id": "57481d599ca5a3cd",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "智能服饰",
+      "composition": "发热内衣",
+      "standard": "FZ/T 73022-2019",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 73022-2019",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 73022-2019"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:14:55.143876",
+    "version": "28.0"
+  },
+  {
+    "material_id": "57481d599ca5a3cd",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "智能服饰",
+      "composition": "按摩垫",
+      "standard": "GB/T 22843-2009",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "GB/T 22843-2009",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 22843-2009"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:14:55.143876",
+    "version": "28.0"
+  },
+  {
+    "material_id": "e9b3cda3b988c20f",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "智能手环",
+      "composition": "硅胶",
+      "standard": "GB/T 34370-2017",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "GB/T 34370-2017",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 34370-2017"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:14:55.143876",
+    "version": "28.0"
+  },
+  {
+    "material_id": "59de7c47c9714909",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "护具",
+      "composition": "护膝",
+      "standard": "FZ/T 64012-2011",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 64012-2011",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 64012-2011"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:14:55.143876",
+    "version": "28.0"
+  },
+  {
+    "material_id": "59de7c47c9714909",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "护具",
+      "composition": "护腰",
+      "standard": "GB/T 16759-2008",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "GB/T 16759-2008",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 16759-2008"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:14:55.143876",
+    "version": "28.0"
+  },
+  {
+    "material_id": "a9a6725261d534dd",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "婴儿服",
+      "composition": "纯棉",
+      "standard": "GB 31701-2015",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "GB 31701-2015",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "GB 31701-2015"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:14:55.145963",
+    "version": "29.0"
+  },
+  {
+    "material_id": "376dbe6f35623a56",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "婴儿被",
+      "composition": "纯棉",
+      "standard": "GB/T 22864-2020",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "GB/T 22864-2020",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 22864-2020"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:14:55.145963",
+    "version": "29.0"
+  },
+  {
+    "material_id": "551283ddd2d6beac",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "婴儿毯",
+      "composition": "珊瑚绒",
+      "standard": "FZ/T 62014-2015",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 62014-2015",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 62014-2015"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:14:55.145963",
+    "version": "29.0"
+  },
+  {
+    "material_id": "22c997fc05e2afbb",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "婴儿巾",
+      "composition": "纱布",
+      "standard": "GB/T 22864-2020",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "GB/T 22864-2020",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 22864-2020"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:14:55.145963",
+    "version": "29.0"
+  },
+  {
+    "material_id": "b94d3b3adf956758",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "婴儿袜",
+      "composition": "纯棉",
+      "standard": "FZ/T 73001-2016",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 73001-2016",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 73001-2016"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:14:55.145963",
+    "version": "29.0"
+  },
+  {
+    "material_id": "cdc9ad4fd0005978",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "遮阳伞",
+      "composition": "涤纶",
+      "standard": "FZ/T 64012-2011",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 64012-2011",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 64012-2011"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:14:55.147959",
+    "version": "30.0"
+  },
+  {
+    "material_id": "82c397bfbee39c92",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "遮阳网",
+      "composition": "聚乙烯",
+      "standard": "GB/T 20672-2006",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "GB/T 20672-2006",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 20672-2006"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:14:55.147959",
+    "version": "30.0"
+  },
+  {
+    "material_id": "ef5ab800f45c1776",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "防尘罩",
+      "composition": "无纺布",
+      "standard": "GB/T 24254-2009",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "GB/T 24254-2009",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 24254-2009"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:14:55.147959",
+    "version": "30.0"
+  },
+  {
+    "material_id": "c1196e815b4bf521",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "收纳袋",
+      "composition": "无纺布",
+      "standard": "GB/T 24254-2009",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "GB/T 24254-2009",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 24254-2009"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:14:55.147959",
+    "version": "30.0"
+  },
+  {
+    "material_id": "ec6e471281f48ee3",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "购物袋",
+      "composition": "帆布",
+      "standard": "FZ/T 24014-2010",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 24014-2010",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 24014-2010"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:14:55.147959",
+    "version": "30.0"
+  },
+  {
+    "material_id": "a077e97ab01fdcc4",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "工作服",
+      "composition": "帆布",
+      "standard": "FZ/T 14011-2012",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 14011-2012",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 14011-2012"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:14:55.148955",
+    "version": "31.0"
+  },
+  {
+    "material_id": "af0661687b008b9f",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "防护服",
+      "composition": "阻燃",
+      "standard": "GB 8965.1-2020",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "GB 8965.1-2020",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "GB 8965.1-2020"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:14:55.148955",
+    "version": "31.0"
+  },
+  {
+    "material_id": "b8832bfa273dc122",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "防护鞋套",
+      "composition": "无纺布",
+      "standard": "GB/T 24254-2009",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "GB/T 24254-2009",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 24254-2009"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:14:55.148955",
+    "version": "31.0"
+  },
+  {
+    "material_id": "f48b925bd51ceef8",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "防护袖套",
+      "composition": "涤纶",
+      "standard": "FZ/T 62011-2009",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "FZ/T 62011-2009",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "FZ/T 62011-2009"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:14:55.148955",
+    "version": "31.0"
+  },
+  {
+    "material_id": "7d5d8a9940770ee8",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "防护围裙",
+      "composition": "PVC",
+      "standard": "GB 9685-2016",
+      "chemical_treatments": [
+        {
+          "name": "常规整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "舒适"
+      ],
+      "category": "衣料纺织品",
+      "care_instructions": {
+        "washing": "机洗",
+        "drying": "阴干",
+        "ironing": "低温"
+      },
+      "certifications": [
+        "GB 9685-2016",
+        "GB 18401"
+      ],
+      "advantages": [
+        "质量可靠"
+      ],
+      "disadvantages": [
+        "按标准护理"
+      ],
+      "maintenance_tips": [
+        "按洗标"
+      ],
+      "health_recommendations": [
+        "选择A类产品"
+      ],
+      "physical_properties": {
+        "标准": "GB 9685-2016"
+      },
+      "application_scenarios": [
+        "日常"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-31T00:14:55.148955",
+    "version": "31.0"
   }
 ]

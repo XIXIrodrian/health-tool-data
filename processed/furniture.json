@@ -4081,5 +4081,2987 @@
     "source": "国家建材标准数据库",
     "last_updated": "2026-01-30T23:57:45.034594",
     "version": "18.0"
+  },
+  {
+    "material_id": "effa5023ba91a78f",
+    "category": "涂料",
+    "data": {
+      "category": "涂料",
+      "material_type": "外墙乳胶漆",
+      "standard": "GB/T 9755-2014",
+      "chemical_components": [
+        {
+          "name": "丙烯酸乳液",
+          "cas": "N/A",
+          "hazard": "低"
+        },
+        {
+          "name": "钛白粉",
+          "cas": "13463-67-7",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "VOCs",
+          "severity": "低",
+          "description": "VOCs≤200g/L"
+        }
+      ],
+      "visual_cues": [
+        "乳白色液体",
+        "无刺激性气味"
+      ],
+      "certifications": [
+        "GB/T 9755-2014"
+      ],
+      "advantages": [
+        "耐候性好",
+        "防水防霉",
+        "色彩丰富"
+      ],
+      "disadvantages": [
+        "需多遍涂刷"
+      ],
+      "maintenance_tips": [
+        "定期清洗",
+        "检查开裂"
+      ],
+      "health_recommendations": [
+        "通风施工"
+      ],
+      "physical_properties": {
+        "VOCs": "≤200g/L",
+        "耐候性": "优"
+      },
+      "application_scenarios": [
+        "外墙",
+        "阳台"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:05:43.363310",
+    "version": "19.0"
+  },
+  {
+    "material_id": "04bf115b4b7d36e2",
+    "category": "涂料",
+    "data": {
+      "category": "涂料",
+      "material_type": "木器漆",
+      "standard": "GB 18581-2020",
+      "chemical_components": [
+        {
+          "name": "聚氨酯树脂",
+          "cas": "N/A",
+          "hazard": "中"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "VOCs",
+          "severity": "中",
+          "description": "需通风"
+        }
+      ],
+      "visual_cues": [
+        "透明或半透明",
+        "光泽度高"
+      ],
+      "certifications": [
+        "GB 18581-2020"
+      ],
+      "advantages": [
+        "保护木材",
+        "增强光泽",
+        "耐磨"
+      ],
+      "disadvantages": [
+        "气味较重"
+      ],
+      "maintenance_tips": [
+        "避免暴晒"
+      ],
+      "health_recommendations": [
+        "充分通风",
+        "干燥后入住"
+      ],
+      "physical_properties": {
+        "光泽度": "60°≥80",
+        "硬度": "≥0.5"
+      },
+      "application_scenarios": [
+        "家具",
+        "木地板"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:05:43.363310",
+    "version": "19.0"
+  },
+  {
+    "material_id": "08312e21f27db982",
+    "category": "电线电缆",
+    "data": {
+      "category": "电线电缆",
+      "material_type": "BV铜芯电线",
+      "standard": "GB/T 5023-2008",
+      "chemical_components": [
+        {
+          "name": "铜",
+          "cas": "7440-50-8",
+          "hazard": "无"
+        },
+        {
+          "name": "PVC绝缘",
+          "cas": "9002-86-2",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "过载发热",
+          "severity": "高",
+          "description": "超负荷使用危险"
+        }
+      ],
+      "visual_cues": [
+        "铜色金属",
+        "PVC外皮"
+      ],
+      "certifications": [
+        "GB/T 5023-2008",
+        "3C认证"
+      ],
+      "advantages": [
+        "导电性好",
+        "耐用",
+        "安全可靠"
+      ],
+      "disadvantages": [
+        "价格较高"
+      ],
+      "maintenance_tips": [
+        "避免过载",
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "专业安装",
+        "选择3C认证"
+      ],
+      "physical_properties": {
+        "导电率": "≥58%",
+        "绝缘厚度": "≥0.8mm"
+      },
+      "application_scenarios": [
+        "室内布线",
+        "家用电路"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:05:43.363310",
+    "version": "19.0"
+  },
+  {
+    "material_id": "7f857ec2a7c1b637",
+    "category": "电线电缆",
+    "data": {
+      "category": "电线电缆",
+      "material_type": "网线（超五类）",
+      "standard": "GB/T 50312-2016",
+      "chemical_components": [
+        {
+          "name": "铜芯",
+          "cas": "7440-50-8",
+          "hazard": "无"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "八芯双绞线",
+        "外皮标注CAT5e"
+      ],
+      "certifications": [
+        "GB/T 50312-2016"
+      ],
+      "advantages": [
+        "传输稳定",
+        "抗干扰",
+        "性价比高"
+      ],
+      "disadvantages": [
+        "最高百兆"
+      ],
+      "maintenance_tips": [
+        "避免折弯",
+        "防潮"
+      ],
+      "health_recommendations": [
+        "环保无毒"
+      ],
+      "physical_properties": {
+        "传输速率": "100Mbps",
+        "传输距离": "≤100m"
+      },
+      "application_scenarios": [
+        "家庭网络",
+        "监控"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:05:43.363310",
+    "version": "19.0"
+  },
+  {
+    "material_id": "07332e8dc72a5171",
+    "category": "照明灯具",
+    "data": {
+      "category": "照明灯具",
+      "material_type": "LED吸顶灯",
+      "standard": "GB 7000.1-2015",
+      "chemical_components": [
+        {
+          "name": "LED芯片",
+          "cas": "N/A",
+          "hazard": "无"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "圆形或方形",
+        "亚克力灯罩"
+      ],
+      "certifications": [
+        "GB 7000.1-2015",
+        "3C认证"
+      ],
+      "advantages": [
+        "节能省电",
+        "寿命长",
+        "光线柔和"
+      ],
+      "disadvantages": [
+        "初期投入高"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免频繁开关"
+      ],
+      "health_recommendations": [
+        "选择无频闪",
+        "色温3000-5000K"
+      ],
+      "physical_properties": {
+        "功率": "20-60W",
+        "寿命": "≥25000h"
+      },
+      "application_scenarios": [
+        "客厅",
+        "卧室"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:05:43.363310",
+    "version": "19.0"
+  },
+  {
+    "material_id": "2909ad80d26f63aa",
+    "category": "钢材",
+    "data": {
+      "category": "钢材",
+      "material_type": "螺纹钢",
+      "standard": "GB 1499-2018",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB 1499-2018"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB 1499-2018"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:07:26.602296",
+    "version": "20.0"
+  },
+  {
+    "material_id": "c08acb63df131d16",
+    "category": "钢材",
+    "data": {
+      "category": "钢材",
+      "material_type": "镀锌钢管",
+      "standard": "GB/T 3091-2015",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 3091-2015"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 3091-2015"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:07:26.602296",
+    "version": "20.0"
+  },
+  {
+    "material_id": "73ce32afc6d7b087",
+    "category": "五金",
+    "data": {
+      "category": "五金",
+      "material_type": "门锁",
+      "standard": "GA 374-2019",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GA 374-2019"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GA 374-2019"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:07:26.602296",
+    "version": "20.0"
+  },
+  {
+    "material_id": "ae6e72d3d4001261",
+    "category": "五金",
+    "data": {
+      "category": "五金",
+      "material_type": "合页",
+      "standard": "QB/T 2189-2018",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "QB/T 2189-2018"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "QB/T 2189-2018"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:07:26.602296",
+    "version": "20.0"
+  },
+  {
+    "material_id": "5960f71158d83710",
+    "category": "五金",
+    "data": {
+      "category": "五金",
+      "material_type": "拉手",
+      "standard": "QB/T 3886-1999",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "QB/T 3886-1999"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "QB/T 3886-1999"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:07:26.602296",
+    "version": "20.0"
+  },
+  {
+    "material_id": "2e28014cf46d4141",
+    "category": "卫浴",
+    "data": {
+      "category": "卫浴",
+      "material_type": "马桶",
+      "standard": "GB 6952-2015",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB 6952-2015"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB 6952-2015"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:07:26.603293",
+    "version": "21.0"
+  },
+  {
+    "material_id": "0ccbe34799164896",
+    "category": "卫浴",
+    "data": {
+      "category": "卫浴",
+      "material_type": "水龙头",
+      "standard": "GB 18145-2014",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB 18145-2014"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB 18145-2014"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:07:26.603293",
+    "version": "21.0"
+  },
+  {
+    "material_id": "c4d0678280c44861",
+    "category": "卫浴",
+    "data": {
+      "category": "卫浴",
+      "material_type": "淋浴花洒",
+      "standard": "GB/T 23447-2009",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 23447-2009"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 23447-2009"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:07:26.603293",
+    "version": "21.0"
+  },
+  {
+    "material_id": "5c640d34a45dbb58",
+    "category": "卫浴",
+    "data": {
+      "category": "卫浴",
+      "material_type": "浴室柜",
+      "standard": "GB/T 28202-2011",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 28202-2011"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 28202-2011"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:07:26.603293",
+    "version": "21.0"
+  },
+  {
+    "material_id": "404558d320097e36",
+    "category": "卫浴",
+    "data": {
+      "category": "卫浴",
+      "material_type": "地漏",
+      "standard": "GB 50015-2019",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB 50015-2019"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB 50015-2019"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:07:26.603293",
+    "version": "21.0"
+  },
+  {
+    "material_id": "e5544736921979e8",
+    "category": "橱柜",
+    "data": {
+      "category": "橱柜",
+      "material_type": "实木颗粒板",
+      "standard": "GB/T 11718-2009",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 11718-2009"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 11718-2009"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:07:26.604794",
+    "version": "22.0"
+  },
+  {
+    "material_id": "c92eb883b4afd894",
+    "category": "台面",
+    "data": {
+      "category": "台面",
+      "material_type": "石英石",
+      "standard": "JC/T 908-2013",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "JC/T 908-2013"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "JC/T 908-2013"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:07:26.604794",
+    "version": "22.0"
+  },
+  {
+    "material_id": "b7b8bba1c2771eae",
+    "category": "水槽",
+    "data": {
+      "category": "水槽",
+      "material_type": "不锈钢304",
+      "standard": "GB/T 13271-2008",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 13271-2008"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 13271-2008"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:07:26.604794",
+    "version": "22.0"
+  },
+  {
+    "material_id": "07a4989ff3292933",
+    "category": "油烟机",
+    "data": {
+      "category": "油烟机",
+      "material_type": "侧吸式",
+      "standard": "GB 17713-2019",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB 17713-2019"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB 17713-2019"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:07:26.604794",
+    "version": "22.0"
+  },
+  {
+    "material_id": "59ad2f7919145a79",
+    "category": "燃气灶",
+    "data": {
+      "category": "燃气灶",
+      "material_type": "嵌入式",
+      "standard": "GB 16410-2020",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB 16410-2020"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB 16410-2020"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:07:26.604794",
+    "version": "22.0"
+  },
+  {
+    "material_id": "2064ee24f1739448",
+    "category": "办公桌",
+    "data": {
+      "category": "办公桌",
+      "material_type": "刨花板",
+      "standard": "GB/T 4897-2015",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 4897-2015"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 4897-2015"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:07:26.606188",
+    "version": "23.0"
+  },
+  {
+    "material_id": "563a7085dd7e93a5",
+    "category": "办公椅",
+    "data": {
+      "category": "办公椅",
+      "material_type": "网布",
+      "standard": "GB/T 10357-2013",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 10357-2013"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 10357-2013"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:07:26.606188",
+    "version": "23.0"
+  },
+  {
+    "material_id": "08b2978a2c4370ae",
+    "category": "文件柜",
+    "data": {
+      "category": "文件柜",
+      "material_type": "钢制",
+      "standard": "GB/T 14531-2017",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 14531-2017"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 14531-2017"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:07:26.606188",
+    "version": "23.0"
+  },
+  {
+    "material_id": "da35895e18eb90b9",
+    "category": "白板",
+    "data": {
+      "category": "白板",
+      "material_type": "钢化玻璃",
+      "standard": "GB 15763.2-2005",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB 15763.2-2005"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB 15763.2-2005"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:07:26.606188",
+    "version": "23.0"
+  },
+  {
+    "material_id": "1ab0284b79190c4b",
+    "category": "地毯",
+    "data": {
+      "category": "地毯",
+      "material_type": "尼龙",
+      "standard": "GB/T 18044-2008",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 18044-2008"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 18044-2008"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:07:26.606188",
+    "version": "23.0"
+  },
+  {
+    "material_id": "39e4e557cff35b6d",
+    "category": "保温材料",
+    "data": {
+      "category": "保温材料",
+      "material_type": "聚苯板EPS",
+      "standard": "GB/T 10801.1-2002",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 10801.1-2002"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 10801.1-2002"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:07:26.608087",
+    "version": "24.0"
+  },
+  {
+    "material_id": "01f7a3eacf2fbfb0",
+    "category": "保温材料",
+    "data": {
+      "category": "保温材料",
+      "material_type": "酚醛板",
+      "standard": "GB/T 20974-2014",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 20974-2014"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 20974-2014"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:07:26.608087",
+    "version": "24.0"
+  },
+  {
+    "material_id": "a29f857ae5f7e52a",
+    "category": "隔音材料",
+    "data": {
+      "category": "隔音材料",
+      "material_type": "吸音棉",
+      "standard": "GB/T 18696.1-2004",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 18696.1-2004"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 18696.1-2004"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:07:26.608087",
+    "version": "24.0"
+  },
+  {
+    "material_id": "ccf3b9e1c3ab50e0",
+    "category": "隔音材料",
+    "data": {
+      "category": "隔音材料",
+      "material_type": "隔音毡",
+      "standard": "GB/T 20312-2006",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 20312-2006"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 20312-2006"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:07:26.608087",
+    "version": "24.0"
+  },
+  {
+    "material_id": "e05df0b918b2bc7e",
+    "category": "密封材料",
+    "data": {
+      "category": "密封材料",
+      "material_type": "发泡胶",
+      "standard": "GB 24266-2009",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB 24266-2009"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB 24266-2009"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:07:26.608087",
+    "version": "24.0"
+  },
+  {
+    "material_id": "03eccc253dd629cb",
+    "category": "装饰材料",
+    "data": {
+      "category": "装饰材料",
+      "material_type": "石膏线",
+      "standard": "JC/T 588-2010",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "JC/T 588-2010"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "JC/T 588-2010"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:07:26.609533",
+    "version": "25.0"
+  },
+  {
+    "material_id": "45036e94f28a154a",
+    "category": "装饰材料",
+    "data": {
+      "category": "装饰材料",
+      "material_type": "PU线条",
+      "standard": "JC/T 2195-2013",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "JC/T 2195-2013"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "JC/T 2195-2013"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:07:26.609533",
+    "version": "25.0"
+  },
+  {
+    "material_id": "712dffd74e24883e",
+    "category": "装饰材料",
+    "data": {
+      "category": "装饰材料",
+      "material_type": "护墙板",
+      "standard": "GB/T 15036-2018",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 15036-2018"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 15036-2018"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:07:26.609533",
+    "version": "25.0"
+  },
+  {
+    "material_id": "17b6a253233e4851",
+    "category": "装饰材料",
+    "data": {
+      "category": "装饰材料",
+      "material_type": "踢脚线",
+      "standard": "GB/T 15036-2018",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 15036-2018"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 15036-2018"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:07:26.609533",
+    "version": "25.0"
+  },
+  {
+    "material_id": "f3d3b88601839983",
+    "category": "装饰材料",
+    "data": {
+      "category": "装饰材料",
+      "material_type": "UV板",
+      "standard": "GB/T 17657-2013",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 17657-2013"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 17657-2013"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:07:26.609533",
+    "version": "25.0"
+  },
+  {
+    "material_id": "ed25d361196e9375",
+    "category": "户外材料",
+    "data": {
+      "category": "户外材料",
+      "material_type": "防腐木",
+      "standard": "GB/T 22102-2008",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 22102-2008"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 22102-2008"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:07:26.612307",
+    "version": "26.0"
+  },
+  {
+    "material_id": "e1bc189cd90b3cd0",
+    "category": "户外材料",
+    "data": {
+      "category": "户外材料",
+      "material_type": "塑木",
+      "standard": "GB/T 24137-2009",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 24137-2009"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 24137-2009"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:07:26.612307",
+    "version": "26.0"
+  },
+  {
+    "material_id": "c2b4e8bf1e21f6dc",
+    "category": "户外材料",
+    "data": {
+      "category": "户外材料",
+      "material_type": "透水砖",
+      "standard": "JC/T 945-2005",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "JC/T 945-2005"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "JC/T 945-2005"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:07:26.612307",
+    "version": "26.0"
+  },
+  {
+    "material_id": "341c0c5f06eeff4e",
+    "category": "户外材料",
+    "data": {
+      "category": "户外材料",
+      "material_type": "草坪砖",
+      "standard": "JC/T 446-2000",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "JC/T 446-2000"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "JC/T 446-2000"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:07:26.612307",
+    "version": "26.0"
+  },
+  {
+    "material_id": "eecefa0cbd7525ad",
+    "category": "户外材料",
+    "data": {
+      "category": "户外材料",
+      "material_type": "防滑砖",
+      "standard": "GB/T 4100-2015",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 4100-2015"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 4100-2015"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:07:26.612307",
+    "version": "26.0"
+  },
+  {
+    "material_id": "67dbf4877a726f70",
+    "category": "暖通",
+    "data": {
+      "category": "暖通",
+      "material_type": "中央空调",
+      "standard": "GB/T 18837-2015",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 18837-2015"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 18837-2015"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:14:55.142827",
+    "version": "27.0"
+  },
+  {
+    "material_id": "5426958d8a03965c",
+    "category": "暖通",
+    "data": {
+      "category": "暖通",
+      "material_type": "新风系统",
+      "standard": "GB/T 21087-2019",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 21087-2019"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 21087-2019"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:14:55.142827",
+    "version": "27.0"
+  },
+  {
+    "material_id": "f8815f7bea69a928",
+    "category": "暖通",
+    "data": {
+      "category": "暖通",
+      "material_type": "地暖管",
+      "standard": "GB/T 18742-2017",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 18742-2017"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 18742-2017"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:14:55.142827",
+    "version": "27.0"
+  },
+  {
+    "material_id": "1fe32798af0b9a83",
+    "category": "暖通",
+    "data": {
+      "category": "暖通",
+      "material_type": "散热器",
+      "standard": "GB/T 19913-2017",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 19913-2017"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 19913-2017"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:14:55.142827",
+    "version": "27.0"
+  },
+  {
+    "material_id": "ad69b6e57f2e674f",
+    "category": "暖通",
+    "data": {
+      "category": "暖通",
+      "material_type": "温控器",
+      "standard": "GB/T 26003-2010",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 26003-2010"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 26003-2010"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:14:55.142827",
+    "version": "27.0"
+  },
+  {
+    "material_id": "184449a9de8289cc",
+    "category": "智能",
+    "data": {
+      "category": "智能",
+      "material_type": "智能门锁",
+      "standard": "GA 374-2019",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GA 374-2019"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GA 374-2019"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:14:55.143876",
+    "version": "28.0"
+  },
+  {
+    "material_id": "1443d46518f01ce0",
+    "category": "智能",
+    "data": {
+      "category": "智能",
+      "material_type": "智能开关",
+      "standard": "GB/T 35770-2017",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 35770-2017"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 35770-2017"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:14:55.143876",
+    "version": "28.0"
+  },
+  {
+    "material_id": "625322fe9155758d",
+    "category": "智能",
+    "data": {
+      "category": "智能",
+      "material_type": "智能插座",
+      "standard": "GB 2099.1-2021",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB 2099.1-2021"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB 2099.1-2021"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:14:55.143876",
+    "version": "28.0"
+  },
+  {
+    "material_id": "288a8f868e407924",
+    "category": "智能",
+    "data": {
+      "category": "智能",
+      "material_type": "智能窗帘",
+      "standard": "GB/T 21561-2018",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 21561-2018"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 21561-2018"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:14:55.143876",
+    "version": "28.0"
+  },
+  {
+    "material_id": "7908f057bcdadd80",
+    "category": "智能",
+    "data": {
+      "category": "智能",
+      "material_type": "智能音箱",
+      "standard": "GB/T 37971-2019",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 37971-2019"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 37971-2019"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:14:55.143876",
+    "version": "28.0"
+  },
+  {
+    "material_id": "f22bd3f0fc233c24",
+    "category": "儿童家具",
+    "data": {
+      "category": "儿童家具",
+      "material_type": "儿童床",
+      "standard": "GB 28007-2011",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB 28007-2011"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB 28007-2011"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:14:55.145963",
+    "version": "29.0"
+  },
+  {
+    "material_id": "50ca52ef7ab39df5",
+    "category": "儿童家具",
+    "data": {
+      "category": "儿童家具",
+      "material_type": "儿童桌椅",
+      "standard": "GB 28007-2011",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB 28007-2011"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB 28007-2011"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:14:55.145963",
+    "version": "29.0"
+  },
+  {
+    "material_id": "9931b79acac2c351",
+    "category": "儿童家具",
+    "data": {
+      "category": "儿童家具",
+      "material_type": "儿童柜",
+      "standard": "GB 28007-2011",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB 28007-2011"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB 28007-2011"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:14:55.145963",
+    "version": "29.0"
+  },
+  {
+    "material_id": "306985a1df6d210e",
+    "category": "儿童家具",
+    "data": {
+      "category": "儿童家具",
+      "material_type": "爬行垫",
+      "standard": "GB 6675-2014",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB 6675-2014"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB 6675-2014"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:14:55.145963",
+    "version": "29.0"
+  },
+  {
+    "material_id": "c36fb3feea2644b4",
+    "category": "儿童家具",
+    "data": {
+      "category": "儿童家具",
+      "material_type": "围栏",
+      "standard": "GB 28401-2012",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB 28401-2012"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB 28401-2012"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:14:55.145963",
+    "version": "29.0"
+  },
+  {
+    "material_id": "584e5e3ff5bc0633",
+    "category": "园林",
+    "data": {
+      "category": "园林",
+      "material_type": "人造草坪",
+      "standard": "GB/T 20394-2019",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 20394-2019"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 20394-2019"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:14:55.147959",
+    "version": "30.0"
+  },
+  {
+    "material_id": "86b89213b2b5eb28",
+    "category": "园林",
+    "data": {
+      "category": "园林",
+      "material_type": "仿真植物",
+      "standard": "GB/T 28200-2011",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 28200-2011"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 28200-2011"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:14:55.147959",
+    "version": "30.0"
+  },
+  {
+    "material_id": "0dc5107202d69b9e",
+    "category": "园林",
+    "data": {
+      "category": "园林",
+      "material_type": "花箱",
+      "standard": "GB/T 28202-2011",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 28202-2011"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 28202-2011"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:14:55.147959",
+    "version": "30.0"
+  },
+  {
+    "material_id": "d1aa850d3fdaf044",
+    "category": "园林",
+    "data": {
+      "category": "园林",
+      "material_type": "围栏",
+      "standard": "GB/T 28204-2011",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 28204-2011"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 28204-2011"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:14:55.147959",
+    "version": "30.0"
+  },
+  {
+    "material_id": "ff80841af728e965",
+    "category": "园林",
+    "data": {
+      "category": "园林",
+      "material_type": "凉亭",
+      "standard": "GB/T 50361-2018",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 50361-2018"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 50361-2018"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:14:55.147959",
+    "version": "30.0"
+  },
+  {
+    "material_id": "ae3a183acd95ad46",
+    "category": "工具",
+    "data": {
+      "category": "工具",
+      "material_type": "电钻",
+      "standard": "GB 3883.1-2019",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB 3883.1-2019"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB 3883.1-2019"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:14:55.148955",
+    "version": "31.0"
+  },
+  {
+    "material_id": "0b82700671f06334",
+    "category": "工具",
+    "data": {
+      "category": "工具",
+      "material_type": "电锯",
+      "standard": "GB 3883.8-2020",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB 3883.8-2020"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB 3883.8-2020"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:14:55.148955",
+    "version": "31.0"
+  },
+  {
+    "material_id": "edf8f2582e505dd0",
+    "category": "工具",
+    "data": {
+      "category": "工具",
+      "material_type": "螺丝刀",
+      "standard": "GB/T 4440-2008",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 4440-2008"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 4440-2008"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:14:55.148955",
+    "version": "31.0"
+  },
+  {
+    "material_id": "06039999e3a6b1d5",
+    "category": "工具",
+    "data": {
+      "category": "工具",
+      "material_type": "扳手",
+      "standard": "GB/T 4388-2015",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 4388-2015"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 4388-2015"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:14:55.148955",
+    "version": "31.0"
+  },
+  {
+    "material_id": "da9bba81631993e7",
+    "category": "工具",
+    "data": {
+      "category": "工具",
+      "material_type": "工具箱",
+      "standard": "GB/T 28202-2011",
+      "chemical_components": [
+        {
+          "name": "主要成分",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "符合标准"
+      ],
+      "certifications": [
+        "GB/T 28202-2011"
+      ],
+      "advantages": [
+        "质量可靠",
+        "符合国标"
+      ],
+      "disadvantages": [
+        "需定期维护"
+      ],
+      "maintenance_tips": [
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择认证产品"
+      ],
+      "physical_properties": {
+        "标准": "GB/T 28202-2011"
+      },
+      "application_scenarios": [
+        "室内外"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-31T00:14:55.148955",
+    "version": "31.0"
   }
 ]
