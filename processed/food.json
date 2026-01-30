@@ -9167,5 +9167,740 @@
     "source": "第十一轮数据扩充-肉类坚果豆制品菌菇中药",
     "last_updated": "2026-01-30T23:13:09.002077",
     "version": "13.0"
+  },
+  {
+    "material_id": "31d95fa0abde8229",
+    "category": "谷物类",
+    "data": {
+      "name": "RICE",
+      "category": "谷物类",
+      "nutrients": {
+        "protein": {
+          "value": 3.47,
+          "unit": "G"
+        },
+        "energy": {
+          "value": 139,
+          "unit": "KCAL"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "提供营养",
+        "天然食物"
+      ],
+      "contraindications": [],
+      "incompatible_foods": [],
+      "advantages": [
+        "营养丰富",
+        "天然健康"
+      ],
+      "disadvantages": [
+        "注意适量食用"
+      ],
+      "maintenance_tips": [
+        "妥善储存",
+        "注意保质期"
+      ],
+      "health_recommendations": [
+        "均衡饮食",
+        "适量摄入"
+      ],
+      "physical_properties": {},
+      "application_scenarios": [
+        "日常饮食"
+      ]
+    },
+    "source": "USDA FoodData Central API",
+    "last_updated": "2026-01-30T23:28:30.575120",
+    "version": "14.0"
+  },
+  {
+    "material_id": "31d95fa0abde8229",
+    "category": "谷物类",
+    "data": {
+      "name": "RICE",
+      "category": "谷物类",
+      "nutrients": {
+        "protein": {
+          "value": 6.67,
+          "unit": "G"
+        },
+        "energy": {
+          "value": 356,
+          "unit": "KCAL"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "提供营养",
+        "天然食物"
+      ],
+      "contraindications": [],
+      "incompatible_foods": [],
+      "advantages": [
+        "营养丰富",
+        "天然健康"
+      ],
+      "disadvantages": [
+        "注意适量食用"
+      ],
+      "maintenance_tips": [
+        "妥善储存",
+        "注意保质期"
+      ],
+      "health_recommendations": [
+        "均衡饮食",
+        "适量摄入"
+      ],
+      "physical_properties": {},
+      "application_scenarios": [
+        "日常饮食"
+      ]
+    },
+    "source": "USDA FoodData Central API",
+    "last_updated": "2026-01-30T23:28:30.575120",
+    "version": "14.0"
+  },
+  {
+    "material_id": "31d95fa0abde8229",
+    "category": "谷物类",
+    "data": {
+      "name": "RICE",
+      "category": "谷物类",
+      "nutrients": {
+        "protein": {
+          "value": 6.67,
+          "unit": "G"
+        },
+        "energy": {
+          "value": 356,
+          "unit": "KCAL"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "提供营养",
+        "天然食物"
+      ],
+      "contraindications": [],
+      "incompatible_foods": [],
+      "advantages": [
+        "营养丰富",
+        "天然健康"
+      ],
+      "disadvantages": [
+        "注意适量食用"
+      ],
+      "maintenance_tips": [
+        "妥善储存",
+        "注意保质期"
+      ],
+      "health_recommendations": [
+        "均衡饮食",
+        "适量摄入"
+      ],
+      "physical_properties": {},
+      "application_scenarios": [
+        "日常饮食"
+      ]
+    },
+    "source": "USDA FoodData Central API",
+    "last_updated": "2026-01-30T23:28:30.575120",
+    "version": "14.0"
+  },
+  {
+    "material_id": "ff098d0cc4f142b7",
+    "category": "肉类",
+    "data": {
+      "name": "CHICKEN",
+      "category": "肉类",
+      "nutrients": {
+        "protein": {
+          "value": 21.4,
+          "unit": "G"
+        },
+        "energy": {
+          "value": 107,
+          "unit": "KCAL"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "提供营养",
+        "天然食物"
+      ],
+      "contraindications": [],
+      "incompatible_foods": [],
+      "advantages": [
+        "营养丰富",
+        "天然健康"
+      ],
+      "disadvantages": [
+        "注意适量食用"
+      ],
+      "maintenance_tips": [
+        "妥善储存",
+        "注意保质期"
+      ],
+      "health_recommendations": [
+        "均衡饮食",
+        "适量摄入"
+      ],
+      "physical_properties": {},
+      "application_scenarios": [
+        "日常饮食"
+      ]
+    },
+    "source": "USDA FoodData Central API",
+    "last_updated": "2026-01-30T23:28:33.612742",
+    "version": "14.0"
+  },
+  {
+    "material_id": "66eb3a554b944783",
+    "category": "肉类",
+    "data": {
+      "name": "CHICKEN",
+      "category": "肉类",
+      "nutrients": {
+        "protein": {
+          "value": 6.67,
+          "unit": "G"
+        },
+        "energy": {
+          "value": 167,
+          "unit": "KCAL"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "提供营养",
+        "天然食物"
+      ],
+      "contraindications": [],
+      "incompatible_foods": [],
+      "advantages": [
+        "营养丰富",
+        "天然健康"
+      ],
+      "disadvantages": [
+        "注意适量食用"
+      ],
+      "maintenance_tips": [
+        "妥善储存",
+        "注意保质期"
+      ],
+      "health_recommendations": [
+        "均衡饮食",
+        "适量摄入"
+      ],
+      "physical_properties": {},
+      "application_scenarios": [
+        "日常饮食"
+      ]
+    },
+    "source": "USDA FoodData Central API",
+    "last_updated": "2026-01-30T23:28:33.612742",
+    "version": "14.0"
+  },
+  {
+    "material_id": "66eb3a554b944783",
+    "category": "肉类",
+    "data": {
+      "name": "CHICKEN",
+      "category": "肉类",
+      "nutrients": {
+        "protein": {
+          "value": 21.4,
+          "unit": "G"
+        },
+        "energy": {
+          "value": 107,
+          "unit": "KCAL"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "提供营养",
+        "天然食物"
+      ],
+      "contraindications": [],
+      "incompatible_foods": [],
+      "advantages": [
+        "营养丰富",
+        "天然健康"
+      ],
+      "disadvantages": [
+        "注意适量食用"
+      ],
+      "maintenance_tips": [
+        "妥善储存",
+        "注意保质期"
+      ],
+      "health_recommendations": [
+        "均衡饮食",
+        "适量摄入"
+      ],
+      "physical_properties": {},
+      "application_scenarios": [
+        "日常饮食"
+      ]
+    },
+    "source": "USDA FoodData Central API",
+    "last_updated": "2026-01-30T23:28:33.612742",
+    "version": "14.0"
+  },
+  {
+    "material_id": "632ac9aa8175a941",
+    "category": "肉类",
+    "data": {
+      "name": "BEEF",
+      "category": "肉类",
+      "nutrients": {
+        "protein": {
+          "value": 20.0,
+          "unit": "G"
+        },
+        "energy": {
+          "value": 129,
+          "unit": "KCAL"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "提供营养",
+        "天然食物"
+      ],
+      "contraindications": [],
+      "incompatible_foods": [],
+      "advantages": [
+        "营养丰富",
+        "天然健康"
+      ],
+      "disadvantages": [
+        "注意适量食用"
+      ],
+      "maintenance_tips": [
+        "妥善储存",
+        "注意保质期"
+      ],
+      "health_recommendations": [
+        "均衡饮食",
+        "适量摄入"
+      ],
+      "physical_properties": {},
+      "application_scenarios": [
+        "日常饮食"
+      ]
+    },
+    "source": "USDA FoodData Central API",
+    "last_updated": "2026-01-30T23:28:36.415930",
+    "version": "14.0"
+  },
+  {
+    "material_id": "632ac9aa8175a941",
+    "category": "肉类",
+    "data": {
+      "name": "BEEF",
+      "category": "肉类",
+      "nutrients": {
+        "protein": {
+          "value": 19.6,
+          "unit": "G"
+        },
+        "energy": {
+          "value": 125,
+          "unit": "KCAL"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "提供营养",
+        "天然食物"
+      ],
+      "contraindications": [],
+      "incompatible_foods": [],
+      "advantages": [
+        "营养丰富",
+        "天然健康"
+      ],
+      "disadvantages": [
+        "注意适量食用"
+      ],
+      "maintenance_tips": [
+        "妥善储存",
+        "注意保质期"
+      ],
+      "health_recommendations": [
+        "均衡饮食",
+        "适量摄入"
+      ],
+      "physical_properties": {},
+      "application_scenarios": [
+        "日常饮食"
+      ]
+    },
+    "source": "USDA FoodData Central API",
+    "last_updated": "2026-01-30T23:28:36.415930",
+    "version": "14.0"
+  },
+  {
+    "material_id": "632ac9aa8175a941",
+    "category": "肉类",
+    "data": {
+      "name": "BEEF",
+      "category": "肉类",
+      "nutrients": {
+        "protein": {
+          "value": 16.8,
+          "unit": "G"
+        },
+        "energy": {
+          "value": 204,
+          "unit": "KCAL"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "提供营养",
+        "天然食物"
+      ],
+      "contraindications": [],
+      "incompatible_foods": [],
+      "advantages": [
+        "营养丰富",
+        "天然健康"
+      ],
+      "disadvantages": [
+        "注意适量食用"
+      ],
+      "maintenance_tips": [
+        "妥善储存",
+        "注意保质期"
+      ],
+      "health_recommendations": [
+        "均衡饮食",
+        "适量摄入"
+      ],
+      "physical_properties": {},
+      "application_scenarios": [
+        "日常饮食"
+      ]
+    },
+    "source": "USDA FoodData Central API",
+    "last_updated": "2026-01-30T23:28:36.415930",
+    "version": "14.0"
+  },
+  {
+    "material_id": "9df9bb15bd723cb0",
+    "category": "肉类",
+    "data": {
+      "name": "PORK",
+      "category": "肉类",
+      "nutrients": {
+        "protein": {
+          "value": 21.2,
+          "unit": "G"
+        },
+        "energy": {
+          "value": 118,
+          "unit": "KCAL"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "提供营养",
+        "天然食物"
+      ],
+      "contraindications": [],
+      "incompatible_foods": [],
+      "advantages": [
+        "营养丰富",
+        "天然健康"
+      ],
+      "disadvantages": [
+        "注意适量食用"
+      ],
+      "maintenance_tips": [
+        "妥善储存",
+        "注意保质期"
+      ],
+      "health_recommendations": [
+        "均衡饮食",
+        "适量摄入"
+      ],
+      "physical_properties": {},
+      "application_scenarios": [
+        "日常饮食"
+      ]
+    },
+    "source": "USDA FoodData Central API",
+    "last_updated": "2026-01-30T23:28:39.215470",
+    "version": "14.0"
+  },
+  {
+    "material_id": "9df9bb15bd723cb0",
+    "category": "肉类",
+    "data": {
+      "name": "PORK",
+      "category": "肉类",
+      "nutrients": {
+        "protein": {
+          "value": 21.4,
+          "unit": "G"
+        },
+        "energy": {
+          "value": 125,
+          "unit": "KCAL"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "提供营养",
+        "天然食物"
+      ],
+      "contraindications": [],
+      "incompatible_foods": [],
+      "advantages": [
+        "营养丰富",
+        "天然健康"
+      ],
+      "disadvantages": [
+        "注意适量食用"
+      ],
+      "maintenance_tips": [
+        "妥善储存",
+        "注意保质期"
+      ],
+      "health_recommendations": [
+        "均衡饮食",
+        "适量摄入"
+      ],
+      "physical_properties": {},
+      "application_scenarios": [
+        "日常饮食"
+      ]
+    },
+    "source": "USDA FoodData Central API",
+    "last_updated": "2026-01-30T23:28:39.215470",
+    "version": "14.0"
+  },
+  {
+    "material_id": "9df9bb15bd723cb0",
+    "category": "肉类",
+    "data": {
+      "name": "PORK",
+      "category": "肉类",
+      "nutrients": {
+        "protein": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "energy": {
+          "value": 556,
+          "unit": "KCAL"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "提供营养",
+        "天然食物"
+      ],
+      "contraindications": [],
+      "incompatible_foods": [],
+      "advantages": [
+        "营养丰富",
+        "天然健康"
+      ],
+      "disadvantages": [
+        "注意适量食用"
+      ],
+      "maintenance_tips": [
+        "妥善储存",
+        "注意保质期"
+      ],
+      "health_recommendations": [
+        "均衡饮食",
+        "适量摄入"
+      ],
+      "physical_properties": {},
+      "application_scenarios": [
+        "日常饮食"
+      ]
+    },
+    "source": "USDA FoodData Central API",
+    "last_updated": "2026-01-30T23:28:39.215470",
+    "version": "14.0"
+  },
+  {
+    "material_id": "e3b68f060d013c54",
+    "category": "蛋类",
+    "data": {
+      "name": "EGG",
+      "category": "蛋类",
+      "nutrients": {
+        "protein": {
+          "value": 6.41,
+          "unit": "G"
+        },
+        "energy": {
+          "value": 513,
+          "unit": "KCAL"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "提供营养",
+        "天然食物"
+      ],
+      "contraindications": [],
+      "incompatible_foods": [],
+      "advantages": [
+        "营养丰富",
+        "天然健康"
+      ],
+      "disadvantages": [
+        "注意适量食用"
+      ],
+      "maintenance_tips": [
+        "妥善储存",
+        "注意保质期"
+      ],
+      "health_recommendations": [
+        "均衡饮食",
+        "适量摄入"
+      ],
+      "physical_properties": {},
+      "application_scenarios": [
+        "日常饮食"
+      ]
+    },
+    "source": "USDA FoodData Central API",
+    "last_updated": "2026-01-30T23:28:42.718317",
+    "version": "14.0"
+  },
+  {
+    "material_id": "e3b68f060d013c54",
+    "category": "蛋类",
+    "data": {
+      "name": "EGG",
+      "category": "蛋类",
+      "nutrients": {
+        "protein": {
+          "value": 0.0,
+          "unit": "G"
+        },
+        "energy": {
+          "value": 367,
+          "unit": "KCAL"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "提供营养",
+        "天然食物"
+      ],
+      "contraindications": [],
+      "incompatible_foods": [],
+      "advantages": [
+        "营养丰富",
+        "天然健康"
+      ],
+      "disadvantages": [
+        "注意适量食用"
+      ],
+      "maintenance_tips": [
+        "妥善储存",
+        "注意保质期"
+      ],
+      "health_recommendations": [
+        "均衡饮食",
+        "适量摄入"
+      ],
+      "physical_properties": {},
+      "application_scenarios": [
+        "日常饮食"
+      ]
+    },
+    "source": "USDA FoodData Central API",
+    "last_updated": "2026-01-30T23:28:42.718317",
+    "version": "14.0"
+  },
+  {
+    "material_id": "e3b68f060d013c54",
+    "category": "蛋类",
+    "data": {
+      "name": "EGG",
+      "category": "蛋类",
+      "nutrients": {
+        "protein": {
+          "value": 11.4,
+          "unit": "G"
+        },
+        "energy": {
+          "value": 159,
+          "unit": "KCAL"
+        }
+      },
+      "recommended_intake": {
+        "adult": "适量"
+      },
+      "health_benefits": [
+        "提供营养",
+        "天然食物"
+      ],
+      "contraindications": [],
+      "incompatible_foods": [],
+      "advantages": [
+        "营养丰富",
+        "天然健康"
+      ],
+      "disadvantages": [
+        "注意适量食用"
+      ],
+      "maintenance_tips": [
+        "妥善储存",
+        "注意保质期"
+      ],
+      "health_recommendations": [
+        "均衡饮食",
+        "适量摄入"
+      ],
+      "physical_properties": {},
+      "application_scenarios": [
+        "日常饮食"
+      ]
+    },
+    "source": "USDA FoodData Central API",
+    "last_updated": "2026-01-30T23:28:42.718317",
+    "version": "14.0"
   }
 ]

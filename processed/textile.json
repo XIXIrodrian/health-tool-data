@@ -6689,5 +6689,73 @@
     "source": "第九轮数据扩充-羊毛环保运动时尚",
     "last_updated": "2026-01-30T23:13:08.987252",
     "version": "13.0"
+  },
+  {
+    "material_id": "80e46727fc8c33dc",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "精梳棉",
+      "composition": "100% 精梳长绒棉",
+      "chemical_treatments": [
+        {
+          "name": "烧毛处理",
+          "hazard": "低"
+        },
+        {
+          "name": "丝光处理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "超柔软",
+        "吸湿性极佳",
+        "不起球",
+        "光泽度好"
+      ],
+      "care_instructions": {
+        "washing": "40度温水机洗",
+        "drying": "阴干或低温烘干",
+        "ironing": "中高温熨烫"
+      },
+      "certifications": [
+        "OEKO-TEX Standard 100",
+        "GB 18401 A类"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "超柔软舒适",
+        "吸湿透气",
+        "不易起球",
+        "高档光泽"
+      ],
+      "disadvantages": [
+        "价格较高",
+        "易皱需熨烫"
+      ],
+      "maintenance_tips": [
+        "温水洗涤",
+        "避免长时间浸泡",
+        "阴干后熨烫"
+      ],
+      "health_recommendations": [
+        "敏感肌适用",
+        "婴幼儿优选",
+        "透气性好"
+      ],
+      "physical_properties": {
+        "手感": "极柔软",
+        "光泽": "丝光",
+        "强度": "高"
+      },
+      "application_scenarios": [
+        "贴身衣物",
+        "婴儿用品",
+        "高档服装"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-30T23:28:42.718317",
+    "version": "14.0"
   }
 ]

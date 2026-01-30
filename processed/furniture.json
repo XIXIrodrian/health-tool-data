@@ -10687,5 +10687,77 @@
     "source": "第十二轮数据扩充-铁艺家具材料",
     "last_updated": "2026-01-30T23:13:08.967003",
     "version": "13.0"
+  },
+  {
+    "material_id": "1d361c0a21e60669",
+    "category": "涂料",
+    "data": {
+      "category": "涂料",
+      "material_type": "水性乳胶漆",
+      "chemical_components": [
+        {
+          "name": "丙烯酸乳液",
+          "cas": "N/A",
+          "hazard": "低"
+        },
+        {
+          "name": "钛白粉",
+          "cas": "13463-67-7",
+          "hazard": "低"
+        },
+        {
+          "name": "助剂",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "VOCs",
+          "severity": "低",
+          "description": "水性漆VOCs含量低"
+        }
+      ],
+      "visual_cues": [
+        "白色/彩色",
+        "液体状",
+        "无刺激性气味"
+      ],
+      "certifications": [
+        "GB 18582",
+        "中国环境标志"
+      ],
+      "advantages": [
+        "环保低VOCs",
+        "无刺激性气味",
+        "易施工",
+        "色彩丰富"
+      ],
+      "disadvantages": [
+        "耐候性略低于油性漆",
+        "需要多遍涂刷"
+      ],
+      "maintenance_tips": [
+        "保持墙面清洁",
+        "避免尖锐物刮擦",
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "选择环保认证产品",
+        "施工时保持通风",
+        "干燥后入住"
+      ],
+      "physical_properties": {
+        "干燥时间": "2-4小时",
+        "耐擦洗性": "良好"
+      },
+      "application_scenarios": [
+        "室内墙面",
+        "天花板"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-30T23:28:42.718317",
+    "version": "14.0"
   }
 ]
