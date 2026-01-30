@@ -1,0 +1,1025 @@
+[
+  {
+    "material_id": "d4b7e9746ada2440",
+    "category": "防水材料",
+    "data": {
+      "category": "防水材料",
+      "material_type": "聚氨酯防水涂料",
+      "standard": "GB/T 19250-2013",
+      "chemical_components": [
+        {
+          "name": "聚氨酯",
+          "cas": "9009-54-5",
+          "hazard": "中"
+        },
+        {
+          "name": "异氰酸酯",
+          "cas": "26471-62-5",
+          "hazard": "中"
+        },
+        {
+          "name": "溶剂",
+          "cas": "N/A",
+          "hazard": "中"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "VOCs",
+          "severity": "中",
+          "description": "含有机溶剂，需通风"
+        },
+        {
+          "type": "皮肤刺激",
+          "severity": "中",
+          "description": "异氰酸酯可能刺激皮肤"
+        }
+      ],
+      "visual_cues": [
+        "液体状",
+        "双组分",
+        "刷涂后形成弹性膜"
+      ],
+      "certifications": [
+        "GB/T 19250-2013",
+        "环保认证"
+      ],
+      "advantages": [
+        "弹性好",
+        "耐候性强",
+        "粘结力强",
+        "耐水性优异"
+      ],
+      "disadvantages": [
+        "施工要求高",
+        "有机溶剂气味",
+        "价格较高"
+      ],
+      "maintenance_tips": [
+        "施工后充分固化",
+        "避免尖锐物破坏",
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "施工时通风",
+        "戴防护手套口罩",
+        "固化后安全"
+      ],
+      "physical_properties": {
+        "拉伸强度": "≥1.2MPa",
+        "断裂伸长率": "≥300%",
+        "低温柔性": "-25℃"
+      },
+      "application_scenarios": [
+        "屋面防水",
+        "卫生间",
+        "地下室"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-30T23:52:22.966497",
+    "version": "17.0"
+  },
+  {
+    "material_id": "09c6223fdb81252a",
+    "category": "防水材料",
+    "data": {
+      "category": "防水材料",
+      "material_type": "SBS改性沥青防水卷材",
+      "standard": "GB 18242-2008",
+      "chemical_components": [
+        {
+          "name": "沥青",
+          "cas": "8052-42-4",
+          "hazard": "低"
+        },
+        {
+          "name": "SBS橡胶",
+          "cas": "9003-55-8",
+          "hazard": "低"
+        },
+        {
+          "name": "胎基",
+          "cas": "N/A",
+          "hazard": "无"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "高温施工",
+          "severity": "中",
+          "description": "需加热施工，注意安全"
+        }
+      ],
+      "visual_cues": [
+        "黑色卷材",
+        "表面覆膜",
+        "柔韧可弯曲"
+      ],
+      "certifications": [
+        "GB 18242-2008",
+        "国标I型"
+      ],
+      "advantages": [
+        "耐高低温",
+        "延伸性好",
+        "耐老化",
+        "防水性能优"
+      ],
+      "disadvantages": [
+        "施工需加热",
+        "不耐穿刺"
+      ],
+      "maintenance_tips": [
+        "避免尖锐物",
+        "定期检查接缝",
+        "清理排水口"
+      ],
+      "health_recommendations": [
+        "施工时注意通风",
+        "高温作业防护",
+        "成品无毒"
+      ],
+      "physical_properties": {
+        "拉力": "≥800N/50mm",
+        "延伸率": "≥30%",
+        "耐热性": "110℃"
+      },
+      "application_scenarios": [
+        "屋面",
+        "地下工程",
+        "隧道"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-30T23:52:22.966497",
+    "version": "17.0"
+  },
+  {
+    "material_id": "759730975df1ca43",
+    "category": "保温材料",
+    "data": {
+      "category": "保温材料",
+      "material_type": "岩棉板",
+      "standard": "GB/T 25975-2018",
+      "chemical_components": [
+        {
+          "name": "玄武岩纤维",
+          "cas": "N/A",
+          "hazard": "低"
+        },
+        {
+          "name": "酚醛树脂",
+          "cas": "9003-35-4",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "粉尘",
+          "severity": "低",
+          "description": "切割时产生粉尘"
+        }
+      ],
+      "visual_cues": [
+        "黄褐色",
+        "纤维状",
+        "板材"
+      ],
+      "certifications": [
+        "GB/T 25975-2018",
+        "A级防火"
+      ],
+      "advantages": [
+        "不燃A级",
+        "保温隔热",
+        "吸音降噪",
+        "防潮"
+      ],
+      "disadvantages": [
+        "纤维易飘散",
+        "需包裹使用"
+      ],
+      "maintenance_tips": [
+        "保持干燥",
+        "防止破损",
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "施工戴口罩",
+        "避免皮肤直接接触",
+        "密封包裹"
+      ],
+      "physical_properties": {
+        "导热系数": "≤0.040W/(m·K)",
+        "密度": "80-200kg/m³",
+        "燃烧性能": "A级"
+      },
+      "application_scenarios": [
+        "外墙保温",
+        "幕墙",
+        "防火隔断"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-30T23:52:22.966497",
+    "version": "17.0"
+  },
+  {
+    "material_id": "afb6c460cfad21de",
+    "category": "保温材料",
+    "data": {
+      "category": "保温材料",
+      "material_type": "挤塑聚苯板（XPS）",
+      "standard": "GB/T 10801.2-2018",
+      "chemical_components": [
+        {
+          "name": "聚苯乙烯",
+          "cas": "9003-53-6",
+          "hazard": "低"
+        },
+        {
+          "name": "阻燃剂",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "可燃性",
+          "severity": "中",
+          "description": "B1级阻燃，需防火保护"
+        }
+      ],
+      "visual_cues": [
+        "浅蓝色或粉色",
+        "闭孔结构",
+        "硬质板材"
+      ],
+      "certifications": [
+        "GB/T 10801.2-2018",
+        "B1级"
+      ],
+      "advantages": [
+        "保温性能好",
+        "抗压强度高",
+        "吸水率低",
+        "耐久性好"
+      ],
+      "disadvantages": [
+        "可燃B1级",
+        "价格较高"
+      ],
+      "maintenance_tips": [
+        "避免高温",
+        "防止机械损伤",
+        "防晒"
+      ],
+      "health_recommendations": [
+        "选择环保型",
+        "施工通风",
+        "防火保护层"
+      ],
+      "physical_properties": {
+        "导热系数": "≤0.030W/(m·K)",
+        "抗压强度": "≥250kPa",
+        "吸水率": "≤1.5%"
+      },
+      "application_scenarios": [
+        "外墙保温",
+        "地暖",
+        "冷库"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-30T23:52:22.966497",
+    "version": "17.0"
+  },
+  {
+    "material_id": "3fe68b6213149c01",
+    "category": "门窗材料",
+    "data": {
+      "category": "门窗材料",
+      "material_type": "断桥铝合金型材",
+      "standard": "GB/T 8478-2020",
+      "chemical_components": [
+        {
+          "name": "铝合金",
+          "cas": "N/A",
+          "hazard": "无"
+        },
+        {
+          "name": "PA66尼龙隔热条",
+          "cas": "32131-17-2",
+          "hazard": "无"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "金属光泽",
+        "中间隔热条",
+        "型材表面喷涂"
+      ],
+      "certifications": [
+        "GB/T 8478-2020",
+        "节能认证"
+      ],
+      "advantages": [
+        "隔热保温",
+        "节能环保",
+        "耐腐蚀",
+        "强度高"
+      ],
+      "disadvantages": [
+        "价格较高",
+        "加工要求高"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "检查密封条",
+        "润滑五金"
+      ],
+      "health_recommendations": [
+        "环保无毒",
+        "节能降耗",
+        "隔音效果好"
+      ],
+      "physical_properties": {
+        "传热系数": "≤2.8W/(m²·K)",
+        "壁厚": "≥1.4mm",
+        "隔热条宽度": "≥14mm"
+      },
+      "application_scenarios": [
+        "住宅门窗",
+        "幕墙",
+        "阳光房"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-30T23:52:22.966497",
+    "version": "17.0"
+  },
+  {
+    "material_id": "12c27a164443e994",
+    "category": "管道材料",
+    "data": {
+      "category": "管道材料",
+      "material_type": "PPR给水管",
+      "standard": "GB/T 18742-2017",
+      "chemical_components": [
+        {
+          "name": "无规共聚聚丙烯",
+          "cas": "25085-53-4",
+          "hazard": "无"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "白色或绿色",
+        "表面光滑",
+        "管身标识"
+      ],
+      "certifications": [
+        "GB/T 18742-2017",
+        "NSF认证",
+        "卫生许可"
+      ],
+      "advantages": [
+        "耐高温",
+        "耐腐蚀",
+        "无毒卫生",
+        "使用寿命长50年"
+      ],
+      "disadvantages": [
+        "不耐紫外线",
+        "低温脆性"
+      ],
+      "maintenance_tips": [
+        "避免暴晒",
+        "防冻保护",
+        "定期检查接头"
+      ],
+      "health_recommendations": [
+        "食品级安全",
+        "无毒无味",
+        "不结垢"
+      ],
+      "physical_properties": {
+        "耐热性": "95℃长期70℃",
+        "耐压": "≥2.5MPa",
+        "线膨胀系数": "0.15mm/(m·℃)"
+      },
+      "application_scenarios": [
+        "冷热水",
+        "地暖",
+        "纯净水"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-30T23:52:22.966497",
+    "version": "17.0"
+  },
+  {
+    "material_id": "39681e6150a05a44",
+    "category": "管道材料",
+    "data": {
+      "category": "管道材料",
+      "material_type": "UPVC排水管",
+      "standard": "GB/T 5836.1-2018",
+      "chemical_components": [
+        {
+          "name": "硬质聚氯乙烯",
+          "cas": "9002-86-2",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "燃烧产物",
+          "severity": "中",
+          "description": "燃烧产生HCl"
+        }
+      ],
+      "visual_cues": [
+        "灰白色或橘红色",
+        "表面光滑",
+        "管壁均匀"
+      ],
+      "certifications": [
+        "GB/T 5836.1-2018"
+      ],
+      "advantages": [
+        "耐腐蚀",
+        "价格低",
+        "安装方便",
+        "流通顺畅"
+      ],
+      "disadvantages": [
+        "不耐高温",
+        "低温脆"
+      ],
+      "maintenance_tips": [
+        "防止堵塞",
+        "避免高温水",
+        "定期清理"
+      ],
+      "health_recommendations": [
+        "排水专用",
+        "通风环境",
+        "符合标准安全"
+      ],
+      "physical_properties": {
+        "维卡软化温度": "≥80℃",
+        "拉伸强度": "≥45MPa",
+        "冲击强度": "≥15kJ/m²"
+      },
+      "application_scenarios": [
+        "室内排水",
+        "雨水管",
+        "通气管"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-30T23:52:22.966497",
+    "version": "17.0"
+  },
+  {
+    "material_id": "e6da316a06c87825",
+    "category": "吊顶材料",
+    "data": {
+      "category": "吊顶材料",
+      "material_type": "铝扣板",
+      "standard": "GB/T 23443-2009",
+      "chemical_components": [
+        {
+          "name": "铝合金",
+          "cas": "N/A",
+          "hazard": "无"
+        },
+        {
+          "name": "表面涂层",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "金属光泽",
+        "方形或条形",
+        "表面平整"
+      ],
+      "certifications": [
+        "GB/T 23443-2009"
+      ],
+      "advantages": [
+        "防潮防火",
+        "易清洁",
+        "美观耐用",
+        "安装方便"
+      ],
+      "disadvantages": [
+        "隔音差",
+        "易变形"
+      ],
+      "maintenance_tips": [
+        "定期擦拭",
+        "避免重压",
+        "检查龙骨"
+      ],
+      "health_recommendations": [
+        "环保无毒",
+        "防霉抗菌",
+        "适合厨卫"
+      ],
+      "physical_properties": {
+        "厚度": "0.5-0.8mm",
+        "板面平整度": "≤1.5mm",
+        "涂层附着力": "0级"
+      },
+      "application_scenarios": [
+        "厨房",
+        "卫生间",
+        "阳台"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-30T23:52:22.967496",
+    "version": "17.0"
+  },
+  {
+    "material_id": "e95a9f2fa9197a95",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "真丝绸缎",
+      "composition": "100% 桑蚕丝",
+      "standard": "GB/T 15551-2016",
+      "chemical_treatments": [
+        {
+          "name": "脱胶",
+          "hazard": "低"
+        },
+        {
+          "name": "染色",
+          "hazard": "中"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "亲肤舒适",
+        "吸湿透气",
+        "光泽柔美",
+        "冬暖夏凉"
+      ],
+      "care_instructions": {
+        "washing": "30度以下手洗或干洗",
+        "drying": "阴干避免暴晒",
+        "ironing": "低温反面熨烫"
+      },
+      "certifications": [
+        "GB 18401 A类",
+        "真丝标志"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "天然蛋白纤维",
+        "光泽度高",
+        "飘逸柔软",
+        "高档奢华"
+      ],
+      "disadvantages": [
+        "易皱",
+        "不耐拉扯",
+        "价格昂贵",
+        "保养复杂"
+      ],
+      "maintenance_tips": [
+        "避免阳光直晒",
+        "防虫防霉",
+        "专业干洗",
+        "低温保存"
+      ],
+      "health_recommendations": [
+        "敏感肌适用",
+        "透气性好",
+        "抗紫外线"
+      ],
+      "physical_properties": {
+        "克重": "60-140g/m²",
+        "断裂强力": "≥200N",
+        "色牢度": "≥3级"
+      },
+      "application_scenarios": [
+        "高档服装",
+        "睡衣",
+        "丝巾"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-30T23:52:22.967496",
+    "version": "17.0"
+  },
+  {
+    "material_id": "50813b8e2c15045e",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "天丝（Tencel）",
+      "composition": "100% 莱赛尔纤维",
+      "standard": "FZ/T 52012-2014",
+      "chemical_treatments": [
+        {
+          "name": "N-甲基吗啉-N-氧化物溶解",
+          "hazard": "低"
+        },
+        {
+          "name": "染色",
+          "hazard": "中"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "超柔软",
+        "吸湿性极强",
+        "抗菌抑菌",
+        "环保可降解"
+      ],
+      "care_instructions": {
+        "washing": "40度机洗",
+        "drying": "可低温烘干",
+        "ironing": "中温熨烫"
+      },
+      "certifications": [
+        "GB 18401 A类",
+        "FSC森林认证",
+        "欧盟生态标签"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "丝般柔滑",
+        "吸湿透气",
+        "不易起球",
+        "绿色环保"
+      ],
+      "disadvantages": [
+        "湿强度低",
+        "易缩水",
+        "价格较高"
+      ],
+      "maintenance_tips": [
+        "首次洗涤浸泡",
+        "避免拧干",
+        "平铺晾干"
+      ],
+      "health_recommendations": [
+        "敏感肌首选",
+        "抑菌防螨",
+        "婴幼儿适用"
+      ],
+      "physical_properties": {
+        "克重": "120-180g/m²",
+        "吸湿率": "≥13%",
+        "悬垂性": "优秀"
+      },
+      "application_scenarios": [
+        "内衣",
+        "床上用品",
+        "高档T恤"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-30T23:52:22.967496",
+    "version": "17.0"
+  },
+  {
+    "material_id": "70ac5dc0bfe458f8",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "莫代尔（Modal）",
+      "composition": "100% 莫代尔纤维",
+      "standard": "FZ/T 52013-2014",
+      "chemical_treatments": [
+        {
+          "name": "浆粕提取",
+          "hazard": "低"
+        },
+        {
+          "name": "染色",
+          "hazard": "中"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "柔软亲肤",
+        "吸湿透气",
+        "光泽自然",
+        "不易变形"
+      ],
+      "care_instructions": {
+        "washing": "40度机洗",
+        "drying": "可机烘",
+        "ironing": "中温熨烫"
+      },
+      "certifications": [
+        "GB 18401 A类",
+        "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "超柔软手感",
+        "吸湿性强",
+        "色彩鲜艳",
+        "尺寸稳定"
+      ],
+      "disadvantages": [
+        "易起球",
+        "价格偏高"
+      ],
+      "maintenance_tips": [
+        "中性洗涤剂",
+        "避免暴晒",
+        "轻柔洗涤"
+      ],
+      "health_recommendations": [
+        "贴身衣物优选",
+        "透气性好",
+        "抗菌性能"
+      ],
+      "physical_properties": {
+        "克重": "140-200g/m²",
+        "吸湿率": "≥14%",
+        "色牢度": "4-5级"
+      },
+      "application_scenarios": [
+        "内衣",
+        "家居服",
+        "运动服"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-30T23:52:22.967496",
+    "version": "17.0"
+  },
+  {
+    "material_id": "932830a9cea553f1",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "功能性速干布",
+      "composition": "100% 聚酯纤维（改性）",
+      "standard": "FZ/T 73023-2021",
+      "chemical_treatments": [
+        {
+          "name": "吸湿排汗整理",
+          "hazard": "低"
+        },
+        {
+          "name": "抗菌整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "快速排汗",
+        "速干透气",
+        "轻便舒适"
+      ],
+      "care_instructions": {
+        "washing": "40度机洗",
+        "drying": "可机烘或自然晾干",
+        "ironing": "低温熨烫"
+      },
+      "certifications": [
+        "GB 18401 B类",
+        "功能性纺织品认证"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "速干快",
+        "排汗性好",
+        "轻便耐磨",
+        "易打理"
+      ],
+      "disadvantages": [
+        "不够柔软",
+        "易产生静电"
+      ],
+      "maintenance_tips": [
+        "避免柔顺剂",
+        "不可漂白",
+        "及时清洗"
+      ],
+      "health_recommendations": [
+        "运动首选",
+        "户外活动",
+        "高温环境"
+      ],
+      "physical_properties": {
+        "克重": "100-150g/m²",
+        "透湿率": "≥4000g/(m²·24h)",
+        "干燥时间": "≤2小时"
+      },
+      "application_scenarios": [
+        "运动服",
+        "户外服装",
+        "登山服"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-30T23:52:22.967496",
+    "version": "17.0"
+  },
+  {
+    "material_id": "fb78ba016eb696bb",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "抗菌银离子布",
+      "composition": "95% 棉 + 5% 银纤维",
+      "standard": "FZ/T 73023-2006",
+      "chemical_treatments": [
+        {
+          "name": "纳米银整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "抗菌抑菌",
+        "除臭",
+        "吸湿透气",
+        "柔软舒适"
+      ],
+      "care_instructions": {
+        "washing": "40度以下机洗",
+        "drying": "自然晾干",
+        "ironing": "中温熨烫"
+      },
+      "certifications": [
+        "GB 18401 A类",
+        "抗菌率≥99%认证"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "持久抗菌",
+        "天然除臭",
+        "亲肤透气",
+        "健康环保"
+      ],
+      "disadvantages": [
+        "价格较高",
+        "避免漂白"
+      ],
+      "maintenance_tips": [
+        "中性洗涤",
+        "避免氯漂",
+        "不可高温"
+      ],
+      "health_recommendations": [
+        "敏感肌适用",
+        "婴幼儿优选",
+        "医疗级抗菌"
+      ],
+      "physical_properties": {
+        "克重": "150-180g/m²",
+        "抗菌率": "≥99%",
+        "耐洗次数": "≥50次"
+      },
+      "application_scenarios": [
+        "内衣",
+        "袜子",
+        "婴儿用品",
+        "医疗纺织品"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-30T23:52:22.967496",
+    "version": "17.0"
+  },
+  {
+    "material_id": "2557a2dffdd56c2f",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "防紫外线遮阳布",
+      "composition": "100% 聚酯纤维（UV整理）",
+      "standard": "GB/T 18830-2009",
+      "chemical_treatments": [
+        {
+          "name": "紫外线吸收剂整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "防紫外线",
+        "隔热降温",
+        "保护皮肤"
+      ],
+      "care_instructions": {
+        "washing": "30度机洗",
+        "drying": "自然晾干",
+        "ironing": "低温熨烫"
+      },
+      "certifications": [
+        "GB 18401 B类",
+        "UPF50+认证"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "UPF50+防护",
+        "隔热效果好",
+        "耐晒耐洗",
+        "颜色丰富"
+      ],
+      "disadvantages": [
+        "透气性一般",
+        "手感偏硬"
+      ],
+      "maintenance_tips": [
+        "避免高温",
+        "不可漂白",
+        "保持功能性"
+      ],
+      "health_recommendations": [
+        "户外防晒",
+        "紫外线敏感者",
+        "儿童防护"
+      ],
+      "physical_properties": {
+        "克重": "120-200g/m²",
+        "UPF值": "≥50",
+        "紫外线透过率": "≤2%"
+      },
+      "application_scenarios": [
+        "遮阳服",
+        "防晒衣",
+        "户外用品"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-30T23:52:22.967496",
+    "version": "17.0"
+  },
+  {
+    "material_id": "1477e6fd4ef24021",
+    "category": "衣料纺织品",
+    "data": {
+      "fabric_type": "阻燃防护布",
+      "composition": "芳纶纤维混纺",
+      "standard": "GB 8965.1-2020",
+      "chemical_treatments": [
+        {
+          "name": "阻燃整理",
+          "hazard": "低"
+        }
+      ],
+      "health_risks": [],
+      "health_benefits": [
+        "阻燃防火",
+        "耐高温",
+        "保护安全"
+      ],
+      "care_instructions": {
+        "washing": "60度以下工业洗涤",
+        "drying": "自然晾干",
+        "ironing": "禁止熨烫"
+      },
+      "certifications": [
+        "GB 18401 C类",
+        "阻燃A级",
+        "劳保认证"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "永久阻燃",
+        "耐高温400℃",
+        "强度高",
+        "耐磨损"
+      ],
+      "disadvantages": [
+        "价格昂贵",
+        "手感较硬",
+        "透气性差"
+      ],
+      "maintenance_tips": [
+        "专业洗涤",
+        "避免酸碱",
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "高温作业专用",
+        "消防救援",
+        "工业防护"
+      ],
+      "physical_properties": {
+        "克重": "200-300g/m²",
+        "续燃时间": "≤2秒",
+        "阴燃时间": "≤2秒"
+      },
+      "application_scenarios": [
+        "消防服",
+        "焊工服",
+        "高温作业服"
+      ]
+    },
+    "source": "纺织品标准数据库",
+    "last_updated": "2026-01-30T23:52:22.967496",
+    "version": "17.0"
+  }
+]

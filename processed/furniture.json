@@ -2989,5 +2989,552 @@
     "source": "国家建材标准数据库",
     "last_updated": "2026-01-30T23:48:06.883734",
     "version": "16.0"
+  },
+  {
+    "material_id": "d4b7e9746ada2440",
+    "category": "防水材料",
+    "data": {
+      "category": "防水材料",
+      "material_type": "聚氨酯防水涂料",
+      "standard": "GB/T 19250-2013",
+      "chemical_components": [
+        {
+          "name": "聚氨酯",
+          "cas": "9009-54-5",
+          "hazard": "中"
+        },
+        {
+          "name": "异氰酸酯",
+          "cas": "26471-62-5",
+          "hazard": "中"
+        },
+        {
+          "name": "溶剂",
+          "cas": "N/A",
+          "hazard": "中"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "VOCs",
+          "severity": "中",
+          "description": "含有机溶剂，需通风"
+        },
+        {
+          "type": "皮肤刺激",
+          "severity": "中",
+          "description": "异氰酸酯可能刺激皮肤"
+        }
+      ],
+      "visual_cues": [
+        "液体状",
+        "双组分",
+        "刷涂后形成弹性膜"
+      ],
+      "certifications": [
+        "GB/T 19250-2013",
+        "环保认证"
+      ],
+      "advantages": [
+        "弹性好",
+        "耐候性强",
+        "粘结力强",
+        "耐水性优异"
+      ],
+      "disadvantages": [
+        "施工要求高",
+        "有机溶剂气味",
+        "价格较高"
+      ],
+      "maintenance_tips": [
+        "施工后充分固化",
+        "避免尖锐物破坏",
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "施工时通风",
+        "戴防护手套口罩",
+        "固化后安全"
+      ],
+      "physical_properties": {
+        "拉伸强度": "≥1.2MPa",
+        "断裂伸长率": "≥300%",
+        "低温柔性": "-25℃"
+      },
+      "application_scenarios": [
+        "屋面防水",
+        "卫生间",
+        "地下室"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-30T23:52:22.966497",
+    "version": "17.0"
+  },
+  {
+    "material_id": "09c6223fdb81252a",
+    "category": "防水材料",
+    "data": {
+      "category": "防水材料",
+      "material_type": "SBS改性沥青防水卷材",
+      "standard": "GB 18242-2008",
+      "chemical_components": [
+        {
+          "name": "沥青",
+          "cas": "8052-42-4",
+          "hazard": "低"
+        },
+        {
+          "name": "SBS橡胶",
+          "cas": "9003-55-8",
+          "hazard": "低"
+        },
+        {
+          "name": "胎基",
+          "cas": "N/A",
+          "hazard": "无"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "高温施工",
+          "severity": "中",
+          "description": "需加热施工，注意安全"
+        }
+      ],
+      "visual_cues": [
+        "黑色卷材",
+        "表面覆膜",
+        "柔韧可弯曲"
+      ],
+      "certifications": [
+        "GB 18242-2008",
+        "国标I型"
+      ],
+      "advantages": [
+        "耐高低温",
+        "延伸性好",
+        "耐老化",
+        "防水性能优"
+      ],
+      "disadvantages": [
+        "施工需加热",
+        "不耐穿刺"
+      ],
+      "maintenance_tips": [
+        "避免尖锐物",
+        "定期检查接缝",
+        "清理排水口"
+      ],
+      "health_recommendations": [
+        "施工时注意通风",
+        "高温作业防护",
+        "成品无毒"
+      ],
+      "physical_properties": {
+        "拉力": "≥800N/50mm",
+        "延伸率": "≥30%",
+        "耐热性": "110℃"
+      },
+      "application_scenarios": [
+        "屋面",
+        "地下工程",
+        "隧道"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-30T23:52:22.966497",
+    "version": "17.0"
+  },
+  {
+    "material_id": "759730975df1ca43",
+    "category": "保温材料",
+    "data": {
+      "category": "保温材料",
+      "material_type": "岩棉板",
+      "standard": "GB/T 25975-2018",
+      "chemical_components": [
+        {
+          "name": "玄武岩纤维",
+          "cas": "N/A",
+          "hazard": "低"
+        },
+        {
+          "name": "酚醛树脂",
+          "cas": "9003-35-4",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "粉尘",
+          "severity": "低",
+          "description": "切割时产生粉尘"
+        }
+      ],
+      "visual_cues": [
+        "黄褐色",
+        "纤维状",
+        "板材"
+      ],
+      "certifications": [
+        "GB/T 25975-2018",
+        "A级防火"
+      ],
+      "advantages": [
+        "不燃A级",
+        "保温隔热",
+        "吸音降噪",
+        "防潮"
+      ],
+      "disadvantages": [
+        "纤维易飘散",
+        "需包裹使用"
+      ],
+      "maintenance_tips": [
+        "保持干燥",
+        "防止破损",
+        "定期检查"
+      ],
+      "health_recommendations": [
+        "施工戴口罩",
+        "避免皮肤直接接触",
+        "密封包裹"
+      ],
+      "physical_properties": {
+        "导热系数": "≤0.040W/(m·K)",
+        "密度": "80-200kg/m³",
+        "燃烧性能": "A级"
+      },
+      "application_scenarios": [
+        "外墙保温",
+        "幕墙",
+        "防火隔断"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-30T23:52:22.966497",
+    "version": "17.0"
+  },
+  {
+    "material_id": "afb6c460cfad21de",
+    "category": "保温材料",
+    "data": {
+      "category": "保温材料",
+      "material_type": "挤塑聚苯板（XPS）",
+      "standard": "GB/T 10801.2-2018",
+      "chemical_components": [
+        {
+          "name": "聚苯乙烯",
+          "cas": "9003-53-6",
+          "hazard": "低"
+        },
+        {
+          "name": "阻燃剂",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "可燃性",
+          "severity": "中",
+          "description": "B1级阻燃，需防火保护"
+        }
+      ],
+      "visual_cues": [
+        "浅蓝色或粉色",
+        "闭孔结构",
+        "硬质板材"
+      ],
+      "certifications": [
+        "GB/T 10801.2-2018",
+        "B1级"
+      ],
+      "advantages": [
+        "保温性能好",
+        "抗压强度高",
+        "吸水率低",
+        "耐久性好"
+      ],
+      "disadvantages": [
+        "可燃B1级",
+        "价格较高"
+      ],
+      "maintenance_tips": [
+        "避免高温",
+        "防止机械损伤",
+        "防晒"
+      ],
+      "health_recommendations": [
+        "选择环保型",
+        "施工通风",
+        "防火保护层"
+      ],
+      "physical_properties": {
+        "导热系数": "≤0.030W/(m·K)",
+        "抗压强度": "≥250kPa",
+        "吸水率": "≤1.5%"
+      },
+      "application_scenarios": [
+        "外墙保温",
+        "地暖",
+        "冷库"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-30T23:52:22.966497",
+    "version": "17.0"
+  },
+  {
+    "material_id": "3fe68b6213149c01",
+    "category": "门窗材料",
+    "data": {
+      "category": "门窗材料",
+      "material_type": "断桥铝合金型材",
+      "standard": "GB/T 8478-2020",
+      "chemical_components": [
+        {
+          "name": "铝合金",
+          "cas": "N/A",
+          "hazard": "无"
+        },
+        {
+          "name": "PA66尼龙隔热条",
+          "cas": "32131-17-2",
+          "hazard": "无"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "金属光泽",
+        "中间隔热条",
+        "型材表面喷涂"
+      ],
+      "certifications": [
+        "GB/T 8478-2020",
+        "节能认证"
+      ],
+      "advantages": [
+        "隔热保温",
+        "节能环保",
+        "耐腐蚀",
+        "强度高"
+      ],
+      "disadvantages": [
+        "价格较高",
+        "加工要求高"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "检查密封条",
+        "润滑五金"
+      ],
+      "health_recommendations": [
+        "环保无毒",
+        "节能降耗",
+        "隔音效果好"
+      ],
+      "physical_properties": {
+        "传热系数": "≤2.8W/(m²·K)",
+        "壁厚": "≥1.4mm",
+        "隔热条宽度": "≥14mm"
+      },
+      "application_scenarios": [
+        "住宅门窗",
+        "幕墙",
+        "阳光房"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-30T23:52:22.966497",
+    "version": "17.0"
+  },
+  {
+    "material_id": "12c27a164443e994",
+    "category": "管道材料",
+    "data": {
+      "category": "管道材料",
+      "material_type": "PPR给水管",
+      "standard": "GB/T 18742-2017",
+      "chemical_components": [
+        {
+          "name": "无规共聚聚丙烯",
+          "cas": "25085-53-4",
+          "hazard": "无"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "白色或绿色",
+        "表面光滑",
+        "管身标识"
+      ],
+      "certifications": [
+        "GB/T 18742-2017",
+        "NSF认证",
+        "卫生许可"
+      ],
+      "advantages": [
+        "耐高温",
+        "耐腐蚀",
+        "无毒卫生",
+        "使用寿命长50年"
+      ],
+      "disadvantages": [
+        "不耐紫外线",
+        "低温脆性"
+      ],
+      "maintenance_tips": [
+        "避免暴晒",
+        "防冻保护",
+        "定期检查接头"
+      ],
+      "health_recommendations": [
+        "食品级安全",
+        "无毒无味",
+        "不结垢"
+      ],
+      "physical_properties": {
+        "耐热性": "95℃长期70℃",
+        "耐压": "≥2.5MPa",
+        "线膨胀系数": "0.15mm/(m·℃)"
+      },
+      "application_scenarios": [
+        "冷热水",
+        "地暖",
+        "纯净水"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-30T23:52:22.966497",
+    "version": "17.0"
+  },
+  {
+    "material_id": "39681e6150a05a44",
+    "category": "管道材料",
+    "data": {
+      "category": "管道材料",
+      "material_type": "UPVC排水管",
+      "standard": "GB/T 5836.1-2018",
+      "chemical_components": [
+        {
+          "name": "硬质聚氯乙烯",
+          "cas": "9002-86-2",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "燃烧产物",
+          "severity": "中",
+          "description": "燃烧产生HCl"
+        }
+      ],
+      "visual_cues": [
+        "灰白色或橘红色",
+        "表面光滑",
+        "管壁均匀"
+      ],
+      "certifications": [
+        "GB/T 5836.1-2018"
+      ],
+      "advantages": [
+        "耐腐蚀",
+        "价格低",
+        "安装方便",
+        "流通顺畅"
+      ],
+      "disadvantages": [
+        "不耐高温",
+        "低温脆"
+      ],
+      "maintenance_tips": [
+        "防止堵塞",
+        "避免高温水",
+        "定期清理"
+      ],
+      "health_recommendations": [
+        "排水专用",
+        "通风环境",
+        "符合标准安全"
+      ],
+      "physical_properties": {
+        "维卡软化温度": "≥80℃",
+        "拉伸强度": "≥45MPa",
+        "冲击强度": "≥15kJ/m²"
+      },
+      "application_scenarios": [
+        "室内排水",
+        "雨水管",
+        "通气管"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-30T23:52:22.966497",
+    "version": "17.0"
+  },
+  {
+    "material_id": "e6da316a06c87825",
+    "category": "吊顶材料",
+    "data": {
+      "category": "吊顶材料",
+      "material_type": "铝扣板",
+      "standard": "GB/T 23443-2009",
+      "chemical_components": [
+        {
+          "name": "铝合金",
+          "cas": "N/A",
+          "hazard": "无"
+        },
+        {
+          "name": "表面涂层",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [],
+      "visual_cues": [
+        "金属光泽",
+        "方形或条形",
+        "表面平整"
+      ],
+      "certifications": [
+        "GB/T 23443-2009"
+      ],
+      "advantages": [
+        "防潮防火",
+        "易清洁",
+        "美观耐用",
+        "安装方便"
+      ],
+      "disadvantages": [
+        "隔音差",
+        "易变形"
+      ],
+      "maintenance_tips": [
+        "定期擦拭",
+        "避免重压",
+        "检查龙骨"
+      ],
+      "health_recommendations": [
+        "环保无毒",
+        "防霉抗菌",
+        "适合厨卫"
+      ],
+      "physical_properties": {
+        "厚度": "0.5-0.8mm",
+        "板面平整度": "≤1.5mm",
+        "涂层附着力": "0级"
+      },
+      "application_scenarios": [
+        "厨房",
+        "卫生间",
+        "阳台"
+      ]
+    },
+    "source": "国家建材标准数据库",
+    "last_updated": "2026-01-30T23:52:22.967496",
+    "version": "17.0"
   }
 ]
