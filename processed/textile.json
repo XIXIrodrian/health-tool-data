@@ -41,11 +41,40 @@
         "OEKO-TEX",
         "GOTS",
         "OCS"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "透气性好",
+        "吸湿性强",
+        "亲肤柔软"
+      ],
+      "disadvantages": [
+        "劣质染料可能含偶氮染料",
+        "非有机棉可能有农药残留"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗,40度以下",
+        "晾干方式: 可机烘,低温",
+        "熨烫方式: 高温熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "OEKO-TEX Standard 100",
-    "last_updated": "2026-01-30T17:27:21.113604",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "dc1fbf09720aaca5",
@@ -83,11 +112,39 @@
       "certifications": [
         "OEKO-TEX",
         "European Flax"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "天然抗菌",
+        "极佳透气性",
+        "吸湿快干"
+      ],
+      "disadvantages": [
+        "未处理麻布可能对敏感肌肤有刺激"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗,冷水",
+        "晾干方式: 自然晾干",
+        "熨烫方式: 高温熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "OEKO-TEX Standard 100",
-    "last_updated": "2026-01-30T17:27:21.113604",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "dc1fbf09720aaca5",
@@ -130,11 +187,40 @@
       "certifications": [
         "OEKO-TEX",
         "GS Mark"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "亲肤柔滑",
+        "保湿美肤",
+        "减少静电"
+      ],
+      "disadvantages": [
+        "极少数人对蚕丝蛋白过敏",
+        "深色真丝可能有染料残留"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 手洗,冷水,专用洗涤剂",
+        "晾干方式: 阴干,避免阳光直射",
+        "熨烫方式: 低温熨烫,反面"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "OEKO-TEX Standard 100",
-    "last_updated": "2026-01-30T17:27:21.113604",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "dc1fbf09720aaca5",
@@ -187,11 +273,41 @@
         "Woolmark",
         "OEKO-TEX",
         "ZQ Merino"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "保暖性极佳",
+        "吸湿排汗",
+        "天然阻燃"
+      ],
+      "disadvantages": [
+        "劣质羊毛可能经氯化处理,残留有毒物质",
+        "传统防虫剂可能含有机磷农药",
+        "羊毛过敏者慎用"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 手洗或干洗,冷水",
+        "晾干方式: 平铺晾干",
+        "熨烫方式: 低温熨烫,隔布"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "OEKO-TEX Standard 100",
-    "last_updated": "2026-01-30T17:27:21.113604",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "dc1fbf09720aaca5",
@@ -243,11 +359,41 @@
       "certifications": [
         "OEKO-TEX",
         "GRS(再生涤纶)"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "耐用抗皱",
+        "快干",
+        "价格便宜"
+      ],
+      "disadvantages": [
+        "部分涤纶添加溴化阻燃剂,可能影响内分泌",
+        "劣质涤纶可能含塑化剂",
+        "纯涤纶透气性差,易闷热"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗,温水",
+        "晾干方式: 可机烘,低温",
+        "熨烫方式: 低温熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "OEKO-TEX Standard 100",
-    "last_updated": "2026-01-30T17:27:21.113604",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "dc1fbf09720aaca5",
@@ -299,11 +445,41 @@
       "certifications": [
         "OEKO-TEX",
         "bluesign"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "轻便耐磨",
+        "强度高",
+        "快干"
+      ],
+      "disadvantages": [
+        "防水尼龙可能含全氟化合物(PFAS)",
+        "银离子等抗菌剂可能引起过敏",
+        "纯尼龙不透气,贴身穿着易闷热"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗,冷水",
+        "晾干方式: 阴干,避免高温",
+        "熨烫方式: 低温或不熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "OEKO-TEX Standard 100",
-    "last_updated": "2026-01-30T17:27:21.113604",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "dc1fbf09720aaca5",
@@ -350,11 +526,41 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "弹性极佳",
+        "贴身舒适",
+        "增强耐用性"
+      ],
+      "disadvantages": [
+        "生产过程使用异氰酸酯,残留可能致敏",
+        "DMF等溶剂残留有毒",
+        "对弹性纤维过敏者慎用"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗,冷水",
+        "晾干方式: 阴干,避免阳光和高温",
+        "熨烫方式: 不熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "OEKO-TEX Standard 100",
-    "last_updated": "2026-01-30T17:27:21.113604",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "dc1fbf09720aaca5",
@@ -403,11 +609,41 @@
         "OEKO-TEX",
         "FSC(天丝)",
         "PEFC"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "柔软舒适",
+        "吸湿透气",
+        "不起静电"
+      ],
+      "disadvantages": [
+        "传统粘胶生产使用二硫化碳,环境污染大",
+        "劣质粘胶可能有碱液残留",
+        "湿强度低,易变形"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 手洗或干洗",
+        "晾干方式: 平铺晾干",
+        "熨烫方式: 中温熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "OEKO-TEX Standard 100",
-    "last_updated": "2026-01-30T17:27:21.113604",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "32b51d45ca0dc9a6",
@@ -440,11 +676,39 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "柔软亲肤",
+        "吸湿性好",
+        "不易起球"
+      ],
+      "disadvantages": [
+        "高品质莫代尔残留低"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗,30度",
+        "晾干方式: 自然晾干",
+        "熨烫方式: 低温熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "数据扩充",
-    "last_updated": "2026-01-30T17:39:34.118693",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "6a649b43271967e7",
@@ -478,11 +742,39 @@
       "certifications": [
         "FSC",
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "柔滑亲肤",
+        "吸湿透气",
+        "抗菌抑菌"
+      ],
+      "disadvantages": [
+        "闭环生产,化学物回收"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 手洗或机洗轻柔模式",
+        "晾干方式: 平铺晾干",
+        "熨烫方式: 低温熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "数据扩充",
-    "last_updated": "2026-01-30T17:39:34.118693",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "04797929943daf32",
@@ -515,11 +807,39 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "天然抗菌",
+        "吸湿透气",
+        "环保可降解"
+      ],
+      "disadvantages": [
+        "生产过程化学处理较多"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 自然晾干",
+        "熨烫方式: 中温熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "数据扩充",
-    "last_updated": "2026-01-30T17:39:34.118693",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "0c2ae95e36149a40",
@@ -551,11 +871,38 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "柔滑舒适",
+        "兼具各材质优点"
+      ],
+      "disadvantages": [
+        "深色真丝混纺可能有染料残留"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 手洗冷水",
+        "晾干方式: 阴干",
+        "熨烫方式: 低温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "数据扩充",
-    "last_updated": "2026-01-30T17:39:34.118693",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "a291dd011617583d",
@@ -588,11 +935,39 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "耐磨耐穿",
+        "不易皱",
+        "快干"
+      ],
+      "disadvantages": [
+        "涤纶成分高透气性降低"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 可机烘",
+        "熨烫方式: 中温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "数据扩充",
-    "last_updated": "2026-01-30T17:39:34.118693",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "7e1eb5b46e95b418",
@@ -625,11 +1000,39 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "透气吸汗",
+        "天然环保",
+        "清爽舒适"
+      ],
+      "disadvantages": [
+        "麻成分高可能粗糙"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 自然晾干",
+        "熨烫方式: 高温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "数据扩充",
-    "last_updated": "2026-01-30T17:39:34.118693",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "4d55ca1bbb72cff0",
@@ -661,11 +1064,38 @@
       },
       "certifications": [
         "UPF认证"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "UPF50+防晒",
+        "防紫外线"
+      ],
+      "disadvantages": [
+        "防晒助剂残留极少"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 轻柔洗涤",
+        "晾干方式: 阴干",
+        "熨烫方式: 不熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第二轮数据扩充",
-    "last_updated": "2026-01-30T17:46:40.372978",
-    "version": "2.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "1efac30b78ca51f0",
@@ -697,11 +1127,38 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "快速排汗",
+        "速干透气"
+      ],
+      "disadvantages": [
+        "易产生静电"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 快速风干",
+        "熨烫方式: 低温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第二轮数据扩充",
-    "last_updated": "2026-01-30T17:46:40.375967",
-    "version": "2.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "c562fb4cafbcb810",
@@ -733,11 +1190,38 @@
       },
       "certifications": [
         "抗菌检测"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "抗菌抑菌",
+        "防臭"
+      ],
+      "disadvantages": [
+        "极少数人对银过敏"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 温和洗涤",
+        "晾干方式: 自然晾干",
+        "熨烫方式: 中温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第二轮数据扩充",
-    "last_updated": "2026-01-30T17:46:40.375967",
-    "version": "2.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "e2572a30a7ba54d0",
@@ -773,11 +1257,38 @@
       },
       "certifications": [
         "bluesign"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "防水透气",
+        "防风"
+      ],
+      "disadvantages": [
+        "传统DWR含全氟化合物"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 专用洗涤剂",
+        "晾干方式: 低温烘干恢复防水",
+        "熨烫方式: 不熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第二轮数据扩充",
-    "last_updated": "2026-01-30T17:46:40.375967",
-    "version": "2.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "482bd481717efb0c",
@@ -809,11 +1320,38 @@
       },
       "certifications": [
         "RDS负责任羽绒"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "保暖性极佳",
+        "轻盈"
+      ],
+      "disadvantages": [
+        "羽绒过敏者禁用"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 专业清洗",
+        "晾干方式: 低温烘干拍打",
+        "熨烫方式: 不熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第二轮数据扩充",
-    "last_updated": "2026-01-30T17:46:40.375967",
-    "version": "2.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "df020d0654f2052d",
@@ -845,11 +1383,38 @@
       },
       "certifications": [
         "GOTS"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "柔软舒适",
+        "透气吸汗"
+      ],
+      "disadvantages": [
+        "预缩水处理"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 自然晾干",
+        "熨烫方式: 中高温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第二轮数据扩充",
-    "last_updated": "2026-01-30T17:46:40.375967",
-    "version": "2.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "1097eb4ca1b661d6",
@@ -881,11 +1446,38 @@
       },
       "certifications": [
         "Woolmark"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "极致保暖",
+        "奢华手感"
+      ],
+      "disadvantages": [
+        "名贵面料"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 干洗",
+        "晾干方式: 平铺晾干",
+        "熨烫方式: 蒸汽低温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第二轮数据扩充",
-    "last_updated": "2026-01-30T17:46:40.375967",
-    "version": "2.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "fb764c2f8bd8fbb6",
@@ -921,11 +1513,38 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "耐磨耐穿",
+        "经典时尚"
+      ],
+      "disadvantages": [
+        "初期可能掉色"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 翻面洗涤",
+        "晾干方式: 自然晾干",
+        "熨烫方式: 中温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第二轮数据扩充",
-    "last_updated": "2026-01-30T17:46:40.375967",
-    "version": "2.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "4b35ddbb0b1cdbc0",
@@ -957,11 +1576,38 @@
       },
       "certifications": [
         "GB 12014"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "防静电",
+        "防尘"
+      ],
+      "disadvantages": [
+        "安全性高"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 低温烘干",
+        "熨烫方式: 不熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第三轮数据扩充",
-    "last_updated": "2026-01-30T17:51:41.422603",
-    "version": "3.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "af7e39e4a1267eef",
@@ -992,11 +1638,37 @@
       },
       "certifications": [
         "GB 8965"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "防火安全"
+      ],
+      "disadvantages": [
+        "部分阻燃剂有毒性"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 专业清洗",
+        "晾干方式: 自然晾干",
+        "熨烫方式: 不熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第三轮数据扩充",
-    "last_updated": "2026-01-30T17:51:41.422603",
-    "version": "3.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "d440f2f9c1171d56",
@@ -1028,11 +1700,38 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "保暖透气",
+        "柔软贴身"
+      ],
+      "disadvantages": [
+        "选择合适尺码"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 手洗",
+        "晾干方式: 平铺晾干",
+        "熨烫方式: 不熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第三轮数据扩充",
-    "last_updated": "2026-01-30T17:51:41.422603",
-    "version": "3.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "c5ed8354c29daf37",
@@ -1065,11 +1764,39 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "凉感",
+        "透气",
+        "顺滑"
+      ],
+      "disadvantages": [
+        "质量差的易起球"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 轻柔洗",
+        "晾干方式: 阴干",
+        "熨烫方式: 低温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第三轮数据扩充",
-    "last_updated": "2026-01-30T17:51:41.422603",
-    "version": "3.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "e69879468ce9cd95",
@@ -1102,11 +1829,39 @@
       },
       "certifications": [
         "GOTS"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "保暖",
+        "柔软",
+        "吸湿"
+      ],
+      "disadvantages": [
+        "初次使用可能掉毛"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 单独洗",
+        "晾干方式: 晾干",
+        "熨烫方式: 不熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第三轮数据扩充",
-    "last_updated": "2026-01-30T17:51:41.422603",
-    "version": "3.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "92c008c9f1a801c7",
@@ -1139,11 +1894,39 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "耐磨",
+        "透气",
+        "环保"
+      ],
+      "disadvantages": [
+        "新品较硬需软化"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 晾干",
+        "熨烫方式: 高温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第三轮数据扩充",
-    "last_updated": "2026-01-30T17:51:41.422603",
-    "version": "3.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "ffedf18c94ebf2fc",
@@ -1176,11 +1959,39 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "轻薄",
+        "飘逸",
+        "透气"
+      ],
+      "disadvantages": [
+        "需小心穿着"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 手洗",
+        "晾干方式: 阴干",
+        "熨烫方式: 低温隔布"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第三轮数据扩充",
-    "last_updated": "2026-01-30T17:51:41.422603",
-    "version": "3.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "0eb0410bae4f3810",
@@ -1213,11 +2024,39 @@
       },
       "certifications": [
         "GOTS"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "弹性好",
+        "舒适",
+        "透气"
+      ],
+      "disadvantages": [
+        "需平铺晾干"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 平铺晾干",
+        "熨烫方式: 中温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第三轮数据扩充",
-    "last_updated": "2026-01-30T17:51:41.422603",
-    "version": "3.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "75f22c956d952ed9",
@@ -1250,11 +2089,39 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "保暖",
+        "柔软",
+        "舒适"
+      ],
+      "disadvantages": [
+        "初次使用掉毛"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 轻柔洗",
+        "晾干方式: 晾干",
+        "熨烫方式: 不熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第三轮数据扩充",
-    "last_updated": "2026-01-30T17:51:41.422603",
-    "version": "3.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "5fd1274851b2c242",
@@ -1287,11 +2154,39 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "超柔软",
+        "保暖",
+        "不掉毛"
+      ],
+      "disadvantages": [
+        "易产生静电"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 低温烘干",
+        "熨烫方式: 不熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第三轮数据扩充",
-    "last_updated": "2026-01-30T17:51:41.422603",
-    "version": "3.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "b89f2223f0ac4e42",
@@ -1325,11 +2220,39 @@
       "certifications": [
         "GOTS",
         "OCS"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "无农药残留",
+        "无化学染色",
+        "亲肤柔软"
+      ],
+      "disadvantages": [
+        "最安全的婴儿面料"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 自然晾干",
+        "熨烫方式: 中温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第七轮数据扩充-衣料",
-    "last_updated": "2026-01-30T21:27:25.566188",
-    "version": "7.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "9cdc12f348121c0c",
@@ -1362,11 +2285,39 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "透气性极佳",
+        "吸湿快干",
+        "柔软亲肤"
+      ],
+      "disadvantages": [
+        "柔软易变形"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 手洗为佳",
+        "晾干方式: 平铺晾干",
+        "熨烫方式: 低温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第七轮数据扩充-衣料",
-    "last_updated": "2026-01-30T21:27:25.566188",
-    "version": "7.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "e28f890a8c1efc6a",
@@ -1399,11 +2350,39 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "天然抗菌",
+        "吸湿透气",
+        "柔软舒适"
+      ],
+      "disadvantages": [
+        "竹浆粘胶有化学加工"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 晾干",
+        "熨烫方式: 中温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第七轮数据扩充-衣料",
-    "last_updated": "2026-01-30T21:27:25.566188",
-    "version": "7.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "aa6a51d6df4f1c60",
@@ -1436,11 +2415,39 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "肌肉支撑",
+        "减少疲劳",
+        "提升表现"
+      ],
+      "disadvantages": [
+        "压力过大影响血液循环"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 冷水机洗",
+        "晾干方式: 阴干",
+        "熨烫方式: 不熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第七轮数据扩充-衣料",
-    "last_updated": "2026-01-30T21:27:25.566188",
-    "version": "7.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "5a52dddd5d2c9105",
@@ -1473,11 +2480,39 @@
       },
       "certifications": [
         "bluesign"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "四通道排汗",
+        "快干透气",
+        "温度调节"
+      ],
+      "disadvantages": [
+        "易产生静电"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 快干",
+        "熨烫方式: 低温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第七轮数据扩充-衣料",
-    "last_updated": "2026-01-30T21:27:25.566188",
-    "version": "7.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "b5e9e4e4daee8748",
@@ -1510,11 +2545,39 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "高弹力",
+        "裸感舒适",
+        "塑形提臀"
+      ],
+      "disadvantages": [
+        "敏感肌可能过敏"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 冷水洗",
+        "晾干方式: 平铺晾干",
+        "熨烫方式: 不熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第七轮数据扩充-衣料",
-    "last_updated": "2026-01-30T21:27:25.566188",
-    "version": "7.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "7d943a6ceee142fe",
@@ -1556,11 +2619,40 @@
       },
       "certifications": [
         "LWG"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "透气性好",
+        "耐用",
+        "高级质感"
+      ],
+      "disadvantages": [
+        "劣质皮革铬超标",
+        "固色剂含甲醛"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 专业护理",
+        "晾干方式: 自然晾干",
+        "熨烫方式: 不熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第七轮数据扩充-衣料",
-    "last_updated": "2026-01-30T21:27:25.566188",
-    "version": "7.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "9d8932f70d3ba8ec",
@@ -1593,11 +2685,39 @@
       },
       "certifications": [
         "REACH"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "透气性好",
+        "环保无动物成分",
+        "易打理"
+      ],
+      "disadvantages": [
+        "新品可能有气味"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 擦拭清洁",
+        "晾干方式: 通风晾干",
+        "熨烫方式: 不熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第七轮数据扩充-衣料",
-    "last_updated": "2026-01-30T21:27:25.566188",
-    "version": "7.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "54fdf3b7b1ea8dd1",
@@ -1630,11 +2750,39 @@
       },
       "certifications": [
         "LWG"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "柔软细腻",
+        "透气性佳",
+        "环保鞣制"
+      ],
+      "disadvantages": [
+        "高端皮革"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 专业护理",
+        "晾干方式: 阴干",
+        "熨烫方式: 不熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第七轮数据扩充-衣料",
-    "last_updated": "2026-01-30T21:27:25.566188",
-    "version": "7.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "378c9b63064ad902",
@@ -1667,11 +2815,39 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "保暖",
+        "柔软蓬松",
+        "舒适触感"
+      ],
+      "disadvantages": [
+        "初期可能掉毛"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 轻柔洗",
+        "晾干方式: 晾干",
+        "熨烫方式: 低温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第七轮数据扩充-衣料",
-    "last_updated": "2026-01-30T21:27:25.566188",
-    "version": "7.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "a4be7f1cf71b7aec",
@@ -1704,11 +2880,39 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "极其保暖",
+        "柔软舒适",
+        "价格实惠"
+      ],
+      "disadvantages": [
+        "易产生静电"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 手洗",
+        "晾干方式: 平铺晾干",
+        "熨烫方式: 不熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第七轮数据扩充-衣料",
-    "last_updated": "2026-01-30T21:27:25.566188",
-    "version": "7.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "9e469bbce8c9bc63",
@@ -1741,11 +2945,39 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "立体质感",
+        "吸水性强",
+        "透气舒适"
+      ],
+      "disadvantages": [
+        "纯棉易缩水"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 晾干",
+        "熨烫方式: 中高温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第七轮数据扩充-衣料",
-    "last_updated": "2026-01-30T21:27:25.566188",
-    "version": "7.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "82b71520520221f9",
@@ -1778,11 +3010,39 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "远红外保暖",
+        "抗菌抑菌",
+        "防静电"
+      ],
+      "disadvantages": [
+        "新材料长期影响待研究"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 晾干",
+        "熨烫方式: 低温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第七轮数据扩充-衣料",
-    "last_updated": "2026-01-30T21:27:25.566188",
-    "version": "7.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "9215feeb80bbcc64",
@@ -1815,11 +3075,39 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "吸湿发热",
+        "保暖舒适",
+        "轻薄"
+      ],
+      "disadvantages": [
+        "运动时可能过热"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 晾干",
+        "熨烫方式: 低温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第七轮数据扩充-衣料",
-    "last_updated": "2026-01-30T21:27:25.566188",
-    "version": "7.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "fa13077c63e3ba3e",
@@ -1852,11 +3140,39 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "柔软亲肤",
+        "保湿",
+        "抗菌"
+      ],
+      "disadvantages": [
+        "大豆过敏者慎用"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 手洗",
+        "晾干方式: 阴干",
+        "熨烫方式: 低温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第八轮数据扩充-衣料专项",
-    "last_updated": "2026-01-30T21:41:57.893775",
-    "version": "8.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "54cfdcf9432fa235",
@@ -1889,11 +3205,39 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "滋养肌肤",
+        "保湿",
+        "柔滑"
+      ],
+      "disadvantages": [
+        "牛奶过敏者慎用"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 手洗",
+        "晾干方式: 平铺晾干",
+        "熨烫方式: 低温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第八轮数据扩充-衣料专项",
-    "last_updated": "2026-01-30T21:41:57.893775",
-    "version": "8.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "46b7936685b5ee1d",
@@ -1926,11 +3270,39 @@
       },
       "certifications": [
         "生物降解认证"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "天然抑菌",
+        "透气",
+        "环保"
+      ],
+      "disadvantages": [
+        "可完全生物降解"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 晾干",
+        "熨烫方式: 低温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第八轮数据扩充-衣料专项",
-    "last_updated": "2026-01-30T21:41:57.893775",
-    "version": "8.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "09fe70ffbff2f5b9",
@@ -1963,11 +3335,39 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "凉爽透气",
+        "抗菌",
+        "吸湿"
+      ],
+      "disadvantages": [
+        "质地较粗"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 晾干",
+        "熨烫方式: 高温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第八轮数据扩充-衣料专项",
-    "last_updated": "2026-01-30T21:41:57.893775",
-    "version": "8.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "8f34430a3e617092",
@@ -2000,11 +3400,39 @@
       },
       "certifications": [
         "GB 8965"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "耐磨",
+        "耐用",
+        "防火"
+      ],
+      "disadvantages": [
+        "含阻燃剂残留"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 晾干",
+        "熨烫方式: 高温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第八轮数据扩充-衣料专项",
-    "last_updated": "2026-01-30T21:41:57.893775",
-    "version": "8.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "2e840ffdb355bda0",
@@ -2037,11 +3465,39 @@
       },
       "certifications": [
         "GB 12014"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "防静电",
+        "防尘",
+        "净化空气"
+      ],
+      "disadvantages": [
+        "安全性高"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 低温烘干",
+        "熨烫方式: 不熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第八轮数据扩充-衣料专项",
-    "last_updated": "2026-01-30T21:41:57.893775",
-    "version": "8.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "90678cd9a7d7c451",
@@ -2073,11 +3529,38 @@
       },
       "certifications": [
         "EN ISO 20471"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "夜间可见",
+        "安全保护"
+      ],
+      "disadvantages": [
+        "需定期检查"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 轻柔洗",
+        "晾干方式: 晾干",
+        "熨烫方式: 不熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第八轮数据扩充-衣料专项",
-    "last_updated": "2026-01-30T21:41:57.893775",
-    "version": "8.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "b88ebd6fed8cd3d1",
@@ -2110,11 +3593,39 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "光泽好",
+        "手感滑",
+        "舒适"
+      ],
+      "disadvantages": [
+        "需熨烫整理"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 晾干",
+        "熨烫方式: 高温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第八轮数据扩充-衣料专项",
-    "last_updated": "2026-01-30T21:41:57.893775",
-    "version": "8.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "23c9dc56a9b92a28",
@@ -2147,11 +3658,39 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "立体花纹",
+        "美观",
+        "透气"
+      ],
+      "disadvantages": [
+        "纯棉易缩水"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 晾干",
+        "熨烫方式: 中温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第八轮数据扩充-衣料专项",
-    "last_updated": "2026-01-30T21:41:57.893775",
-    "version": "8.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "6d36e15c9351bd19",
@@ -2184,11 +3723,39 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "柔软舒适",
+        "光泽华丽",
+        "保暖"
+      ],
+      "disadvantages": [
+        "初期可能掉毛"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 干洗",
+        "晾干方式: 阴干",
+        "熨烫方式: 不熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第八轮数据扩充-衣料专项",
-    "last_updated": "2026-01-30T21:41:57.893775",
-    "version": "8.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "d31ddf93aa93fade",
@@ -2221,11 +3788,39 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "遮光",
+        "隔热",
+        "隔音"
+      ],
+      "disadvantages": [
+        "新品需通风"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 晾干",
+        "熨烫方式: 低温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第八轮数据扩充-衣料专项",
-    "last_updated": "2026-01-30T21:41:57.893775",
-    "version": "8.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "90c756c940d8ad4b",
@@ -2263,11 +3858,40 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "轻薄",
+        "透气",
+        "美观"
+      ],
+      "disadvantages": [
+        "深色蕾丝染料多",
+        "需小心穿着"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 手洗",
+        "晾干方式: 平铺晾干",
+        "熨烫方式: 不熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第八轮数据扩充-衣料专项",
-    "last_updated": "2026-01-30T21:41:57.893775",
-    "version": "8.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "5e52e05a1343e540",
@@ -2300,11 +3924,39 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "无痕",
+        "凉感",
+        "弹力好"
+      ],
+      "disadvantages": [
+        "质量差的易起球"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 手洗",
+        "晾干方式: 阴干",
+        "熨烫方式: 不熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第八轮数据扩充-衣料专项",
-    "last_updated": "2026-01-30T21:41:57.893775",
-    "version": "8.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "117ecb667180e0f9",
@@ -2337,11 +3989,39 @@
       },
       "certifications": [
         "真丝标识"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "亲肤",
+        "透气",
+        "抗菌"
+      ],
+      "disadvantages": [
+        "需精心护理"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 手洗或干洗",
+        "晾干方式: 阴干",
+        "熨烫方式: 低温隔布"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第八轮数据扩充-衣料专项",
-    "last_updated": "2026-01-30T21:41:57.893775",
-    "version": "8.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "72dcc6bc58c35059",
@@ -2378,11 +4058,39 @@
       },
       "certifications": [
         "Gore-Tex认证"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "防水透气",
+        "防风",
+        "耐用"
+      ],
+      "disadvantages": [
+        "传统DWR含全氟化合物"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 低温烘干激活",
+        "熨烫方式: 不熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第八轮数据扩充-衣料专项",
-    "last_updated": "2026-01-30T21:41:57.893775",
-    "version": "8.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "7724f97aee92402b",
@@ -2415,11 +4123,39 @@
       },
       "certifications": [
         "bluesign"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "弹力",
+        "透气",
+        "轻度防水"
+      ],
+      "disadvantages": [
+        "含全氟化合物"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 晾干",
+        "熨烫方式: 不熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第八轮数据扩充-衣料专项",
-    "last_updated": "2026-01-30T21:41:57.893775",
-    "version": "8.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "14955f134d477f01",
@@ -2452,11 +4188,39 @@
       },
       "certifications": [
         "Primaloft认证"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "保暖",
+        "轻盈",
+        "防水"
+      ],
+      "disadvantages": [
+        "部分使用再生材料"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 低温烘干",
+        "熨烫方式: 不熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第八轮数据扩充-衣料专项",
-    "last_updated": "2026-01-30T21:41:57.893775",
-    "version": "8.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "0415eaeaf73efec4",
@@ -2489,11 +4253,39 @@
       },
       "certifications": [
         "GB 19082"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "防液体渗透",
+        "防病毒",
+        "一次性使用"
+      ],
+      "disadvantages": [
+        "长时间穿着闷热"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 一次性",
+        "晾干方式: 不适用",
+        "熨烫方式: 不适用"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第八轮数据扩充-衣料专项",
-    "last_updated": "2026-01-30T21:41:57.893775",
-    "version": "8.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "456a664326efb2dd",
@@ -2526,11 +4318,39 @@
       },
       "certifications": [
         "抗菌检测报告"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "持久抗菌",
+        "防臭",
+        "安全"
+      ],
+      "disadvantages": [
+        "极少数人过敏"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 晾干",
+        "熨烫方式: 中温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第八轮数据扩充-衣料专项",
-    "last_updated": "2026-01-30T21:41:57.893775",
-    "version": "8.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "744dbf2ecc05116b",
@@ -2563,11 +4383,39 @@
       },
       "certifications": [
         "GB 8965"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "永久阻燃",
+        "耐高温",
+        "高强度"
+      ],
+      "disadvantages": [
+        "高端防护材料"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 专业清洗",
+        "晾干方式: 晾干",
+        "熨烫方式: 不熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第八轮数据扩充-衣料专项",
-    "last_updated": "2026-01-30T21:41:57.893775",
-    "version": "8.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "7b00b8d584f9f902",
@@ -2600,11 +4448,39 @@
       },
       "certifications": [
         "非遗认证"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "防晒",
+        "凉爽",
+        "独特质感"
+      ],
+      "disadvantages": [
+        "非遗传统工艺"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 干洗",
+        "晾干方式: 阴干",
+        "熨烫方式: 不熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第八轮数据扩充-衣料专项",
-    "last_updated": "2026-01-30T21:41:57.893775",
-    "version": "8.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "288e534bfcf69c3b",
@@ -2637,11 +4513,39 @@
       },
       "certifications": [
         "非遗认证"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "天然染色",
+        "民族特色",
+        "透气"
+      ],
+      "disadvantages": [
+        "天然染料可能掉色"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 手洗",
+        "晾干方式: 阴干",
+        "熨烫方式: 中温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第八轮数据扩充-衣料专项",
-    "last_updated": "2026-01-30T21:41:57.893775",
-    "version": "8.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "2bd04105c5a3e20a",
@@ -2674,11 +4578,39 @@
       },
       "certifications": [
         "非遗认证"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "天然环保",
+        "透气",
+        "吸湿"
+      ],
+      "disadvantages": [
+        "质地较粗需软化"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 晾干",
+        "熨烫方式: 高温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第八轮数据扩充-衣料专项",
-    "last_updated": "2026-01-30T21:41:57.893775",
-    "version": "8.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "ff3592934c51e4b0",
@@ -2710,11 +4642,38 @@
       },
       "certifications": [
         "Outlast认证"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "智能调温",
+        "恒温舒适"
+      ],
+      "disadvantages": [
+        "高科技新材料"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 低温",
+        "熨烫方式: 低温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第八轮数据扩充-衣料专项",
-    "last_updated": "2026-01-30T21:41:57.893775",
-    "version": "8.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "4b70df63c6d96c64",
@@ -2747,11 +4706,39 @@
       },
       "certifications": [
         "UPF认证"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "UPF50+",
+        "防晒",
+        "保护皮肤"
+      ],
+      "disadvantages": [
+        "助剂残留极少"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 晾干",
+        "熨烫方式: 低温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第八轮数据扩充-衣料专项",
-    "last_updated": "2026-01-30T21:41:57.893775",
-    "version": "8.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "292b3c51bcc796f5",
@@ -2784,11 +4771,39 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "自清洁",
+        "防污",
+        "透气"
+      ],
+      "disadvantages": [
+        "长期安全性研究中"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 晾干",
+        "熨烫方式: 低温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第八轮数据扩充-衣料专项",
-    "last_updated": "2026-01-30T21:41:57.895208",
-    "version": "8.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "2e973f1941ad65e6",
@@ -2820,11 +4835,38 @@
       },
       "certifications": [
         "屏蔽效能测试"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "屏蔽辐射",
+        "防电磁波"
+      ],
+      "disadvantages": [
+        "需防潮"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 轻柔手洗",
+        "晾干方式: 阴干",
+        "熨烫方式: 不熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第八轮数据扩充-衣料专项",
-    "last_updated": "2026-01-30T21:41:57.895208",
-    "version": "8.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "6bb12f36be0ee872",
@@ -2857,11 +4899,39 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "释放负离子",
+        "净化空气",
+        "改善睡眠"
+      ],
+      "disadvantages": [
+        "保健效果有待验证"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 晾干",
+        "熨烫方式: 低温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第八轮数据扩充-衣料专项",
-    "last_updated": "2026-01-30T21:41:57.895208",
-    "version": "8.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "07a4d45dc7587aab",
@@ -2896,11 +4966,40 @@
       "certifications": [
         "ZQ Merino认证",
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "天然透气",
+        "温度调节",
+        "防臭抑菌",
+        "吸湿排汗"
+      ],
+      "disadvantages": [
+        "少数人对羊毛蛋白过敏"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 冷水手洗或羊毛程序",
+        "晾干方式: 平铺晾干",
+        "熨烫方式: 低温隔布"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第九轮数据扩充-羊毛环保运动时尚",
-    "last_updated": "2026-01-30T21:51:05.468883",
-    "version": "9.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "fee1d2e0196e4864",
@@ -2934,11 +5033,39 @@
       "certifications": [
         "OEKO-TEX",
         "羊绒标识"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "极致柔软",
+        "轻盈保暖",
+        "亲肤舒适"
+      ],
+      "disadvantages": [
+        "高端奢侈面料"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 专业干洗",
+        "晾干方式: 平铺阴干",
+        "熨烫方式: 不熨烫或低温隔布"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第九轮数据扩充-羊毛环保运动时尚",
-    "last_updated": "2026-01-30T21:51:05.468883",
-    "version": "9.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "d0e8e8702480c25d",
@@ -2972,11 +5099,40 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "保暖性强",
+        "天然防水",
+        "低过敏性",
+        "耐久耐磨"
+      ],
+      "disadvantages": [
+        "初次穿着可能有轻微扎感"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 手洗或干洗",
+        "晾干方式: 平铺晾干",
+        "熨烫方式: 低温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第九轮数据扩充-羊毛环保运动时尚",
-    "last_updated": "2026-01-30T21:51:05.468883",
-    "version": "9.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "25570782039b96b1",
@@ -3009,11 +5165,39 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "光泽华丽",
+        "弹性好",
+        "保暖透气"
+      ],
+      "disadvantages": [
+        "初期可能掉毛"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 干洗为佳",
+        "晾干方式: 阴干",
+        "熨烫方式: 低温隔布"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第九轮数据扩充-羊毛环保运动时尚",
-    "last_updated": "2026-01-30T21:51:05.468883",
-    "version": "9.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "b4917600e5f54902",
@@ -3047,11 +5231,40 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "易打理",
+        "抗皱",
+        "价格适中",
+        "保暖"
+      ],
+      "disadvantages": [
+        "含化纤透气性略降"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 低温烘干或晾干",
+        "熨烫方式: 中温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第九轮数据扩充-羊毛环保运动时尚",
-    "last_updated": "2026-01-30T21:51:05.468883",
-    "version": "9.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "481db3e38b617c9d",
@@ -3085,11 +5298,39 @@
       "certifications": [
         "GRS全球回收标准",
         "bluesign"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "环保可持续",
+        "性能同涤纶",
+        "减少碳排放"
+      ],
+      "disadvantages": [
+        "减少塑料污染"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 低温烘干",
+        "熨烫方式: 低温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第九轮数据扩充-羊毛环保运动时尚",
-    "last_updated": "2026-01-30T21:51:05.468883",
-    "version": "9.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "077aa72137d5939f",
@@ -3123,11 +5364,39 @@
       "certifications": [
         "Econyl认证",
         "GRS"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "清理海洋垃圾",
+        "性能同尼龙",
+        "可持续循环"
+      ],
+      "disadvantages": [
+        "海洋清洁材料"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 晾干",
+        "熨烫方式: 低温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第九轮数据扩充-羊毛环保运动时尚",
-    "last_updated": "2026-01-30T21:51:05.468883",
-    "version": "9.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "31fc7b87dbf2f48f",
@@ -3162,11 +5431,40 @@
       "certifications": [
         "Tencel认证",
         "FSC森林认证"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "天然来源",
+        "丝滑亲肤",
+        "透气吸湿",
+        "抑菌防臭"
+      ],
+      "disadvantages": [
+        "99%溶剂回收"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 晾干",
+        "熨烫方式: 中温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第九轮数据扩充-羊毛环保运动时尚",
-    "last_updated": "2026-01-30T21:51:05.468883",
-    "version": "9.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "fc220143ab290a7f",
@@ -3201,11 +5499,40 @@
       "certifications": [
         "OEKO-TEX",
         "FSC"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "柔软亲肤",
+        "吸湿性好",
+        "不易起球",
+        "色牢度高"
+      ],
+      "disadvantages": [
+        "纯莫代尔易起皱"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 晾干",
+        "熨烫方式: 中温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第九轮数据扩充-羊毛环保运动时尚",
-    "last_updated": "2026-01-30T21:51:05.468883",
-    "version": "9.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "2ba61c62bcf095ca",
@@ -3241,11 +5568,40 @@
         "GOTS",
         "OCS",
         "欧盟有机认证"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "天然抗菌",
+        "吸湿透气",
+        "凉爽舒适",
+        "环保无污染"
+      ],
+      "disadvantages": [
+        "亚麻易起皱"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 晾干",
+        "熨烫方式: 高温蒸汽"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第九轮数据扩充-羊毛环保运动时尚",
-    "last_updated": "2026-01-30T21:51:05.468883",
-    "version": "9.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "c656d9b3a8d088e5",
@@ -3284,11 +5640,41 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "保温防寒",
+        "浮力辅助",
+        "防水性强",
+        "保护皮肤"
+      ],
+      "disadvantages": [
+        "少数人对氯丁橡胶过敏",
+        "新品可能有橡胶味"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 淡水冲洗",
+        "晾干方式: 阴干",
+        "熨烫方式: 不熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第九轮数据扩充-羊毛环保运动时尚",
-    "last_updated": "2026-01-30T21:51:05.468883",
-    "version": "9.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "afc2c6de6746f6a2",
@@ -3322,11 +5708,40 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "四向弹力",
+        "速干透气",
+        "紧密包裹",
+        "排汗快"
+      ],
+      "disadvantages": [
+        "易产生静电"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 冷水机洗",
+        "晾干方式: 阴干",
+        "熨烫方式: 不熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第九轮数据扩充-羊毛环保运动时尚",
-    "last_updated": "2026-01-30T21:51:05.468883",
-    "version": "9.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "7466216a0353f6bf",
@@ -3364,11 +5779,40 @@
       },
       "certifications": [
         "bluesign"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "高强度",
+        "耐磨防撕",
+        "轻量化",
+        "防泼水"
+      ],
+      "disadvantages": [
+        "传统DWR含全氟化合物"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 晾干",
+        "熨烫方式: 低温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第九轮数据扩充-羊毛环保运动时尚",
-    "last_updated": "2026-01-30T21:51:05.468883",
-    "version": "9.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "f3d7bd96fe9eec28",
@@ -3402,11 +5846,40 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "防风保暖",
+        "轻量",
+        "防泼水",
+        "耐寒性强"
+      ],
+      "disadvantages": [
+        "高强度运动透气性有限"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 低温烘干",
+        "熨烫方式: 不熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第九轮数据扩充-羊毛环保运动时尚",
-    "last_updated": "2026-01-30T21:51:05.468883",
-    "version": "9.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "69d1abdaefe01a79",
@@ -3439,11 +5912,39 @@
       },
       "certifications": [
         "EN ISO 20471"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "夜间可见",
+        "安全保护",
+        "透气排汗"
+      ],
+      "disadvantages": [
+        "需定期检查"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 轻柔洗",
+        "晾干方式: 阴干",
+        "熨烫方式: 不熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第九轮数据扩充-羊毛环保运动时尚",
-    "last_updated": "2026-01-30T21:51:05.468883",
-    "version": "9.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "2159a0d9d2e8295b",
@@ -3477,11 +5978,40 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "肌肉支撑",
+        "减震护垫",
+        "排汗速干",
+        "减少疲劳"
+      ],
+      "disadvantages": [
+        "尺码不当影响血液循环"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 手洗",
+        "晾干方式: 阴干",
+        "熨烫方式: 不熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第九轮数据扩充-羊毛环保运动时尚",
-    "last_updated": "2026-01-30T21:51:05.468883",
-    "version": "9.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "ea2917a74bbba0ec",
@@ -3516,11 +6046,40 @@
       "certifications": [
         "GB/T 20944",
         "ISO 20743"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "99.9%抗菌",
+        "防螨除臭",
+        "持久抑菌",
+        "伤口护理"
+      ],
+      "disadvantages": [
+        "极少数人过敏"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 晾干",
+        "熨烫方式: 中温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第九轮数据扩充-羊毛环保运动时尚",
-    "last_updated": "2026-01-30T21:51:05.468883",
-    "version": "9.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "6d6ba9e63eff80bb",
@@ -3559,11 +6118,40 @@
       "certifications": [
         "GB 20286",
         "B1级阻燃"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "防火安全",
+        "遇火不易燃烧",
+        "公共场所必备"
+      ],
+      "disadvantages": [
+        "含磷系或氮系阻燃剂",
+        "新品需通风"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 晾干",
+        "熨烫方式: 低温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第九轮数据扩充-羊毛环保运动时尚",
-    "last_updated": "2026-01-30T21:51:05.468883",
-    "version": "9.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "ab6531cc6e01f851",
@@ -3598,11 +6186,40 @@
       "certifications": [
         "OEKO-TEX",
         "防螨检测报告"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "阻隔螨虫",
+        "缓解过敏",
+        "透气舒适",
+        "可水洗"
+      ],
+      "disadvantages": [
+        "物理防螨无化学添加"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 60℃以上热水洗",
+        "晾干方式: 高温烘干杀螨",
+        "熨烫方式: 高温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第九轮数据扩充-羊毛环保运动时尚",
-    "last_updated": "2026-01-30T21:51:05.468883",
-    "version": "9.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "43b61aa92d0d464d",
@@ -3637,11 +6254,40 @@
       "certifications": [
         "GB 12014",
         "GB/T 23316"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "防静电",
+        "防尘",
+        "洁净无脱落",
+        "舒适透气"
+      ],
+      "disadvantages": [
+        "电子厂必备"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 专用洗涤",
+        "晾干方式: 低温烘干",
+        "熨烫方式: 不熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第九轮数据扩充-羊毛环保运动时尚",
-    "last_updated": "2026-01-30T21:51:05.468883",
-    "version": "9.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "dbf5dc3a72888e6f",
@@ -3676,11 +6322,40 @@
       "certifications": [
         "AS/NZS 4399",
         "UPF认证"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "UPF50+",
+        "阻挡98%紫外线",
+        "防晒护肤",
+        "降温隔热"
+      ],
+      "disadvantages": [
+        "户外必备"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 可机洗",
+        "晾干方式: 晾干",
+        "熨烫方式: 低温"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第九轮数据扩充-羊毛环保运动时尚",
-    "last_updated": "2026-01-30T21:51:05.468883",
-    "version": "9.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "8894db3bd48af0e8",
@@ -3715,11 +6390,40 @@
       "certifications": [
         "真丝标识",
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "奢华光泽",
+        "丝滑亲肤",
+        "透气抑菌",
+        "护肤美容"
+      ],
+      "disadvantages": [
+        "需精心护理"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 干洗或手洗",
+        "晾干方式: 阴干",
+        "熨烫方式: 低温反面熨"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第九轮数据扩充-羊毛环保运动时尚",
-    "last_updated": "2026-01-30T21:51:05.468883",
-    "version": "9.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "c3d060cb01d81275",
@@ -3753,11 +6457,40 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "奢华质感",
+        "柔软舒适",
+        "保暖性好",
+        "高级感"
+      ],
+      "disadvantages": [
+        "初期可能掉毛"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 干洗",
+        "晾干方式: 阴干",
+        "熨烫方式: 蒸汽熨烫"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第九轮数据扩充-羊毛环保运动时尚",
-    "last_updated": "2026-01-30T21:51:05.468883",
-    "version": "9.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "1128947aa3d98eec",
@@ -3790,11 +6523,39 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "轻盈飘逸",
+        "透明质感",
+        "时尚高雅"
+      ],
+      "disadvantages": [
+        "轻薄易损"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 手洗或干洗",
+        "晾干方式: 悬挂阴干",
+        "熨烫方式: 低温隔布"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第九轮数据扩充-羊毛环保运动时尚",
-    "last_updated": "2026-01-30T21:51:05.468883",
-    "version": "9.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "888e4cbd65b137a9",
@@ -3827,11 +6588,39 @@
       },
       "certifications": [
         "OEKO-TEX"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "轻薄透气",
+        "飘逸柔美",
+        "舒适凉爽"
+      ],
+      "disadvantages": [
+        "轻薄易皱"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 手洗",
+        "晾干方式: 悬挂阴干",
+        "熨烫方式: 低温隔布"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第九轮数据扩充-羊毛环保运动时尚",
-    "last_updated": "2026-01-30T21:51:05.468883",
-    "version": "9.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   },
   {
     "material_id": "a428e343b619a1c4",
@@ -3866,10 +6655,39 @@
       "certifications": [
         "OEKO-TEX",
         "羊毛标识"
+      ],
+      "category": "衣料纺织品",
+      "advantages": [
+        "弹性好",
+        "保暖舒适",
+        "透气性佳",
+        "贴身合体"
+      ],
+      "disadvantages": [
+        "针织物易拉伸"
+      ],
+      "maintenance_tips": [
+        "清洗方式: 手洗或羊毛程序",
+        "晾干方式: 平铺晾干",
+        "熨烫方式: 低温蒸汽"
+      ],
+      "health_recommendations": [
+        "选择有认证的产品",
+        "新品清洗后再穿",
+        "注意材质过敏"
+      ],
+      "physical_properties": {
+        "手感": "根据面料",
+        "透气性": "根据面料",
+        "弹性": "根据面料"
+      },
+      "application_scenarios": [
+        "日常穿着",
+        "服装制作"
       ]
     },
     "source": "第九轮数据扩充-羊毛环保运动时尚",
-    "last_updated": "2026-01-30T21:51:05.468883",
-    "version": "9.0"
+    "last_updated": "2026-01-30T23:13:08.987252",
+    "version": "13.0"
   }
 ]

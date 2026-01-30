@@ -32,11 +32,39 @@
         "E0",
         "E1",
         "CARB P2"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "ECHA SCIP Database",
-    "last_updated": "2026-01-30T17:27:05.093852",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "f4621f581763ad79",
@@ -77,11 +105,39 @@
         "E0",
         "E1",
         "NAF"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "ECHA SCIP Database",
-    "last_updated": "2026-01-30T17:27:05.095305",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "f4621f581763ad79",
@@ -120,11 +176,39 @@
       "certifications": [
         "E1",
         "E0"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "ECHA SCIP Database",
-    "last_updated": "2026-01-30T17:27:05.095305",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "b2e619cac4d2428f",
@@ -159,11 +243,39 @@
       "certifications": [
         "FSC",
         "PEFC"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "ECHA SCIP Database",
-    "last_updated": "2026-01-30T17:27:05.095305",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "b2e619cac4d2428f",
@@ -197,11 +309,39 @@
       ],
       "certifications": [
         "FSC"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "ECHA SCIP Database",
-    "last_updated": "2026-01-30T17:27:05.095305",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "cc4581dc491f128f",
@@ -241,11 +381,39 @@
       "certifications": [
         "LWG",
         "ISO 14001"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "ECHA SCIP Database",
-    "last_updated": "2026-01-30T17:27:05.095305",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "cc4581dc491f128f",
@@ -290,11 +458,39 @@
       "certifications": [
         "REACH",
         "Oeko-Tex"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "ECHA SCIP Database",
-    "last_updated": "2026-01-30T17:27:05.095305",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "5ff36d4aa525e1b3",
@@ -334,11 +530,39 @@
       "certifications": [
         "RoHS",
         "ISO 9001"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "ECHA SCIP Database",
-    "last_updated": "2026-01-30T17:27:05.095305",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "24841aaeddfa0b21",
@@ -383,11 +607,39 @@
       "certifications": [
         "RoHS",
         "REACH"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "ECHA SCIP Database",
-    "last_updated": "2026-01-30T17:27:05.095305",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "24841aaeddfa0b21",
@@ -417,11 +669,39 @@
       "certifications": [
         "FDA",
         "LFGB"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "ECHA SCIP Database",
-    "last_updated": "2026-01-30T17:27:05.095305",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "2bc48fd6270efb76",
@@ -455,11 +735,39 @@
       "certifications": [
         "E0",
         "E1"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "数据扩充",
-    "last_updated": "2026-01-30T17:39:34.108465",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "c282b03d90dc0539",
@@ -488,11 +796,39 @@
       "certifications": [
         "E0",
         "FSC"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "数据扩充",
-    "last_updated": "2026-01-30T17:39:34.108465",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "af882fc14ca8e33c",
@@ -526,11 +862,39 @@
       "certifications": [
         "E1",
         "CARB P2"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "数据扩充",
-    "last_updated": "2026-01-30T17:39:34.108465",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "3118419149f53c9c",
@@ -559,11 +923,39 @@
       ],
       "certifications": [
         "FSC"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "数据扩充",
-    "last_updated": "2026-01-30T17:39:34.108465",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "3be8fc9e30184ed2",
@@ -591,11 +983,39 @@
       ],
       "certifications": [
         "FSC"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "数据扩充",
-    "last_updated": "2026-01-30T17:39:34.108465",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "5ca91baf9e56aaa9",
@@ -628,11 +1048,39 @@
       ],
       "certifications": [
         "FSC"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "数据扩充",
-    "last_updated": "2026-01-30T17:39:34.108465",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "f4b66237b8de11f6",
@@ -660,11 +1108,39 @@
       ],
       "certifications": [
         "FSC"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "数据扩充",
-    "last_updated": "2026-01-30T17:39:34.108465",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "515fdd506ca2c461",
@@ -692,11 +1168,39 @@
       ],
       "certifications": [
         "ISO 9001"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "数据扩充",
-    "last_updated": "2026-01-30T17:39:34.108465",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "0726e8b4ebf73ce0",
@@ -729,11 +1233,39 @@
       ],
       "certifications": [
         "Oeko-Tex"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "数据扩充",
-    "last_updated": "2026-01-30T17:39:34.108465",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "1a931168f126e12a",
@@ -761,11 +1293,39 @@
       ],
       "certifications": [
         "OEKO-TEX"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "数据扩充",
-    "last_updated": "2026-01-30T17:39:34.108465",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "dbfd33b169049ac0",
@@ -793,11 +1353,39 @@
       ],
       "certifications": [
         "OEKO-TEX"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "数据扩充",
-    "last_updated": "2026-01-30T17:39:34.108465",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "6d8c2d55021e410a",
@@ -831,11 +1419,39 @@
       "certifications": [
         "304",
         "316"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "数据扩充",
-    "last_updated": "2026-01-30T17:39:34.108465",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "461845b97b7541b1",
@@ -863,11 +1479,39 @@
       ],
       "certifications": [
         "ISO 9001"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "数据扩充",
-    "last_updated": "2026-01-30T17:39:34.108465",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "caebb0355a3fae53",
@@ -895,11 +1539,39 @@
       ],
       "certifications": [
         "FDA"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "数据扩充",
-    "last_updated": "2026-01-30T17:39:34.108465",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "7e61f062bb2de242",
@@ -932,11 +1604,39 @@
       ],
       "certifications": [
         "RoHS"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "数据扩充",
-    "last_updated": "2026-01-30T17:39:34.108465",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "32edb6ed908f0194",
@@ -969,11 +1669,39 @@
       ],
       "certifications": [
         "FDA(BPA-Free)"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "数据扩充",
-    "last_updated": "2026-01-30T17:39:34.108465",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "8879d974020ed404",
@@ -1001,11 +1729,39 @@
       ],
       "certifications": [
         "FDA"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "数据扩充",
-    "last_updated": "2026-01-30T17:39:34.108465",
-    "version": "1.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "a6aae96c374d0aa6",
@@ -1034,11 +1790,39 @@
       ],
       "certifications": [
         "环保认证"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第二轮数据扩充",
-    "last_updated": "2026-01-30T17:46:40.314666",
-    "version": "2.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "fb6f6b12de9710d4",
@@ -1067,11 +1851,39 @@
       "certifications": [
         "NAF",
         "CARB P2"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第二轮数据扩充",
-    "last_updated": "2026-01-30T17:46:40.314666",
-    "version": "2.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "8359388f693d7a3c",
@@ -1100,11 +1912,39 @@
       ],
       "certifications": [
         "FSC"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第二轮数据扩充",
-    "last_updated": "2026-01-30T17:46:40.314666",
-    "version": "2.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "e0e33252e5fab578",
@@ -1133,11 +1973,39 @@
       ],
       "certifications": [
         "FSC"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第二轮数据扩充",
-    "last_updated": "2026-01-30T17:46:40.314666",
-    "version": "2.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "bd1628cde4fb5598",
@@ -1166,11 +2034,39 @@
       ],
       "certifications": [
         "FSC"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第二轮数据扩充",
-    "last_updated": "2026-01-30T17:46:40.314666",
-    "version": "2.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "0ddd1bd18ecb8fd2",
@@ -1198,11 +2094,39 @@
       ],
       "certifications": [
         "环保认证"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第二轮数据扩充",
-    "last_updated": "2026-01-30T17:46:40.314666",
-    "version": "2.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "4b9dadcabb369702",
@@ -1230,11 +2154,39 @@
       ],
       "certifications": [
         "ISO 9001"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第二轮数据扩充",
-    "last_updated": "2026-01-30T17:46:40.315657",
-    "version": "2.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "2eb71bd4a79d3f7a",
@@ -1262,11 +2214,39 @@
       ],
       "certifications": [
         "3C认证"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第二轮数据扩充",
-    "last_updated": "2026-01-30T17:46:40.315657",
-    "version": "2.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "cb521274f9cf412c",
@@ -1294,11 +2274,39 @@
       ],
       "certifications": [
         "3C认证"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第二轮数据扩充",
-    "last_updated": "2026-01-30T17:46:40.315657",
-    "version": "2.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "42a716409a010a8d",
@@ -1327,11 +2335,39 @@
       ],
       "certifications": [
         "放射性检测"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第二轮数据扩充",
-    "last_updated": "2026-01-30T17:46:40.315657",
-    "version": "2.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "ab6c779931fb0078",
@@ -1359,11 +2395,39 @@
       ],
       "certifications": [
         "NSF认证"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第二轮数据扩充",
-    "last_updated": "2026-01-30T17:46:40.315657",
-    "version": "2.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "60ca48c264327485",
@@ -1391,11 +2455,39 @@
       ],
       "certifications": [
         "FSC"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第二轮数据扩充",
-    "last_updated": "2026-01-30T17:46:40.315657",
-    "version": "2.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "3561503b4ec9f5a3",
@@ -1423,11 +2515,39 @@
       ],
       "certifications": [
         "FSC"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第二轮数据扩充",
-    "last_updated": "2026-01-30T17:46:40.315657",
-    "version": "2.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "d678f996429c0af7",
@@ -1456,11 +2576,39 @@
       ],
       "certifications": [
         "CITES"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第三轮数据扩充",
-    "last_updated": "2026-01-30T17:51:41.368981",
-    "version": "3.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "18f56f86f2fb1365",
@@ -1488,11 +2636,39 @@
       ],
       "certifications": [
         "FSC"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第三轮数据扩充",
-    "last_updated": "2026-01-30T17:51:41.368981",
-    "version": "3.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "7e786ca026ad42eb",
@@ -1520,11 +2696,39 @@
       ],
       "certifications": [
         "FSC"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第三轮数据扩充",
-    "last_updated": "2026-01-30T17:51:41.368981",
-    "version": "3.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "08d18582e4b73fd3",
@@ -1557,11 +2761,39 @@
       ],
       "certifications": [
         "CertiPUR-US"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第三轮数据扩充",
-    "last_updated": "2026-01-30T17:51:41.368981",
-    "version": "3.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "1b43ae487b770be6",
@@ -1591,11 +2823,39 @@
       "certifications": [
         "LGA",
         "ECO"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第三轮数据扩充",
-    "last_updated": "2026-01-30T17:51:41.368981",
-    "version": "3.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "e6c0519f63cf4b28",
@@ -1623,11 +2883,39 @@
       ],
       "certifications": [
         "CertiPUR-US"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第三轮数据扩充",
-    "last_updated": "2026-01-30T17:51:41.368981",
-    "version": "3.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "a0615c607677472b",
@@ -1665,11 +2953,39 @@
       ],
       "certifications": [
         "十环认证"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第三轮数据扩充",
-    "last_updated": "2026-01-30T17:51:41.368981",
-    "version": "3.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "72e2cb745ac08157",
@@ -1703,11 +3019,39 @@
       "certifications": [
         "十环认证",
         "绿色之星"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第三轮数据扩充",
-    "last_updated": "2026-01-30T17:51:41.368981",
-    "version": "3.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "53ae3642a16463b1",
@@ -1735,11 +3079,39 @@
       ],
       "certifications": [
         "JC/T 2177"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第三轮数据扩充",
-    "last_updated": "2026-01-30T17:51:41.368981",
-    "version": "3.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "d267d29550f11ef3",
@@ -1773,11 +3145,39 @@
       "certifications": [
         "E0",
         "E1"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第三轮数据扩充",
-    "last_updated": "2026-01-30T17:51:41.368981",
-    "version": "3.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "3c4f99c431e01bc1",
@@ -1806,11 +3206,39 @@
       "certifications": [
         "E0",
         "FSC"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第三轮数据扩充",
-    "last_updated": "2026-01-30T17:51:41.368981",
-    "version": "3.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "201cbf5b1d709741",
@@ -1839,11 +3267,39 @@
       ],
       "certifications": [
         "FloorScore"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第三轮数据扩充",
-    "last_updated": "2026-01-30T17:51:41.368981",
-    "version": "3.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "46e003f666baf38b",
@@ -1871,11 +3327,39 @@
       ],
       "certifications": [
         "十环认证"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第三轮数据扩充",
-    "last_updated": "2026-01-30T17:51:41.368981",
-    "version": "3.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "3c47a7e302933484",
@@ -1908,11 +3392,39 @@
       ],
       "certifications": [
         "十环认证"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第三轮数据扩充",
-    "last_updated": "2026-01-30T17:51:41.368981",
-    "version": "3.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "15b83eec628e6d69",
@@ -1956,11 +3468,39 @@
       ],
       "certifications": [
         "GB 175"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第四轮数据扩充-房屋建材",
-    "last_updated": "2026-01-30T21:11:26.487068",
-    "version": "4.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "31e04024ea4e63aa",
@@ -1993,11 +3533,39 @@
       ],
       "certifications": [
         "GB 2015"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第四轮数据扩充-房屋建材",
-    "last_updated": "2026-01-30T21:11:26.487068",
-    "version": "4.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "a924a39ec2481052",
@@ -2026,11 +3594,39 @@
       ],
       "certifications": [
         "GB 5101"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第四轮数据扩充-房屋建材",
-    "last_updated": "2026-01-30T21:11:26.487068",
-    "version": "4.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "edb5dee70d5be24a",
@@ -2064,11 +3660,39 @@
       ],
       "certifications": [
         "GB 11968"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第四轮数据扩充-房屋建材",
-    "last_updated": "2026-01-30T21:11:26.487068",
-    "version": "4.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "86c6aba002462996",
@@ -2096,11 +3720,39 @@
       ],
       "certifications": [
         "GB 5101"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第四轮数据扩充-房屋建材",
-    "last_updated": "2026-01-30T21:11:26.487068",
-    "version": "4.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "4458d673fa25e76c",
@@ -2129,11 +3781,39 @@
       ],
       "certifications": [
         "GB/T 18742"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第四轮数据扩充-房屋建材",
-    "last_updated": "2026-01-30T21:11:26.487068",
-    "version": "4.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "ec84e5bd235054ed",
@@ -2171,11 +3851,39 @@
       ],
       "certifications": [
         "GB/T 5836"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第四轮数据扩充-房屋建材",
-    "last_updated": "2026-01-30T21:11:26.487068",
-    "version": "4.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "c103fa2bfdffb29a",
@@ -2204,11 +3912,39 @@
       ],
       "certifications": [
         "GB/T 18033"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第四轮数据扩充-房屋建材",
-    "last_updated": "2026-01-30T21:11:26.487068",
-    "version": "4.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "241e1ab0ec797248",
@@ -2237,11 +3973,39 @@
       ],
       "certifications": [
         "GB/T 19228"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第四轮数据扩充-房屋建材",
-    "last_updated": "2026-01-30T21:11:26.487068",
-    "version": "4.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "8f6bb3ba0ca0b4b5",
@@ -2274,11 +4038,39 @@
       ],
       "certifications": [
         "GB/T 8478"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第四轮数据扩充-房屋建材",
-    "last_updated": "2026-01-30T21:11:26.487068",
-    "version": "4.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "b27cdb1cd552a3fb",
@@ -2311,11 +4103,39 @@
       ],
       "certifications": [
         "GB/T 8814"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第四轮数据扩充-房屋建材",
-    "last_updated": "2026-01-30T21:11:26.487068",
-    "version": "4.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "e6f6facb1385fcad",
@@ -2348,11 +4168,39 @@
       ],
       "certifications": [
         "GB 18584"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第四轮数据扩充-房屋建材",
-    "last_updated": "2026-01-30T21:11:26.487068",
-    "version": "4.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "f81b784f86367389",
@@ -2385,11 +4233,39 @@
       ],
       "certifications": [
         "GB/T 9775"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第四轮数据扩充-房屋建材",
-    "last_updated": "2026-01-30T21:11:26.487068",
-    "version": "4.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "1d3178cc7eb65214",
@@ -2423,11 +4299,39 @@
       ],
       "certifications": [
         "GB/T 23443"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第四轮数据扩充-房屋建材",
-    "last_updated": "2026-01-30T21:11:26.487068",
-    "version": "4.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "9169311c1fb4ae5f",
@@ -2455,11 +4359,39 @@
       ],
       "certifications": [
         "GB/T 23443"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第四轮数据扩充-房屋建材",
-    "last_updated": "2026-01-30T21:11:26.487068",
-    "version": "4.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "0c007fee7a6771e0",
@@ -2498,11 +4430,39 @@
       ],
       "certifications": [
         "GB/T 25975"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第四轮数据扩充-房屋建材",
-    "last_updated": "2026-01-30T21:11:26.487068",
-    "version": "4.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "8cef8887e9ee06f1",
@@ -2541,11 +4501,39 @@
       ],
       "certifications": [
         "GB/T 10801"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第四轮数据扩充-房屋建材",
-    "last_updated": "2026-01-30T21:11:26.487068",
-    "version": "4.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "1cda2a8e6db3e001",
@@ -2583,11 +4571,39 @@
       ],
       "certifications": [
         "GB/T 21558"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第四轮数据扩充-房屋建材",
-    "last_updated": "2026-01-30T21:11:26.487068",
-    "version": "4.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "da84fb5c6e4a5577",
@@ -2620,11 +4636,39 @@
       ],
       "certifications": [
         "GB/T 23445"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第四轮数据扩充-房屋建材",
-    "last_updated": "2026-01-30T21:11:26.487068",
-    "version": "4.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "508286a77a6402c8",
@@ -2662,11 +4706,39 @@
       ],
       "certifications": [
         "GB 18242"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第四轮数据扩充-房屋建材",
-    "last_updated": "2026-01-30T21:11:26.487068",
-    "version": "4.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "fc4f57465b54cf9c",
@@ -2704,11 +4776,39 @@
       ],
       "certifications": [
         "GB/T 19250"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第四轮数据扩充-房屋建材",
-    "last_updated": "2026-01-30T21:11:26.487068",
-    "version": "4.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "f87e3d1f7dfe8457",
@@ -2736,11 +4836,39 @@
       ],
       "certifications": [
         "GB 6566"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第四轮数据扩充-房屋建材",
-    "last_updated": "2026-01-30T21:11:26.487068",
-    "version": "4.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "76cbe275c25f4bb3",
@@ -2768,11 +4896,39 @@
       ],
       "certifications": [
         "GB/T 4100"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第四轮数据扩充-房屋建材",
-    "last_updated": "2026-01-30T21:11:26.487068",
-    "version": "4.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "3c5708d78425a3c0",
@@ -2800,11 +4956,39 @@
       ],
       "certifications": [
         "GB/T 4100"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第四轮数据扩充-房屋建材",
-    "last_updated": "2026-01-30T21:11:26.487068",
-    "version": "4.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "52bfd4fe05b52621",
@@ -2832,11 +5016,39 @@
       ],
       "certifications": [
         "JC/T 547"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第四轮数据扩充-房屋建材",
-    "last_updated": "2026-01-30T21:11:26.487068",
-    "version": "4.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "905022146b6fc45c",
@@ -2869,11 +5081,39 @@
       ],
       "certifications": [
         "GB 16776"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第四轮数据扩充-房屋建材",
-    "last_updated": "2026-01-30T21:11:26.487068",
-    "version": "4.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "d598e96d7663e767",
@@ -2902,11 +5142,39 @@
       ],
       "certifications": [
         "JC/T 1004"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第四轮数据扩充-房屋建材",
-    "last_updated": "2026-01-30T21:11:26.487068",
-    "version": "4.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "ac4f4034e79570de",
@@ -2940,11 +5208,39 @@
       ],
       "certifications": [
         "GB 50209"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第五轮数据扩充-更多房屋建材",
-    "last_updated": "2026-01-30T21:17:39.611995",
-    "version": "5.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "a83d89988b4b57e2",
@@ -2983,11 +5279,39 @@
       ],
       "certifications": [
         "GB 50212"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第五轮数据扩充-更多房屋建材",
-    "last_updated": "2026-01-30T21:17:39.611995",
-    "version": "5.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "4498908ed9a639a7",
@@ -3021,11 +5345,39 @@
       ],
       "certifications": [
         "JC/T 985"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第五轮数据扩充-更多房屋建材",
-    "last_updated": "2026-01-30T21:17:39.611995",
-    "version": "5.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "e9c835b212c757c9",
@@ -3059,11 +5411,39 @@
       ],
       "certifications": [
         "GB/T 23451"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第五轮数据扩充-更多房屋建材",
-    "last_updated": "2026-01-30T21:17:39.611995",
-    "version": "5.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "4254be6d86cd28ba",
@@ -3092,11 +5472,39 @@
       ],
       "certifications": [
         "GB/T 28627"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第五轮数据扩充-更多房屋建材",
-    "last_updated": "2026-01-30T21:17:39.611995",
-    "version": "5.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "b189ba53cea174aa",
@@ -3130,11 +5538,39 @@
       ],
       "certifications": [
         "GB 15762"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第五轮数据扩充-更多房屋建材",
-    "last_updated": "2026-01-30T21:17:39.611995",
-    "version": "5.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "bcd9bc2dc7a8c80a",
@@ -3162,11 +5598,39 @@
       ],
       "certifications": [
         "GB 1499"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第五轮数据扩充-更多房屋建材",
-    "last_updated": "2026-01-30T21:17:39.611995",
-    "version": "5.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "80f7904058424bb1",
@@ -3194,11 +5658,39 @@
       ],
       "certifications": [
         "GB/T 706"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第五轮数据扩充-更多房屋建材",
-    "last_updated": "2026-01-30T21:17:39.611995",
-    "version": "5.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "34a1ecec90e77886",
@@ -3226,11 +5718,39 @@
       ],
       "certifications": [
         "GB/T 6728"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第五轮数据扩充-更多房屋建材",
-    "last_updated": "2026-01-30T21:17:39.611995",
-    "version": "5.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "d0c0c9b2789a79d0",
@@ -3258,11 +5778,39 @@
       ],
       "certifications": [
         "GB/T 14019"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第五轮数据扩充-更多房屋建材",
-    "last_updated": "2026-01-30T21:17:39.611995",
-    "version": "5.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "7dd92214e3d374f0",
@@ -3291,11 +5839,39 @@
       ],
       "certifications": [
         "GB/T 14019"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第五轮数据扩充-更多房屋建材",
-    "last_updated": "2026-01-30T21:17:39.611995",
-    "version": "5.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "c2244dd03e30022c",
@@ -3329,11 +5905,39 @@
       ],
       "certifications": [
         "GB/T 14019"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第五轮数据扩充-更多房屋建材",
-    "last_updated": "2026-01-30T21:17:39.611995",
-    "version": "5.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "389b28f95091f28d",
@@ -3371,11 +5975,39 @@
       ],
       "certifications": [
         "GB/T 5023"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第五轮数据扩充-更多房屋建材",
-    "last_updated": "2026-01-30T21:17:39.611995",
-    "version": "5.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "7a8e88d67a3cde1b",
@@ -3409,11 +6041,39 @@
       ],
       "certifications": [
         "GB/T 5023"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第五轮数据扩充-更多房屋建材",
-    "last_updated": "2026-01-30T21:17:39.611995",
-    "version": "5.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "7e74ee8cd33ee4dc",
@@ -3451,11 +6111,39 @@
       ],
       "certifications": [
         "GB/T 19666"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第五轮数据扩充-更多房屋建材",
-    "last_updated": "2026-01-30T21:17:39.611995",
-    "version": "5.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "0c7d6f9d0cfc29dd",
@@ -3488,11 +6176,39 @@
       ],
       "certifications": [
         "GB/T 19666"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第五轮数据扩充-更多房屋建材",
-    "last_updated": "2026-01-30T21:17:39.611995",
-    "version": "5.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "f30967befeaf0d48",
@@ -3530,11 +6246,39 @@
       ],
       "certifications": [
         "JG/T 298"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第五轮数据扩充-更多房屋建材",
-    "last_updated": "2026-01-30T21:17:39.611995",
-    "version": "5.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "a1e1b625f0ba680b",
@@ -3562,11 +6306,39 @@
       ],
       "certifications": [
         "GB/T 9776"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第五轮数据扩充-更多房屋建材",
-    "last_updated": "2026-01-30T21:17:39.611995",
-    "version": "5.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "a117a909e70cf021",
@@ -3594,11 +6366,39 @@
       ],
       "certifications": [
         "JG/T 363"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第五轮数据扩充-更多房屋建材",
-    "last_updated": "2026-01-30T21:17:39.611995",
-    "version": "5.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "d610df5aeb893b7f",
@@ -3631,11 +6431,39 @@
       ],
       "certifications": [
         "JC/T 1004"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第五轮数据扩充-更多房屋建材",
-    "last_updated": "2026-01-30T21:17:39.611995",
-    "version": "5.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "6e15719d2c27da46",
@@ -3663,11 +6491,39 @@
       ],
       "certifications": [
         "GB/T 16731"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第五轮数据扩充-更多房屋建材",
-    "last_updated": "2026-01-30T21:17:39.611995",
-    "version": "5.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "0423c7d5da5e5e75",
@@ -3700,11 +6556,39 @@
       ],
       "certifications": [
         "GB/T 19889"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第五轮数据扩充-更多房屋建材",
-    "last_updated": "2026-01-30T21:17:39.611995",
-    "version": "5.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "bb56d4a8dfb26e3c",
@@ -3737,11 +6621,39 @@
       ],
       "certifications": [
         "GB/T 19889"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第五轮数据扩充-更多房屋建材",
-    "last_updated": "2026-01-30T21:17:39.611995",
-    "version": "5.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "85ad04b1c9b87957",
@@ -3770,11 +6682,39 @@
       ],
       "certifications": [
         "GB/T 11981"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第五轮数据扩充-更多房屋建材",
-    "last_updated": "2026-01-30T21:17:39.611995",
-    "version": "5.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "6c4d07768e9d4e9a",
@@ -3812,11 +6752,39 @@
       ],
       "certifications": [
         "GB 50210"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第五轮数据扩充-更多房屋建材",
-    "last_updated": "2026-01-30T21:17:39.611995",
-    "version": "5.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "2eeacfc29891e527",
@@ -3845,11 +6813,39 @@
       ],
       "certifications": [
         "GB/T 11981"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第五轮数据扩充-更多房屋建材",
-    "last_updated": "2026-01-30T21:17:39.611995",
-    "version": "5.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "92f54fd6d79aab78",
@@ -3877,11 +6873,39 @@
       ],
       "certifications": [
         "GB/T 1228"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第五轮数据扩充-更多房屋建材",
-    "last_updated": "2026-01-30T21:17:39.611995",
-    "version": "5.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "2c92570b7475d4e2",
@@ -3909,11 +6933,39 @@
       ],
       "certifications": [
         "GB/T 16454"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第五轮数据扩充-更多房屋建材",
-    "last_updated": "2026-01-30T21:17:39.611995",
-    "version": "5.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "c10ba0dfa86dce57",
@@ -3951,11 +7003,39 @@
       ],
       "certifications": [
         "GB 18145"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第五轮数据扩充-更多房屋建材",
-    "last_updated": "2026-01-30T21:17:39.611995",
-    "version": "5.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "f516e2191880c00b",
@@ -3984,11 +7064,39 @@
       ],
       "certifications": [
         "GB/T 13520"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第六轮数据扩充-厨卫照明暖通",
-    "last_updated": "2026-01-30T21:22:42.312381",
-    "version": "6.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "c9c8fcc308a09659",
@@ -4022,11 +7130,39 @@
       ],
       "certifications": [
         "NSF认证"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第六轮数据扩充-厨卫照明暖通",
-    "last_updated": "2026-01-30T21:22:42.312381",
-    "version": "6.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "f639574bca4ab891",
@@ -4054,11 +7190,39 @@
       ],
       "certifications": [
         "GB/T 17219"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第六轮数据扩充-厨卫照明暖通",
-    "last_updated": "2026-01-30T21:22:42.312381",
-    "version": "6.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "56092d5fe2fb72a7",
@@ -4086,11 +7250,39 @@
       ],
       "certifications": [
         "GB 6952"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第六轮数据扩充-厨卫照明暖通",
-    "last_updated": "2026-01-30T21:22:42.312381",
-    "version": "6.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "c4d8964b6900a6ff",
@@ -4119,11 +7311,39 @@
       ],
       "certifications": [
         "GB/T 23448"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第六轮数据扩充-厨卫照明暖通",
-    "last_updated": "2026-01-30T21:22:42.312381",
-    "version": "6.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "54354a2b07e5b6d2",
@@ -4152,11 +7372,39 @@
       ],
       "certifications": [
         "3C认证"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第六轮数据扩充-厨卫照明暖通",
-    "last_updated": "2026-01-30T21:22:42.312381",
-    "version": "6.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "32a6aedfdea844cd",
@@ -4190,11 +7438,39 @@
       ],
       "certifications": [
         "CQC认证"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第六轮数据扩充-厨卫照明暖通",
-    "last_updated": "2026-01-30T21:22:42.312381",
-    "version": "6.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "443f64a4c0dcff1b",
@@ -4232,11 +7508,39 @@
       ],
       "certifications": [
         "CCC认证"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第六轮数据扩充-厨卫照明暖通",
-    "last_updated": "2026-01-30T21:22:42.312381",
-    "version": "6.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "a43d696d91369d23",
@@ -4269,11 +7573,39 @@
       ],
       "certifications": [
         "CCC认证"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第六轮数据扩充-厨卫照明暖通",
-    "last_updated": "2026-01-30T21:22:42.312381",
-    "version": "6.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "27c645cbc1b123a7",
@@ -4301,11 +7633,39 @@
       ],
       "certifications": [
         "CCC认证"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第六轮数据扩充-厨卫照明暖通",
-    "last_updated": "2026-01-30T21:22:42.312381",
-    "version": "6.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "4fd2a29ad1f1285b",
@@ -4338,11 +7698,39 @@
       ],
       "certifications": [
         "CCC认证"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第六轮数据扩充-厨卫照明暖通",
-    "last_updated": "2026-01-30T21:22:42.312381",
-    "version": "6.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "8a90f0d44c6b419f",
@@ -4370,11 +7758,39 @@
       ],
       "certifications": [
         "CCC认证"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第六轮数据扩充-厨卫照明暖通",
-    "last_updated": "2026-01-30T21:22:42.312381",
-    "version": "6.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "f9c36e5e8d675feb",
@@ -4408,11 +7824,39 @@
       "certifications": [
         "CCC认证",
         "CE认证"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第六轮数据扩充-厨卫照明暖通",
-    "last_updated": "2026-01-30T21:22:42.312381",
-    "version": "6.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "56ffda9b7b9a6036",
@@ -4440,11 +7884,39 @@
       ],
       "certifications": [
         "GB/T 29039"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第六轮数据扩充-厨卫照明暖通",
-    "last_updated": "2026-01-30T21:22:42.312381",
-    "version": "6.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "4beb82c633ffa2f3",
@@ -4472,11 +7944,39 @@
       ],
       "certifications": [
         "GB/T 29039"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第六轮数据扩充-厨卫照明暖通",
-    "last_updated": "2026-01-30T21:22:42.312381",
-    "version": "6.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "fa2d29b083d34939",
@@ -4505,11 +8005,39 @@
       ],
       "certifications": [
         "GB/T 18992"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第六轮数据扩充-厨卫照明暖通",
-    "last_updated": "2026-01-30T21:22:42.312381",
-    "version": "6.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "61359266dad91714",
@@ -4537,11 +8065,39 @@
       ],
       "certifications": [
         "GB/T 18992"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第六轮数据扩充-厨卫照明暖通",
-    "last_updated": "2026-01-30T21:22:42.312381",
-    "version": "6.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "127a7d7a119e1229",
@@ -4569,11 +8125,39 @@
       ],
       "certifications": [
         "GB/T 17791"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第六轮数据扩充-厨卫照明暖通",
-    "last_updated": "2026-01-30T21:22:42.312381",
-    "version": "6.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "8b8fe77e4af110f0",
@@ -4607,11 +8191,39 @@
       ],
       "certifications": [
         "GB/T 12755"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第六轮数据扩充-厨卫照明暖通",
-    "last_updated": "2026-01-30T21:22:42.312381",
-    "version": "6.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "76a83169d9048154",
@@ -4650,11 +8262,39 @@
       ],
       "certifications": [
         "GB/T 20474"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第六轮数据扩充-厨卫照明暖通",
-    "last_updated": "2026-01-30T21:22:42.312381",
-    "version": "6.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "c986b124686baf99",
@@ -4683,11 +8323,39 @@
       ],
       "certifications": [
         "GB/T 29755"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第六轮数据扩充-厨卫照明暖通",
-    "last_updated": "2026-01-30T21:22:42.312381",
-    "version": "6.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "e146f2e2d0f5869e",
@@ -4716,11 +8384,39 @@
       ],
       "certifications": [
         "GB/T 21149"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第六轮数据扩充-厨卫照明暖通",
-    "last_updated": "2026-01-30T21:22:42.312381",
-    "version": "6.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "f1b98fc20eb58e90",
@@ -4753,11 +8449,39 @@
       ],
       "certifications": [
         "JG/T 24"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第六轮数据扩充-厨卫照明暖通",
-    "last_updated": "2026-01-30T21:22:42.312381",
-    "version": "6.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "516c5e71bcc840eb",
@@ -4785,11 +8509,39 @@
       ],
       "certifications": [
         "GB/T 29906"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第六轮数据扩充-厨卫照明暖通",
-    "last_updated": "2026-01-30T21:22:42.312381",
-    "version": "6.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "81264f716be7fae7",
@@ -4817,11 +8569,39 @@
       ],
       "certifications": [
         "GB/T 17748"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第六轮数据扩充-厨卫照明暖通",
-    "last_updated": "2026-01-30T21:22:42.312381",
-    "version": "6.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "57d2cefa3c963602",
@@ -4849,11 +8629,39 @@
       ],
       "certifications": [
         "GB 6566"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第六轮数据扩充-厨卫照明暖通",
-    "last_updated": "2026-01-30T21:22:42.312381",
-    "version": "6.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "82fd514f56eed176",
@@ -4881,11 +8689,39 @@
       ],
       "certifications": [
         "GB/T 14295"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第六轮数据扩充-厨卫照明暖通",
-    "last_updated": "2026-01-30T21:22:42.312381",
-    "version": "6.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "d4041ac75d54cbf6",
@@ -4914,11 +8750,39 @@
       ],
       "certifications": [
         "GB/T 7702"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第六轮数据扩充-厨卫照明暖通",
-    "last_updated": "2026-01-30T21:22:42.312381",
-    "version": "6.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "50866bdf200bcfb1",
@@ -4946,11 +8810,39 @@
       ],
       "certifications": [
         "GB 50243"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第六轮数据扩充-厨卫照明暖通",
-    "last_updated": "2026-01-30T21:22:42.312381",
-    "version": "6.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "c06ce180b98209a1",
@@ -4995,11 +8887,39 @@
       "certifications": [
         "GA 374",
         "3C认证"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第十轮数据扩充-智能家居园林卫浴五金",
-    "last_updated": "2026-01-30T21:59:31.364180",
-    "version": "10.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "cae946eb782eab30",
@@ -5039,11 +8959,39 @@
       "certifications": [
         "CCC认证",
         "CE认证"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第十轮数据扩充-智能家居园林卫浴五金",
-    "last_updated": "2026-01-30T21:59:31.364180",
-    "version": "10.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "cef4690e525b0296",
@@ -5082,11 +9030,39 @@
       ],
       "certifications": [
         "CCC认证"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第十轮数据扩充-智能家居园林卫浴五金",
-    "last_updated": "2026-01-30T21:59:31.364180",
-    "version": "10.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "d0fc27806854d0ef",
@@ -5126,11 +9102,39 @@
       "certifications": [
         "CCC认证",
         "SRRC认证"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第十轮数据扩充-智能家居园林卫浴五金",
-    "last_updated": "2026-01-30T21:59:31.364180",
-    "version": "10.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "8e1c8bcb7b8909ae",
@@ -5175,11 +9179,39 @@
       "certifications": [
         "CQC认证",
         "CCC认证"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第十轮数据扩充-智能家居园林卫浴五金",
-    "last_updated": "2026-01-30T21:59:31.364180",
-    "version": "10.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "7eea6e7037ae00b9",
@@ -5223,11 +9255,39 @@
       ],
       "certifications": [
         "GB/T 22102"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第十轮数据扩充-智能家居园林卫浴五金",
-    "last_updated": "2026-01-30T21:59:31.364180",
-    "version": "10.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "c702c731f5dbd334",
@@ -5266,11 +9326,39 @@
       ],
       "certifications": [
         "GB/T 24508"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第十轮数据扩充-智能家居园林卫浴五金",
-    "last_updated": "2026-01-30T21:59:31.364180",
-    "version": "10.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "6f8ce7450486cea1",
@@ -5304,11 +9392,39 @@
       ],
       "certifications": [
         "GB 6566"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第十轮数据扩充-智能家居园林卫浴五金",
-    "last_updated": "2026-01-30T21:59:31.364180",
-    "version": "10.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "3165a5a1b7c51817",
@@ -5353,11 +9469,39 @@
       "certifications": [
         "GB/T 20394",
         "SGS检测"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第十轮数据扩充-智能家居园林卫浴五金",
-    "last_updated": "2026-01-30T21:59:31.364180",
-    "version": "10.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "84372440864ed7d1",
@@ -5386,11 +9530,39 @@
       ],
       "certifications": [
         "CJ/T 188"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第十轮数据扩充-智能家居园林卫浴五金",
-    "last_updated": "2026-01-30T21:59:31.364180",
-    "version": "10.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "46f948635f3acf8b",
@@ -5435,11 +9607,39 @@
       "certifications": [
         "GB 6952",
         "CCC认证"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第十轮数据扩充-智能家居园林卫浴五金",
-    "last_updated": "2026-01-30T21:59:31.364180",
-    "version": "10.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "86484b8f58c3a060",
@@ -5483,11 +9683,39 @@
       ],
       "certifications": [
         "GB 18584"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第十轮数据扩充-智能家居园林卫浴五金",
-    "last_updated": "2026-01-30T21:59:31.364180",
-    "version": "10.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "59241fc106d7d39b",
@@ -5531,11 +9759,39 @@
       ],
       "certifications": [
         "GB 18145"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第十轮数据扩充-智能家居园林卫浴五金",
-    "last_updated": "2026-01-30T21:59:31.364180",
-    "version": "10.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "9e85f6506c328a71",
@@ -5574,11 +9830,39 @@
       ],
       "certifications": [
         "GB 50015"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第十轮数据扩充-智能家居园林卫浴五金",
-    "last_updated": "2026-01-30T21:59:31.364180",
-    "version": "10.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "addf67ec4221892a",
@@ -5617,11 +9901,39 @@
       ],
       "certifications": [
         "GB 18145"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第十轮数据扩充-智能家居园林卫浴五金",
-    "last_updated": "2026-01-30T21:59:31.364180",
-    "version": "10.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "3ab05aa70d06de13",
@@ -5660,11 +9972,39 @@
       ],
       "certifications": [
         "GB/T 22807"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第十轮数据扩充-智能家居园林卫浴五金",
-    "last_updated": "2026-01-30T21:59:31.364180",
-    "version": "10.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "1cf22d3aeb18939e",
@@ -5703,11 +10043,39 @@
       ],
       "certifications": [
         "GB/T 16454"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第十轮数据扩充-智能家居园林卫浴五金",
-    "last_updated": "2026-01-30T21:59:31.364180",
-    "version": "10.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "54da64b99537c51c",
@@ -5746,11 +10114,39 @@
       ],
       "certifications": [
         "GB/T 12002"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第十轮数据扩充-智能家居园林卫浴五金",
-    "last_updated": "2026-01-30T21:59:31.364180",
-    "version": "10.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "653d3f89a61e3525",
@@ -5789,11 +10185,39 @@
       ],
       "certifications": [
         "GA 374"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第十轮数据扩充-智能家居园林卫浴五金",
-    "last_updated": "2026-01-30T21:59:31.364180",
-    "version": "10.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "8fdbf99e9549409f",
@@ -5832,11 +10256,39 @@
       ],
       "certifications": [
         "GB/T 14683"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第十轮数据扩充-智能家居园林卫浴五金",
-    "last_updated": "2026-01-30T21:59:31.364180",
-    "version": "10.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "8e4cbcb472e30435",
@@ -5875,11 +10327,39 @@
       ],
       "certifications": [
         "GB/T 30652"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第十轮数据扩充-智能家居园林卫浴五金",
-    "last_updated": "2026-01-30T21:59:31.364180",
-    "version": "10.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "bc76fdb6a41fee81",
@@ -5923,11 +10403,39 @@
       ],
       "certifications": [
         "GB/T 38264"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第十轮数据扩充-智能家居园林卫浴五金",
-    "last_updated": "2026-01-30T21:59:31.364180",
-    "version": "10.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "9542374b9c9b39ae",
@@ -5966,11 +10474,39 @@
       ],
       "certifications": [
         "环保无毒"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第十轮数据扩充-智能家居园林卫浴五金",
-    "last_updated": "2026-01-30T21:59:31.364180",
-    "version": "10.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "41ae771601b09a9d",
@@ -6003,11 +10539,39 @@
       ],
       "certifications": [
         "GB/T 11981"
+      ],
+      "advantages": [
+        "符合国家环保标准",
+        "性能稳定",
+        "适用范围广"
+      ],
+      "disadvantages": [
+        "需要定期维护",
+        "价格因材质而异"
+      ],
+      "maintenance_tips": [
+        "定期清洁",
+        "避免潮湿环境",
+        "注意通风"
+      ],
+      "health_recommendations": [
+        "选择符合环保标准的产品",
+        "新品需通风散味",
+        "定期检查材料状态"
+      ],
+      "physical_properties": {
+        "硬度": "根据材质",
+        "重量": "根据材质",
+        "耐用性": "良好"
+      },
+      "application_scenarios": [
+        "室内",
+        "家居"
       ]
     },
     "source": "第十轮数据扩充-智能家居园林卫浴五金",
-    "last_updated": "2026-01-30T21:59:31.364180",
-    "version": "10.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   },
   {
     "material_id": "77d76ed116b89293",
@@ -6121,7 +10685,7 @@
       ]
     },
     "source": "第十二轮数据扩充-铁艺家具材料",
-    "last_updated": "2026-01-30T23:07:18.936531",
-    "version": "12.0"
+    "last_updated": "2026-01-30T23:13:08.967003",
+    "version": "13.0"
   }
 ]
