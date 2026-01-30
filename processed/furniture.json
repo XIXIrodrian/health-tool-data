@@ -1,0 +1,1917 @@
+[
+  {
+    "material_id": "f4621f581763ad79",
+    "category": "人造板类",
+    "data": {
+      "category": "人造板类",
+      "material_type": "刨花板",
+      "chemical_components": [
+        {
+          "name": "甲醛",
+          "cas": "50-00-0",
+          "hazard": "高"
+        },
+        {
+          "name": "脲醛树脂",
+          "cas": "9011-05-6",
+          "hazard": "中"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "甲醛",
+          "severity": "高",
+          "description": "UF胶含有甲醛,封边不严可能释放"
+        }
+      ],
+      "visual_cues": [
+        "颗粒状结构",
+        "边缘可见木屑"
+      ],
+      "certifications": [
+        "E0",
+        "E1",
+        "CARB P2"
+      ]
+    },
+    "source": "ECHA SCIP Database",
+    "last_updated": "2026-01-30T17:27:05.093852",
+    "version": "1.0"
+  },
+  {
+    "material_id": "f4621f581763ad79",
+    "category": "人造板类",
+    "data": {
+      "category": "人造板类",
+      "material_type": "密度板",
+      "chemical_components": [
+        {
+          "name": "甲醛",
+          "cas": "50-00-0",
+          "hazard": "高"
+        },
+        {
+          "name": "异氰酸酯",
+          "cas": "9016-87-9",
+          "hazard": "中"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "甲醛",
+          "severity": "高",
+          "description": "纤维板使用脲醛胶,甲醛释放风险高"
+        },
+        {
+          "type": "防水性差",
+          "severity": "中",
+          "description": "易受潮膨胀变形"
+        }
+      ],
+      "visual_cues": [
+        "表面光滑",
+        "密度均匀",
+        "切面细腻"
+      ],
+      "certifications": [
+        "E0",
+        "E1",
+        "NAF"
+      ]
+    },
+    "source": "ECHA SCIP Database",
+    "last_updated": "2026-01-30T17:27:05.095305",
+    "version": "1.0"
+  },
+  {
+    "material_id": "f4621f581763ad79",
+    "category": "人造板类",
+    "data": {
+      "category": "人造板类",
+      "material_type": "大芯板",
+      "chemical_components": [
+        {
+          "name": "甲醛",
+          "cas": "50-00-0",
+          "hazard": "中"
+        },
+        {
+          "name": "胶黏剂",
+          "cas": "N/A",
+          "hazard": "中"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "甲醛",
+          "severity": "中",
+          "description": "夹层胶合处可能释放甲醛"
+        },
+        {
+          "type": "变形",
+          "severity": "中",
+          "description": "受潮易变形开裂"
+        }
+      ],
+      "visual_cues": [
+        "侧面可见木条",
+        "分层结构"
+      ],
+      "certifications": [
+        "E1",
+        "E0"
+      ]
+    },
+    "source": "ECHA SCIP Database",
+    "last_updated": "2026-01-30T17:27:05.095305",
+    "version": "1.0"
+  },
+  {
+    "material_id": "b2e619cac4d2428f",
+    "category": "实木类",
+    "data": {
+      "category": "实木类",
+      "material_type": "橡木",
+      "chemical_components": [
+        {
+          "name": "木蜡油",
+          "cas": "N/A",
+          "hazard": "低"
+        },
+        {
+          "name": "天然单宁",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "表面处理",
+          "severity": "低",
+          "description": "劣质腻子填缝可能含有害物质"
+        }
+      ],
+      "visual_cues": [
+        "山形纹理",
+        "粗糙质感",
+        "木射线明显"
+      ],
+      "certifications": [
+        "FSC",
+        "PEFC"
+      ]
+    },
+    "source": "ECHA SCIP Database",
+    "last_updated": "2026-01-30T17:27:05.095305",
+    "version": "1.0"
+  },
+  {
+    "material_id": "b2e619cac4d2428f",
+    "category": "实木类",
+    "data": {
+      "category": "实木类",
+      "material_type": "松木",
+      "chemical_components": [
+        {
+          "name": "松脂",
+          "cas": "8002-09-3",
+          "hazard": "低"
+        },
+        {
+          "name": "萜烯类",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "天然异味",
+          "severity": "低",
+          "description": "松脂异味对呼吸道敏感人群有刺激"
+        }
+      ],
+      "visual_cues": [
+        "明显节疤",
+        "浅黄色",
+        "松软质地"
+      ],
+      "certifications": [
+        "FSC"
+      ]
+    },
+    "source": "ECHA SCIP Database",
+    "last_updated": "2026-01-30T17:27:05.095305",
+    "version": "1.0"
+  },
+  {
+    "material_id": "cc4581dc491f128f",
+    "category": "皮革类",
+    "data": {
+      "category": "皮革类",
+      "material_type": "头层牛皮",
+      "chemical_components": [
+        {
+          "name": "铬盐",
+          "cas": "N/A",
+          "hazard": "中"
+        },
+        {
+          "name": "六价铬",
+          "cas": "18540-29-9",
+          "hazard": "高"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "六价铬",
+          "severity": "高",
+          "description": "鞣制过程可能残留致癌物六价铬"
+        },
+        {
+          "type": "甲醛",
+          "severity": "中",
+          "description": "固定剂可能含甲醛"
+        }
+      ],
+      "visual_cues": [
+        "天然纹理",
+        "柔软触感",
+        "毛孔清晰"
+      ],
+      "certifications": [
+        "LWG",
+        "ISO 14001"
+      ]
+    },
+    "source": "ECHA SCIP Database",
+    "last_updated": "2026-01-30T17:27:05.095305",
+    "version": "1.0"
+  },
+  {
+    "material_id": "cc4581dc491f128f",
+    "category": "皮革类",
+    "data": {
+      "category": "皮革类",
+      "material_type": "PU皮",
+      "chemical_components": [
+        {
+          "name": "聚氨酯",
+          "cas": "9009-54-5",
+          "hazard": "中"
+        },
+        {
+          "name": "邻苯二甲酸酯",
+          "cas": "117-81-7",
+          "hazard": "高"
+        },
+        {
+          "name": "DMF",
+          "cas": "68-12-2",
+          "hazard": "高"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "塑化剂",
+          "severity": "高",
+          "description": "可能含邻苯二甲酸酯类塑化剂"
+        },
+        {
+          "type": "DMF",
+          "severity": "高",
+          "description": "残留二甲基甲酰胺有毒"
+        }
+      ],
+      "visual_cues": [
+        "均匀纹理",
+        "塑料光泽",
+        "无毛孔"
+      ],
+      "certifications": [
+        "REACH",
+        "Oeko-Tex"
+      ]
+    },
+    "source": "ECHA SCIP Database",
+    "last_updated": "2026-01-30T17:27:05.095305",
+    "version": "1.0"
+  },
+  {
+    "material_id": "5ff36d4aa525e1b3",
+    "category": "金属类",
+    "data": {
+      "category": "金属类",
+      "material_type": "铁艺",
+      "chemical_components": [
+        {
+          "name": "铁氧化物",
+          "cas": "1309-37-1",
+          "hazard": "低"
+        },
+        {
+          "name": "油漆VOCs",
+          "cas": "N/A",
+          "hazard": "中"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "表面涂层",
+          "severity": "中",
+          "description": "烤漆或喷塑工艺可能释放VOCs"
+        },
+        {
+          "type": "重金属",
+          "severity": "中",
+          "description": "劣质油漆可能含铅镉"
+        }
+      ],
+      "visual_cues": [
+        "金属光泽",
+        "冷触感",
+        "焊接痕迹"
+      ],
+      "certifications": [
+        "RoHS",
+        "ISO 9001"
+      ]
+    },
+    "source": "ECHA SCIP Database",
+    "last_updated": "2026-01-30T17:27:05.095305",
+    "version": "1.0"
+  },
+  {
+    "material_id": "24841aaeddfa0b21",
+    "category": "高分子材料类",
+    "data": {
+      "category": "高分子材料类",
+      "material_type": "PVC塑料",
+      "chemical_components": [
+        {
+          "name": "聚氯乙烯",
+          "cas": "9002-86-2",
+          "hazard": "高"
+        },
+        {
+          "name": "DEHP",
+          "cas": "117-81-7",
+          "hazard": "高"
+        },
+        {
+          "name": "氯化氢",
+          "cas": "7647-01-0",
+          "hazard": "高"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "塑化剂",
+          "severity": "高",
+          "description": "含大量塑化剂DEHP,干扰内分泌"
+        },
+        {
+          "type": "受热风险",
+          "severity": "高",
+          "description": "受热产生氯化氢有毒气体"
+        }
+      ],
+      "visual_cues": [
+        "塑料质感",
+        "较硬",
+        "可能有异味"
+      ],
+      "certifications": [
+        "RoHS",
+        "REACH"
+      ]
+    },
+    "source": "ECHA SCIP Database",
+    "last_updated": "2026-01-30T17:27:05.095305",
+    "version": "1.0"
+  },
+  {
+    "material_id": "24841aaeddfa0b21",
+    "category": "高分子材料类",
+    "data": {
+      "category": "高分子材料类",
+      "material_type": "PP聚丙烯",
+      "chemical_components": [
+        {
+          "name": "聚丙烯",
+          "cas": "9003-07-0",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "安全性",
+          "severity": "低",
+          "description": "PP是最安全的塑料材质,可进微波炉"
+        }
+      ],
+      "visual_cues": [
+        "轻盈",
+        "韧性好",
+        "半透明或不透明"
+      ],
+      "certifications": [
+        "FDA",
+        "LFGB"
+      ]
+    },
+    "source": "ECHA SCIP Database",
+    "last_updated": "2026-01-30T17:27:05.095305",
+    "version": "1.0"
+  },
+  {
+    "material_id": "2bc48fd6270efb76",
+    "category": "人造板类",
+    "data": {
+      "category": "人造板类",
+      "material_type": "多层实木板",
+      "chemical_components": [
+        {
+          "name": "甲醛",
+          "cas": "50-00-0",
+          "hazard": "低"
+        },
+        {
+          "name": "酚醛树脂",
+          "cas": "9003-35-4",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "甲醛",
+          "severity": "低",
+          "description": "层间胶水可能有微量甲醛"
+        }
+      ],
+      "visual_cues": [
+        "层状结构明显",
+        "侧面可见木纹层"
+      ],
+      "certifications": [
+        "E0",
+        "E1"
+      ]
+    },
+    "source": "数据扩充",
+    "last_updated": "2026-01-30T17:39:34.108465",
+    "version": "1.0"
+  },
+  {
+    "material_id": "c282b03d90dc0539",
+    "category": "人造板类",
+    "data": {
+      "category": "人造板类",
+      "material_type": "实木指接板",
+      "chemical_components": [
+        {
+          "name": "甲醛",
+          "cas": "50-00-0",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "甲醛",
+          "severity": "低",
+          "description": "拼接处用胶少,甲醛释放量低"
+        }
+      ],
+      "visual_cues": [
+        "锯齿状拼接痕迹",
+        "保留天然木纹"
+      ],
+      "certifications": [
+        "E0",
+        "FSC"
+      ]
+    },
+    "source": "数据扩充",
+    "last_updated": "2026-01-30T17:39:34.108465",
+    "version": "1.0"
+  },
+  {
+    "material_id": "af882fc14ca8e33c",
+    "category": "人造板类",
+    "data": {
+      "category": "人造板类",
+      "material_type": "OSB定向刨花板",
+      "chemical_components": [
+        {
+          "name": "甲醛",
+          "cas": "50-00-0",
+          "hazard": "中"
+        },
+        {
+          "name": "MDI胶",
+          "cas": "26447-40-5",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "甲醛",
+          "severity": "中",
+          "description": "使用MDI胶甲醛更低"
+        }
+      ],
+      "visual_cues": [
+        "刨片定向排列",
+        "表面粗糙"
+      ],
+      "certifications": [
+        "E1",
+        "CARB P2"
+      ]
+    },
+    "source": "数据扩充",
+    "last_updated": "2026-01-30T17:39:34.108465",
+    "version": "1.0"
+  },
+  {
+    "material_id": "3118419149f53c9c",
+    "category": "实木类",
+    "data": {
+      "category": "实木类",
+      "material_type": "胡桃木",
+      "chemical_components": [
+        {
+          "name": "天然油脂",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "假货风险",
+          "severity": "中",
+          "description": "市场常见贴皮仿冒"
+        }
+      ],
+      "visual_cues": [
+        "深褐色",
+        "直纹理",
+        "质地坚硬"
+      ],
+      "certifications": [
+        "FSC"
+      ]
+    },
+    "source": "数据扩充",
+    "last_updated": "2026-01-30T17:39:34.108465",
+    "version": "1.0"
+  },
+  {
+    "material_id": "3be8fc9e30184ed2",
+    "category": "实木类",
+    "data": {
+      "category": "实木类",
+      "material_type": "榉木",
+      "chemical_components": [
+        {
+          "name": "天然木质",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "霉变",
+          "severity": "中",
+          "description": "烘干不彻底易发霉"
+        }
+      ],
+      "visual_cues": [
+        "芝麻点",
+        "纹理细密"
+      ],
+      "certifications": [
+        "FSC"
+      ]
+    },
+    "source": "数据扩充",
+    "last_updated": "2026-01-30T17:39:34.108465",
+    "version": "1.0"
+  },
+  {
+    "material_id": "5ca91baf9e56aaa9",
+    "category": "实木类",
+    "data": {
+      "category": "实木类",
+      "material_type": "橡胶木",
+      "chemical_components": [
+        {
+          "name": "防腐剂",
+          "cas": "N/A",
+          "hazard": "中"
+        },
+        {
+          "name": "防虫剂",
+          "cas": "N/A",
+          "hazard": "中"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "化学处理",
+          "severity": "中",
+          "description": "需大量化学处理防霉防虫"
+        }
+      ],
+      "visual_cues": [
+        "浅黄色",
+        "质地较软"
+      ],
+      "certifications": [
+        "FSC"
+      ]
+    },
+    "source": "数据扩充",
+    "last_updated": "2026-01-30T17:39:34.108465",
+    "version": "1.0"
+  },
+  {
+    "material_id": "f4b66237b8de11f6",
+    "category": "实木类",
+    "data": {
+      "category": "实木类",
+      "material_type": "水曲柳",
+      "chemical_components": [
+        {
+          "name": "天然木质",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "变形开裂",
+          "severity": "中",
+          "description": "易变形,需谨慎保养"
+        }
+      ],
+      "visual_cues": [
+        "山形纹理明显",
+        "质地坚韧"
+      ],
+      "certifications": [
+        "FSC"
+      ]
+    },
+    "source": "数据扩充",
+    "last_updated": "2026-01-30T17:39:34.108465",
+    "version": "1.0"
+  },
+  {
+    "material_id": "515fdd506ca2c461",
+    "category": "皮革类",
+    "data": {
+      "category": "皮革类",
+      "material_type": "二层皮",
+      "chemical_components": [
+        {
+          "name": "PU涂层",
+          "cas": "9009-54-5",
+          "hazard": "中"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "涂层剥落",
+          "severity": "低",
+          "description": "表面涂层易剥落"
+        }
+      ],
+      "visual_cues": [
+        "均匀纹理",
+        "无明显毛孔"
+      ],
+      "certifications": [
+        "ISO 9001"
+      ]
+    },
+    "source": "数据扩充",
+    "last_updated": "2026-01-30T17:39:34.108465",
+    "version": "1.0"
+  },
+  {
+    "material_id": "0726e8b4ebf73ce0",
+    "category": "皮革类",
+    "data": {
+      "category": "皮革类",
+      "material_type": "科技布",
+      "chemical_components": [
+        {
+          "name": "涤纶",
+          "cas": "N/A",
+          "hazard": "低"
+        },
+        {
+          "name": "防水剂",
+          "cas": "N/A",
+          "hazard": "中"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "防水涂层",
+          "severity": "中",
+          "description": "防水涂层可能含PFAS"
+        }
+      ],
+      "visual_cues": [
+        "布质手感",
+        "防水防污"
+      ],
+      "certifications": [
+        "Oeko-Tex"
+      ]
+    },
+    "source": "数据扩充",
+    "last_updated": "2026-01-30T17:39:34.108465",
+    "version": "1.0"
+  },
+  {
+    "material_id": "1a931168f126e12a",
+    "category": "布类",
+    "data": {
+      "category": "布类",
+      "material_type": "亚麻布",
+      "chemical_components": [
+        {
+          "name": "天然纤维",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "染料残留",
+          "severity": "低",
+          "description": "劣质染料可能残留"
+        }
+      ],
+      "visual_cues": [
+        "粗糙质感",
+        "透气"
+      ],
+      "certifications": [
+        "OEKO-TEX"
+      ]
+    },
+    "source": "数据扩充",
+    "last_updated": "2026-01-30T17:39:34.108465",
+    "version": "1.0"
+  },
+  {
+    "material_id": "dbfd33b169049ac0",
+    "category": "布类",
+    "data": {
+      "category": "布类",
+      "material_type": "绒布",
+      "chemical_components": [
+        {
+          "name": "阻燃剂",
+          "cas": "N/A",
+          "hazard": "中"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "阻燃剂",
+          "severity": "中",
+          "description": "可能添加溴化阻燃剂"
+        }
+      ],
+      "visual_cues": [
+        "绒毛丰富",
+        "柔软"
+      ],
+      "certifications": [
+        "OEKO-TEX"
+      ]
+    },
+    "source": "数据扩充",
+    "last_updated": "2026-01-30T17:39:34.108465",
+    "version": "1.0"
+  },
+  {
+    "material_id": "6d8c2d55021e410a",
+    "category": "金属类",
+    "data": {
+      "category": "金属类",
+      "material_type": "不锈钢",
+      "chemical_components": [
+        {
+          "name": "铬",
+          "cas": "7440-47-3",
+          "hazard": "低"
+        },
+        {
+          "name": "镍",
+          "cas": "7440-02-0",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "镍过敏",
+          "severity": "低",
+          "description": "对镍过敏者慎用"
+        }
+      ],
+      "visual_cues": [
+        "银白光泽",
+        "不易锈蚀"
+      ],
+      "certifications": [
+        "304",
+        "316"
+      ]
+    },
+    "source": "数据扩充",
+    "last_updated": "2026-01-30T17:39:34.108465",
+    "version": "1.0"
+  },
+  {
+    "material_id": "461845b97b7541b1",
+    "category": "金属类",
+    "data": {
+      "category": "金属类",
+      "material_type": "铝合金",
+      "chemical_components": [
+        {
+          "name": "铝",
+          "cas": "7429-90-5",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "连接件",
+          "severity": "低",
+          "description": "连接处尼龙件或胶水需注意"
+        }
+      ],
+      "visual_cues": [
+        "轻质",
+        "银灰色"
+      ],
+      "certifications": [
+        "ISO 9001"
+      ]
+    },
+    "source": "数据扩充",
+    "last_updated": "2026-01-30T17:39:34.108465",
+    "version": "1.0"
+  },
+  {
+    "material_id": "caebb0355a3fae53",
+    "category": "高分子材料类",
+    "data": {
+      "category": "高分子材料类",
+      "material_type": "PE聚乙烯",
+      "chemical_components": [
+        {
+          "name": "聚乙烯",
+          "cas": "9002-88-4",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "安全性",
+          "severity": "低",
+          "description": "HDPE安全性高"
+        }
+      ],
+      "visual_cues": [
+        "柔韧",
+        "半透明"
+      ],
+      "certifications": [
+        "FDA"
+      ]
+    },
+    "source": "数据扩充",
+    "last_updated": "2026-01-30T17:39:34.108465",
+    "version": "1.0"
+  },
+  {
+    "material_id": "7e61f062bb2de242",
+    "category": "高分子材料类",
+    "data": {
+      "category": "高分子材料类",
+      "material_type": "ABS塑料",
+      "chemical_components": [
+        {
+          "name": "ABS树脂",
+          "cas": "9003-56-9",
+          "hazard": "中"
+        },
+        {
+          "name": "阻燃剂",
+          "cas": "N/A",
+          "hazard": "中"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "阻燃剂",
+          "severity": "中",
+          "description": "可能添加溴化阻燃剂"
+        }
+      ],
+      "visual_cues": [
+        "坚硬",
+        "不透明"
+      ],
+      "certifications": [
+        "RoHS"
+      ]
+    },
+    "source": "数据扩充",
+    "last_updated": "2026-01-30T17:39:34.108465",
+    "version": "1.0"
+  },
+  {
+    "material_id": "32edb6ed908f0194",
+    "category": "高分子材料类",
+    "data": {
+      "category": "高分子材料类",
+      "material_type": "PC聚碳酸酯",
+      "chemical_components": [
+        {
+          "name": "聚碳酸酯",
+          "cas": "24936-68-3",
+          "hazard": "中"
+        },
+        {
+          "name": "双酚A",
+          "cas": "80-05-7",
+          "hazard": "高"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "双酚A",
+          "severity": "高",
+          "description": "可能释放双酚A"
+        }
+      ],
+      "visual_cues": [
+        "透明",
+        "坚硬"
+      ],
+      "certifications": [
+        "FDA(BPA-Free)"
+      ]
+    },
+    "source": "数据扩充",
+    "last_updated": "2026-01-30T17:39:34.108465",
+    "version": "1.0"
+  },
+  {
+    "material_id": "8879d974020ed404",
+    "category": "高分子材料类",
+    "data": {
+      "category": "高分子材料类",
+      "material_type": "PS聚苯乙烯",
+      "chemical_components": [
+        {
+          "name": "聚苯乙烯",
+          "cas": "9003-53-6",
+          "hazard": "中"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "受热释放",
+          "severity": "中",
+          "description": "受热释放苯乙烯"
+        }
+      ],
+      "visual_cues": [
+        "质脆",
+        "透明"
+      ],
+      "certifications": [
+        "FDA"
+      ]
+    },
+    "source": "数据扩充",
+    "last_updated": "2026-01-30T17:39:34.108465",
+    "version": "1.0"
+  },
+  {
+    "material_id": "a6aae96c374d0aa6",
+    "category": "人造板类",
+    "data": {
+      "category": "人造板类",
+      "material_type": "秸秆板",
+      "chemical_components": [
+        {
+          "name": "MDI胶",
+          "cas": "26447-40-5",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "环保材质",
+          "severity": "低",
+          "description": "农作物秸秆制成,零甲醛"
+        }
+      ],
+      "visual_cues": [
+        "秸秆纹理",
+        "黄褐色",
+        "轻质"
+      ],
+      "certifications": [
+        "环保认证"
+      ]
+    },
+    "source": "第二轮数据扩充",
+    "last_updated": "2026-01-30T17:46:40.314666",
+    "version": "2.0"
+  },
+  {
+    "material_id": "fb6f6b12de9710d4",
+    "category": "人造板类",
+    "data": {
+      "category": "人造板类",
+      "material_type": "禾香板",
+      "chemical_components": [
+        {
+          "name": "MDI生态胶",
+          "cas": "26447-40-5",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "零甲醛",
+          "severity": "低",
+          "description": "稻麦秸秆为原料,无醛添加"
+        }
+      ],
+      "visual_cues": [
+        "稻草纤维可见",
+        "环保标识"
+      ],
+      "certifications": [
+        "NAF",
+        "CARB P2"
+      ]
+    },
+    "source": "第二轮数据扩充",
+    "last_updated": "2026-01-30T17:46:40.314666",
+    "version": "2.0"
+  },
+  {
+    "material_id": "8359388f693d7a3c",
+    "category": "实木类",
+    "data": {
+      "category": "实木类",
+      "material_type": "樱桃木",
+      "chemical_components": [
+        {
+          "name": "天然木质",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "价格高",
+          "severity": "低",
+          "description": "名贵硬木,价格昂贵"
+        }
+      ],
+      "visual_cues": [
+        "红褐色",
+        "细腻纹理",
+        "质地温润"
+      ],
+      "certifications": [
+        "FSC"
+      ]
+    },
+    "source": "第二轮数据扩充",
+    "last_updated": "2026-01-30T17:46:40.314666",
+    "version": "2.0"
+  },
+  {
+    "material_id": "e0e33252e5fab578",
+    "category": "实木类",
+    "data": {
+      "category": "实木类",
+      "material_type": "白蜡木",
+      "chemical_components": [
+        {
+          "name": "天然木质",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "开裂风险",
+          "severity": "中",
+          "description": "含水率高易开裂"
+        }
+      ],
+      "visual_cues": [
+        "浅白色",
+        "山形纹理",
+        "质地坚韧"
+      ],
+      "certifications": [
+        "FSC"
+      ]
+    },
+    "source": "第二轮数据扩充",
+    "last_updated": "2026-01-30T17:46:40.314666",
+    "version": "2.0"
+  },
+  {
+    "material_id": "bd1628cde4fb5598",
+    "category": "实木类",
+    "data": {
+      "category": "实木类",
+      "material_type": "柚木",
+      "chemical_components": [
+        {
+          "name": "天然油脂",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "假货多",
+          "severity": "中",
+          "description": "市场假冒柚木多"
+        }
+      ],
+      "visual_cues": [
+        "金黄色",
+        "油性光泽",
+        "防水性强"
+      ],
+      "certifications": [
+        "FSC"
+      ]
+    },
+    "source": "第二轮数据扩充",
+    "last_updated": "2026-01-30T17:46:40.314666",
+    "version": "2.0"
+  },
+  {
+    "material_id": "0ddd1bd18ecb8fd2",
+    "category": "复合材质",
+    "data": {
+      "category": "复合材质",
+      "material_type": "木塑复合材料",
+      "chemical_components": [
+        {
+          "name": "木粉+PE/PP",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "耐候性",
+          "severity": "低",
+          "description": "户外使用需防紫外线"
+        }
+      ],
+      "visual_cues": [
+        "仿木纹理",
+        "防水防腐"
+      ],
+      "certifications": [
+        "环保认证"
+      ]
+    },
+    "source": "第二轮数据扩充",
+    "last_updated": "2026-01-30T17:46:40.314666",
+    "version": "2.0"
+  },
+  {
+    "material_id": "4b9dadcabb369702",
+    "category": "复合材质",
+    "data": {
+      "category": "复合材质",
+      "material_type": "碳纤维复合材料",
+      "chemical_components": [
+        {
+          "name": "碳纤维+树脂",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "价格极高",
+          "severity": "低",
+          "description": "高端材质价格昂贵"
+        }
+      ],
+      "visual_cues": [
+        "黑色编织纹理",
+        "轻质高强"
+      ],
+      "certifications": [
+        "ISO 9001"
+      ]
+    },
+    "source": "第二轮数据扩充",
+    "last_updated": "2026-01-30T17:46:40.315657",
+    "version": "2.0"
+  },
+  {
+    "material_id": "2eb71bd4a79d3f7a",
+    "category": "玻璃类",
+    "data": {
+      "category": "玻璃类",
+      "material_type": "钢化玻璃",
+      "chemical_components": [
+        {
+          "name": "二氧化硅",
+          "cas": "7631-86-9",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "自爆风险",
+          "severity": "低",
+          "description": "千分之三自爆率"
+        }
+      ],
+      "visual_cues": [
+        "透明",
+        "边角有CCC标识"
+      ],
+      "certifications": [
+        "3C认证"
+      ]
+    },
+    "source": "第二轮数据扩充",
+    "last_updated": "2026-01-30T17:46:40.315657",
+    "version": "2.0"
+  },
+  {
+    "material_id": "cb521274f9cf412c",
+    "category": "玻璃类",
+    "data": {
+      "category": "玻璃类",
+      "material_type": "夹层玻璃",
+      "chemical_components": [
+        {
+          "name": "PVB胶片",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "安全性高",
+          "severity": "低",
+          "description": "破碎不飞溅"
+        }
+      ],
+      "visual_cues": [
+        "多层结构",
+        "安全玻璃"
+      ],
+      "certifications": [
+        "3C认证"
+      ]
+    },
+    "source": "第二轮数据扩充",
+    "last_updated": "2026-01-30T17:46:40.315657",
+    "version": "2.0"
+  },
+  {
+    "material_id": "42a716409a010a8d",
+    "category": "石材类",
+    "data": {
+      "category": "石材类",
+      "material_type": "天然大理石",
+      "chemical_components": [
+        {
+          "name": "碳酸钙",
+          "cas": "471-34-1",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "放射性",
+          "severity": "中",
+          "description": "部分大理石有微量放射性"
+        }
+      ],
+      "visual_cues": [
+        "天然纹理",
+        "冷触感",
+        "重量大"
+      ],
+      "certifications": [
+        "放射性检测"
+      ]
+    },
+    "source": "第二轮数据扩充",
+    "last_updated": "2026-01-30T17:46:40.315657",
+    "version": "2.0"
+  },
+  {
+    "material_id": "ab6c779931fb0078",
+    "category": "石材类",
+    "data": {
+      "category": "石材类",
+      "material_type": "人造石英石",
+      "chemical_components": [
+        {
+          "name": "石英砂+树脂",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "树脂气味",
+          "severity": "低",
+          "description": "新品可能有轻微树脂味"
+        }
+      ],
+      "visual_cues": [
+        "均匀花纹",
+        "硬度高"
+      ],
+      "certifications": [
+        "NSF认证"
+      ]
+    },
+    "source": "第二轮数据扩充",
+    "last_updated": "2026-01-30T17:46:40.315657",
+    "version": "2.0"
+  },
+  {
+    "material_id": "60ca48c264327485",
+    "category": "天然材质",
+    "data": {
+      "category": "天然材质",
+      "material_type": "藤编",
+      "chemical_components": [
+        {
+          "name": "天然藤条",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "虫蛀风险",
+          "severity": "中",
+          "description": "需防虫防潮"
+        }
+      ],
+      "visual_cues": [
+        "编织纹理",
+        "天然色泽"
+      ],
+      "certifications": [
+        "FSC"
+      ]
+    },
+    "source": "第二轮数据扩充",
+    "last_updated": "2026-01-30T17:46:40.315657",
+    "version": "2.0"
+  },
+  {
+    "material_id": "3561503b4ec9f5a3",
+    "category": "天然材质",
+    "data": {
+      "category": "天然材质",
+      "material_type": "竹材",
+      "chemical_components": [
+        {
+          "name": "天然竹纤维",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "开裂风险",
+          "severity": "中",
+          "description": "需防干燥开裂"
+        }
+      ],
+      "visual_cues": [
+        "竹节纹理",
+        "清香"
+      ],
+      "certifications": [
+        "FSC"
+      ]
+    },
+    "source": "第二轮数据扩充",
+    "last_updated": "2026-01-30T17:46:40.315657",
+    "version": "2.0"
+  },
+  {
+    "material_id": "d678f996429c0af7",
+    "category": "实木类",
+    "data": {
+      "category": "实木类",
+      "material_type": "红木",
+      "chemical_components": [
+        {
+          "name": "天然木质",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "价格昂贵",
+          "severity": "低",
+          "description": "名贵红木价格极高"
+        }
+      ],
+      "visual_cues": [
+        "红褐色",
+        "质地坚硬",
+        "纹理华美"
+      ],
+      "certifications": [
+        "CITES"
+      ]
+    },
+    "source": "第三轮数据扩充",
+    "last_updated": "2026-01-30T17:51:41.368981",
+    "version": "3.0"
+  },
+  {
+    "material_id": "18f56f86f2fb1365",
+    "category": "实木类",
+    "data": {
+      "category": "实木类",
+      "material_type": "桦木",
+      "chemical_components": [
+        {
+          "name": "天然木质",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "易开裂",
+          "severity": "中",
+          "description": "干燥地区易开裂"
+        }
+      ],
+      "visual_cues": [
+        "浅黄白色",
+        "纹理细腻"
+      ],
+      "certifications": [
+        "FSC"
+      ]
+    },
+    "source": "第三轮数据扩充",
+    "last_updated": "2026-01-30T17:51:41.368981",
+    "version": "3.0"
+  },
+  {
+    "material_id": "7e786ca026ad42eb",
+    "category": "实木类",
+    "data": {
+      "category": "实木类",
+      "material_type": "枫木",
+      "chemical_components": [
+        {
+          "name": "天然木质",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "硬度高",
+          "severity": "低",
+          "description": "加工难度大"
+        }
+      ],
+      "visual_cues": [
+        "白中略带红",
+        "致密纹理"
+      ],
+      "certifications": [
+        "FSC"
+      ]
+    },
+    "source": "第三轮数据扩充",
+    "last_updated": "2026-01-30T17:51:41.368981",
+    "version": "3.0"
+  },
+  {
+    "material_id": "08d18582e4b73fd3",
+    "category": "软装材质",
+    "data": {
+      "category": "软装材质",
+      "material_type": "海绵",
+      "chemical_components": [
+        {
+          "name": "聚氨酯",
+          "cas": "9009-54-5",
+          "hazard": "中"
+        },
+        {
+          "name": "TDI/MDI",
+          "cas": "584-84-9",
+          "hazard": "中"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "VOCs释放",
+          "severity": "中",
+          "description": "新海绵可能释放异味"
+        }
+      ],
+      "visual_cues": [
+        "多孔结构",
+        "弹性好"
+      ],
+      "certifications": [
+        "CertiPUR-US"
+      ]
+    },
+    "source": "第三轮数据扩充",
+    "last_updated": "2026-01-30T17:51:41.368981",
+    "version": "3.0"
+  },
+  {
+    "material_id": "1b43ae487b770be6",
+    "category": "软装材质",
+    "data": {
+      "category": "软装材质",
+      "material_type": "乳胶",
+      "chemical_components": [
+        {
+          "name": "天然乳胶",
+          "cas": "9006-04-6",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "乳胶过敏",
+          "severity": "中",
+          "description": "对乳胶过敏者不适用"
+        }
+      ],
+      "visual_cues": [
+        "乳白色",
+        "弹性极佳",
+        "蜂窝结构"
+      ],
+      "certifications": [
+        "LGA",
+        "ECO"
+      ]
+    },
+    "source": "第三轮数据扩充",
+    "last_updated": "2026-01-30T17:51:41.368981",
+    "version": "3.0"
+  },
+  {
+    "material_id": "e6c0519f63cf4b28",
+    "category": "软装材质",
+    "data": {
+      "category": "软装材质",
+      "material_type": "记忆棉",
+      "chemical_components": [
+        {
+          "name": "慢回弹聚氨酯",
+          "cas": "N/A",
+          "hazard": "中"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "化学气味",
+          "severity": "中",
+          "description": "新品可能有异味"
+        }
+      ],
+      "visual_cues": [
+        "慢回弹",
+        "贴合身体"
+      ],
+      "certifications": [
+        "CertiPUR-US"
+      ]
+    },
+    "source": "第三轮数据扩充",
+    "last_updated": "2026-01-30T17:51:41.368981",
+    "version": "3.0"
+  },
+  {
+    "material_id": "a0615c607677472b",
+    "category": "装饰材料",
+    "data": {
+      "category": "装饰材料",
+      "material_type": "壁纸",
+      "chemical_components": [
+        {
+          "name": "PVC",
+          "cas": "9002-86-2",
+          "hazard": "中"
+        },
+        {
+          "name": "胶水",
+          "cas": "N/A",
+          "hazard": "高"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "甲醛",
+          "severity": "高",
+          "description": "胶水可能含甲醛"
+        },
+        {
+          "type": "塑化剂",
+          "severity": "中",
+          "description": "PVC壁纸含塑化剂"
+        }
+      ],
+      "visual_cues": [
+        "表面印花",
+        "可擦洗"
+      ],
+      "certifications": [
+        "十环认证"
+      ]
+    },
+    "source": "第三轮数据扩充",
+    "last_updated": "2026-01-30T17:51:41.368981",
+    "version": "3.0"
+  },
+  {
+    "material_id": "72e2cb745ac08157",
+    "category": "装饰材料",
+    "data": {
+      "category": "装饰材料",
+      "material_type": "乳胶漆",
+      "chemical_components": [
+        {
+          "name": "丙烯酸乳液",
+          "cas": "N/A",
+          "hazard": "低"
+        },
+        {
+          "name": "VOCs",
+          "cas": "N/A",
+          "hazard": "中"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "VOCs",
+          "severity": "中",
+          "description": "施工期释放VOCs"
+        }
+      ],
+      "visual_cues": [
+        "液体涂料",
+        "遮盖力强"
+      ],
+      "certifications": [
+        "十环认证",
+        "绿色之星"
+      ]
+    },
+    "source": "第三轮数据扩充",
+    "last_updated": "2026-01-30T17:51:41.368981",
+    "version": "3.0"
+  },
+  {
+    "material_id": "53ae3642a16463b1",
+    "category": "装饰材料",
+    "data": {
+      "category": "装饰材料",
+      "material_type": "硅藻泥",
+      "chemical_components": [
+        {
+          "name": "硅藻土",
+          "cas": "61790-53-2",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "吸湿性强",
+          "severity": "低",
+          "description": "潮湿地区需注意"
+        }
+      ],
+      "visual_cues": [
+        "粗糙质感",
+        "无光泽"
+      ],
+      "certifications": [
+        "JC/T 2177"
+      ]
+    },
+    "source": "第三轮数据扩充",
+    "last_updated": "2026-01-30T17:51:41.368981",
+    "version": "3.0"
+  },
+  {
+    "material_id": "d267d29550f11ef3",
+    "category": "地板类",
+    "data": {
+      "category": "地板类",
+      "material_type": "强���地板",
+      "chemical_components": [
+        {
+          "name": "高密度板基材",
+          "cas": "N/A",
+          "hazard": "中"
+        },
+        {
+          "name": "三聚氰胺",
+          "cas": "108-78-1",
+          "hazard": "中"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "甲醛",
+          "severity": "中",
+          "description": "基材可能释放甲醛"
+        }
+      ],
+      "visual_cues": [
+        "耐磨层",
+        "仿木纹"
+      ],
+      "certifications": [
+        "E0",
+        "E1"
+      ]
+    },
+    "source": "第三轮数据扩充",
+    "last_updated": "2026-01-30T17:51:41.368981",
+    "version": "3.0"
+  },
+  {
+    "material_id": "3c4f99c431e01bc1",
+    "category": "地板类",
+    "data": {
+      "category": "地板类",
+      "material_type": "实木复合地板",
+      "chemical_components": [
+        {
+          "name": "实木+胶合板",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "甲醛",
+          "severity": "低",
+          "description": "胶水用量少"
+        }
+      ],
+      "visual_cues": [
+        "表层实木",
+        "稳定性好"
+      ],
+      "certifications": [
+        "E0",
+        "FSC"
+      ]
+    },
+    "source": "第三轮数据扩充",
+    "last_updated": "2026-01-30T17:51:41.368981",
+    "version": "3.0"
+  },
+  {
+    "material_id": "201cbf5b1d709741",
+    "category": "地板类",
+    "data": {
+      "category": "地板类",
+      "material_type": "SPC地板",
+      "chemical_components": [
+        {
+          "name": "石塑复合材料",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "零甲醛",
+          "severity": "低",
+          "description": "无胶水零甲醛"
+        }
+      ],
+      "visual_cues": [
+        "坚硬",
+        "防水",
+        "锁扣式"
+      ],
+      "certifications": [
+        "FloorScore"
+      ]
+    },
+    "source": "第三轮数据扩充",
+    "last_updated": "2026-01-30T17:51:41.368981",
+    "version": "3.0"
+  },
+  {
+    "material_id": "46e003f666baf38b",
+    "category": "辅材类",
+    "data": {
+      "category": "辅材类",
+      "material_type": "白乳胶",
+      "chemical_components": [
+        {
+          "name": "聚醋酸乙烯",
+          "cas": "9003-20-7",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "甲醛",
+          "severity": "低",
+          "description": "环保白乳胶甲醛低"
+        }
+      ],
+      "visual_cues": [
+        "乳白色",
+        "水溶性"
+      ],
+      "certifications": [
+        "十环认证"
+      ]
+    },
+    "source": "第三轮数据扩充",
+    "last_updated": "2026-01-30T17:51:41.368981",
+    "version": "3.0"
+  },
+  {
+    "material_id": "3c47a7e302933484",
+    "category": "辅材类",
+    "data": {
+      "category": "辅材类",
+      "material_type": "玻璃胶",
+      "chemical_components": [
+        {
+          "name": "硅酮",
+          "cas": "N/A",
+          "hazard": "中"
+        },
+        {
+          "name": "醋酸",
+          "cas": "64-19-7",
+          "hazard": "中"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "酸味刺激",
+          "severity": "中",
+          "description": "固化时释放醋酸"
+        }
+      ],
+      "visual_cues": [
+        "透明或白色",
+        "柔韧性好"
+      ],
+      "certifications": [
+        "十环认证"
+      ]
+    },
+    "source": "第三轮数据扩充",
+    "last_updated": "2026-01-30T17:51:41.368981",
+    "version": "3.0"
+  }
+]
