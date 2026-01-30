@@ -3956,5 +3956,1000 @@
     "source": "第五轮数据扩充-更多房屋建材",
     "last_updated": "2026-01-30T21:17:39.611995",
     "version": "5.0"
+  },
+  {
+    "material_id": "f516e2191880c00b",
+    "category": "厨卫材料",
+    "data": {
+      "category": "厨卫材料",
+      "material_type": "不锈钢水槽",
+      "chemical_components": [
+        {
+          "name": "304不锈钢",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "重金属析出",
+          "severity": "低",
+          "description": "304不锈钢安全性高"
+        }
+      ],
+      "visual_cues": [
+        "银白色",
+        "耐腐蚀",
+        "食品级"
+      ],
+      "certifications": [
+        "GB/T 13520"
+      ]
+    },
+    "source": "第六轮数据扩充-厨卫照明暖通",
+    "last_updated": "2026-01-30T21:22:42.312381",
+    "version": "6.0"
+  },
+  {
+    "material_id": "c9c8fcc308a09659",
+    "category": "厨卫材料",
+    "data": {
+      "category": "厨卫材料",
+      "material_type": "石英石台面",
+      "chemical_components": [
+        {
+          "name": "石英砂",
+          "cas": "14808-60-7",
+          "hazard": "低"
+        },
+        {
+          "name": "树脂",
+          "cas": "N/A",
+          "hazard": "中"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "树脂气味",
+          "severity": "中",
+          "description": "新品可能有树脂味"
+        }
+      ],
+      "visual_cues": [
+        "坚硬",
+        "花纹丰富",
+        "耐高温"
+      ],
+      "certifications": [
+        "NSF认证"
+      ]
+    },
+    "source": "第六轮数据扩充-厨卫照明暖通",
+    "last_updated": "2026-01-30T21:22:42.312381",
+    "version": "6.0"
+  },
+  {
+    "material_id": "f639574bca4ab891",
+    "category": "厨卫材料",
+    "data": {
+      "category": "厨卫材料",
+      "material_type": "亚克力台面",
+      "chemical_components": [
+        {
+          "name": "PMMA",
+          "cas": "9011-14-7",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "不耐高温",
+          "severity": "中",
+          "description": "怕烫,需用隔热垫"
+        }
+      ],
+      "visual_cues": [
+        "透明或半透明",
+        "易加工"
+      ],
+      "certifications": [
+        "GB/T 17219"
+      ]
+    },
+    "source": "第六轮数据扩充-厨卫照明暖通",
+    "last_updated": "2026-01-30T21:22:42.312381",
+    "version": "6.0"
+  },
+  {
+    "material_id": "56092d5fe2fb72a7",
+    "category": "厨卫材料",
+    "data": {
+      "category": "厨卫材料",
+      "material_type": "陶瓷马桶",
+      "chemical_components": [
+        {
+          "name": "高温瓷",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "釉面铅镉",
+          "severity": "中",
+          "description": "劣质产品可能超标"
+        }
+      ],
+      "visual_cues": [
+        "白色光滑",
+        "釉面"
+      ],
+      "certifications": [
+        "GB 6952"
+      ]
+    },
+    "source": "第六轮数据扩充-厨卫照明暖通",
+    "last_updated": "2026-01-30T21:22:42.312381",
+    "version": "6.0"
+  },
+  {
+    "material_id": "c4d8964b6900a6ff",
+    "category": "厨卫材料",
+    "data": {
+      "category": "厨卫材料",
+      "material_type": "亚克力浴缸",
+      "chemical_components": [
+        {
+          "name": "PMMA",
+          "cas": "9011-14-7",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "易划伤",
+          "severity": "低",
+          "description": "表面硬度不如铸铁"
+        }
+      ],
+      "visual_cues": [
+        "轻质",
+        "保温好",
+        "多种造型"
+      ],
+      "certifications": [
+        "GB/T 23448"
+      ]
+    },
+    "source": "第六轮数据扩充-厨卫照明暖通",
+    "last_updated": "2026-01-30T21:22:42.312381",
+    "version": "6.0"
+  },
+  {
+    "material_id": "54354a2b07e5b6d2",
+    "category": "厨卫材料",
+    "data": {
+      "category": "厨卫材料",
+      "material_type": "钢化玻璃淋浴房",
+      "chemical_components": [
+        {
+          "name": "钢化玻璃",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "自爆风险",
+          "severity": "中",
+          "description": "千分之三自爆率,贴防爆膜"
+        }
+      ],
+      "visual_cues": [
+        "透明",
+        "3C标识",
+        "边角钝化"
+      ],
+      "certifications": [
+        "3C认证"
+      ]
+    },
+    "source": "第六轮数据扩充-厨卫照明暖通",
+    "last_updated": "2026-01-30T21:22:42.312381",
+    "version": "6.0"
+  },
+  {
+    "material_id": "32a6aedfdea844cd",
+    "category": "照明材料",
+    "data": {
+      "category": "照明材料",
+      "material_type": "LED灯珠",
+      "chemical_components": [
+        {
+          "name": "半导体芯片",
+          "cas": "N/A",
+          "hazard": "低"
+        },
+        {
+          "name": "荧光粉",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "蓝光危害",
+          "severity": "中",
+          "description": "选择低蓝光产品"
+        }
+      ],
+      "visual_cues": [
+        "节能",
+        "长寿命",
+        "光效高"
+      ],
+      "certifications": [
+        "CQC认证"
+      ]
+    },
+    "source": "第六轮数据扩充-厨卫照明暖通",
+    "last_updated": "2026-01-30T21:22:42.312381",
+    "version": "6.0"
+  },
+  {
+    "material_id": "443f64a4c0dcff1b",
+    "category": "照明材料",
+    "data": {
+      "category": "照明材料",
+      "material_type": "节能灯",
+      "chemical_components": [
+        {
+          "name": "稀土荧光粉",
+          "cas": "N/A",
+          "hazard": "低"
+        },
+        {
+          "name": "汞蒸气",
+          "cas": "7439-97-6",
+          "hazard": "高"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "汞污染",
+          "severity": "高",
+          "description": "破碎会释放汞蒸气,需回收"
+        },
+        {
+          "type": "频闪",
+          "severity": "中",
+          "description": "劣质产品频闪严重"
+        }
+      ],
+      "visual_cues": [
+        "螺旋形",
+        "比白炽灯节能"
+      ],
+      "certifications": [
+        "CCC认证"
+      ]
+    },
+    "source": "第六轮数据扩充-厨卫照明暖通",
+    "last_updated": "2026-01-30T21:22:42.312381",
+    "version": "6.0"
+  },
+  {
+    "material_id": "a43d696d91369d23",
+    "category": "照明材料",
+    "data": {
+      "category": "照明材料",
+      "material_type": "灯具塑料外壳",
+      "chemical_components": [
+        {
+          "name": "PC塑料",
+          "cas": "N/A",
+          "hazard": "中"
+        },
+        {
+          "name": "阻燃剂",
+          "cas": "N/A",
+          "hazard": "中"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "阻燃剂",
+          "severity": "中",
+          "description": "含溴系阻燃剂"
+        }
+      ],
+      "visual_cues": [
+        "透明或半透明",
+        "阻燃"
+      ],
+      "certifications": [
+        "CCC认证"
+      ]
+    },
+    "source": "第六轮数据扩充-厨卫照明暖通",
+    "last_updated": "2026-01-30T21:22:42.312381",
+    "version": "6.0"
+  },
+  {
+    "material_id": "27c645cbc1b123a7",
+    "category": "照明材料",
+    "data": {
+      "category": "照明材料",
+      "material_type": "吸顶灯灯罩",
+      "chemical_components": [
+        {
+          "name": "亚克力",
+          "cas": "9011-14-7",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "透光率",
+          "severity": "低",
+          "description": "选择高透光率产品"
+        }
+      ],
+      "visual_cues": [
+        "乳白色",
+        "半透明"
+      ],
+      "certifications": [
+        "CCC认证"
+      ]
+    },
+    "source": "第六轮数据扩充-厨卫照明暖通",
+    "last_updated": "2026-01-30T21:22:42.312381",
+    "version": "6.0"
+  },
+  {
+    "material_id": "4fd2a29ad1f1285b",
+    "category": "开关插座",
+    "data": {
+      "category": "开关插座",
+      "material_type": "PC阻燃面板",
+      "chemical_components": [
+        {
+          "name": "聚碳酸酯",
+          "cas": "N/A",
+          "hazard": "中"
+        },
+        {
+          "name": "阻燃剂",
+          "cas": "N/A",
+          "hazard": "中"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "阻燃性能",
+          "severity": "中",
+          "description": "必须通过750℃灼热丝测试"
+        }
+      ],
+      "visual_cues": [
+        "光滑面板",
+        "阻燃标识"
+      ],
+      "certifications": [
+        "CCC认证"
+      ]
+    },
+    "source": "第六轮数据扩充-厨卫照明暖通",
+    "last_updated": "2026-01-30T21:22:42.312381",
+    "version": "6.0"
+  },
+  {
+    "material_id": "8a90f0d44c6b419f",
+    "category": "开关插座",
+    "data": {
+      "category": "开关插座",
+      "material_type": "铜合金插套",
+      "chemical_components": [
+        {
+          "name": "黄铜",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "接触电阻",
+          "severity": "中",
+          "description": "铜片厚度需≥0.6mm"
+        }
+      ],
+      "visual_cues": [
+        "黄铜色",
+        "镀镍处理"
+      ],
+      "certifications": [
+        "CCC认证"
+      ]
+    },
+    "source": "第六轮数据扩充-厨卫照明暖通",
+    "last_updated": "2026-01-30T21:22:42.312381",
+    "version": "6.0"
+  },
+  {
+    "material_id": "f9c36e5e8d675feb",
+    "category": "开关插座",
+    "data": {
+      "category": "开关插座",
+      "material_type": "USB充电插座",
+      "chemical_components": [
+        {
+          "name": "电路板",
+          "cas": "N/A",
+          "hazard": "低"
+        },
+        {
+          "name": "阻燃塑料",
+          "cas": "N/A",
+          "hazard": "中"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "过载保护",
+          "severity": "中",
+          "description": "需有过流过压保护"
+        }
+      ],
+      "visual_cues": [
+        "USB接口",
+        "智能芯片"
+      ],
+      "certifications": [
+        "CCC认证",
+        "CE认证"
+      ]
+    },
+    "source": "第六轮数据扩充-厨卫照明暖通",
+    "last_updated": "2026-01-30T21:22:42.312381",
+    "version": "6.0"
+  },
+  {
+    "material_id": "56ffda9b7b9a6036",
+    "category": "暖通材料",
+    "data": {
+      "category": "暖通材料",
+      "material_type": "铜铝复合暖气片",
+      "chemical_components": [
+        {
+          "name": "铜管+铝翅片",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "氧化腐蚀",
+          "severity": "低",
+          "description": "铜管耐腐蚀"
+        }
+      ],
+      "visual_cues": [
+        "轻质",
+        "散热快"
+      ],
+      "certifications": [
+        "GB/T 29039"
+      ]
+    },
+    "source": "第六轮数据扩充-厨卫照明暖通",
+    "last_updated": "2026-01-30T21:22:42.312381",
+    "version": "6.0"
+  },
+  {
+    "material_id": "4beb82c633ffa2f3",
+    "category": "暖通材料",
+    "data": {
+      "category": "暖通材料",
+      "material_type": "钢制暖气片",
+      "chemical_components": [
+        {
+          "name": "低碳钢",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "锈蚀",
+          "severity": "中",
+          "description": "需做内防腐处理"
+        }
+      ],
+      "visual_cues": [
+        "重量大",
+        "价格适中"
+      ],
+      "certifications": [
+        "GB/T 29039"
+      ]
+    },
+    "source": "第六轮数据扩充-厨卫照明暖通",
+    "last_updated": "2026-01-30T21:22:42.312381",
+    "version": "6.0"
+  },
+  {
+    "material_id": "fa2d29b083d34939",
+    "category": "暖通材料",
+    "data": {
+      "category": "暖通材料",
+      "material_type": "PERT地暖管",
+      "chemical_components": [
+        {
+          "name": "耐热聚乙烯",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "环保型",
+          "severity": "低",
+          "description": "食品级材质无毒"
+        }
+      ],
+      "visual_cues": [
+        "柔韧",
+        "耐高温",
+        "白色或红色"
+      ],
+      "certifications": [
+        "GB/T 18992"
+      ]
+    },
+    "source": "第六轮数据扩充-厨卫照明暖通",
+    "last_updated": "2026-01-30T21:22:42.312381",
+    "version": "6.0"
+  },
+  {
+    "material_id": "61359266dad91714",
+    "category": "暖通材料",
+    "data": {
+      "category": "暖通材料",
+      "material_type": "PEXb地暖管",
+      "chemical_components": [
+        {
+          "name": "交联聚乙烯",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "不可热熔",
+          "severity": "低",
+          "description": "破损需用卡套连接"
+        }
+      ],
+      "visual_cues": [
+        "记忆性好",
+        "耐高温"
+      ],
+      "certifications": [
+        "GB/T 18992"
+      ]
+    },
+    "source": "第六轮数据扩充-厨卫照明暖通",
+    "last_updated": "2026-01-30T21:22:42.312381",
+    "version": "6.0"
+  },
+  {
+    "material_id": "127a7d7a119e1229",
+    "category": "暖通材料",
+    "data": {
+      "category": "暖通材料",
+      "material_type": "空调铜管",
+      "chemical_components": [
+        {
+          "name": "无氧铜",
+          "cas": "7440-50-8",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "假冒产品",
+          "severity": "中",
+          "description": "警惕回收铜"
+        }
+      ],
+      "visual_cues": [
+        "红铜色",
+        "导热快"
+      ],
+      "certifications": [
+        "GB/T 17791"
+      ]
+    },
+    "source": "第六轮数据扩充-厨卫照明暖通",
+    "last_updated": "2026-01-30T21:22:42.312381",
+    "version": "6.0"
+  },
+  {
+    "material_id": "8b8fe77e4af110f0",
+    "category": "屋面材料",
+    "data": {
+      "category": "屋面材料",
+      "material_type": "彩钢瓦",
+      "chemical_components": [
+        {
+          "name": "镀锌钢板",
+          "cas": "N/A",
+          "hazard": "低"
+        },
+        {
+          "name": "彩涂层",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "褪色",
+          "severity": "低",
+          "description": "选择高质量彩涂层"
+        }
+      ],
+      "visual_cues": [
+        "波浪形",
+        "轻质",
+        "多种颜色"
+      ],
+      "certifications": [
+        "GB/T 12755"
+      ]
+    },
+    "source": "第六轮数据扩充-厨卫照明暖通",
+    "last_updated": "2026-01-30T21:22:42.312381",
+    "version": "6.0"
+  },
+  {
+    "material_id": "76a83169d9048154",
+    "category": "屋面材料",
+    "data": {
+      "category": "屋面材料",
+      "material_type": "沥青瓦",
+      "chemical_components": [
+        {
+          "name": "沥青",
+          "cas": "8052-42-4",
+          "hazard": "中"
+        },
+        {
+          "name": "玻璃纤维",
+          "cas": "65997-17-3",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "沥青气味",
+          "severity": "中",
+          "description": "高温下有气味"
+        },
+        {
+          "type": "多环芳烃",
+          "severity": "中",
+          "description": "沥青含PAHs"
+        }
+      ],
+      "visual_cues": [
+        "鱼鳞状",
+        "柔韧",
+        "防水"
+      ],
+      "certifications": [
+        "GB/T 20474"
+      ]
+    },
+    "source": "第六轮数据扩充-厨卫照明暖通",
+    "last_updated": "2026-01-30T21:22:42.312381",
+    "version": "6.0"
+  },
+  {
+    "material_id": "c986b124686baf99",
+    "category": "屋面材料",
+    "data": {
+      "category": "屋面材料",
+      "material_type": "树脂瓦",
+      "chemical_components": [
+        {
+          "name": "ASA树脂",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "耐候性",
+          "severity": "低",
+          "description": "选择优质ASA材质"
+        }
+      ],
+      "visual_cues": [
+        "仿古瓦造型",
+        "轻质",
+        "多彩"
+      ],
+      "certifications": [
+        "GB/T 29755"
+      ]
+    },
+    "source": "第六轮数据扩充-厨卫照明暖通",
+    "last_updated": "2026-01-30T21:22:42.312381",
+    "version": "6.0"
+  },
+  {
+    "material_id": "e146f2e2d0f5869e",
+    "category": "屋面材料",
+    "data": {
+      "category": "屋面材料",
+      "material_type": "陶土瓦",
+      "chemical_components": [
+        {
+          "name": "陶土烧结",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "重量大",
+          "severity": "中",
+          "description": "需加强屋顶结构"
+        }
+      ],
+      "visual_cues": [
+        "红褐色",
+        "厚重",
+        "耐久"
+      ],
+      "certifications": [
+        "GB/T 21149"
+      ]
+    },
+    "source": "第六轮数据扩充-厨卫照明暖通",
+    "last_updated": "2026-01-30T21:22:42.312381",
+    "version": "6.0"
+  },
+  {
+    "material_id": "f1b98fc20eb58e90",
+    "category": "外墙材料",
+    "data": {
+      "category": "外墙材料",
+      "material_type": "真石漆",
+      "chemical_components": [
+        {
+          "name": "天然彩砂",
+          "cas": "N/A",
+          "hazard": "低"
+        },
+        {
+          "name": "乳液",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "环保型",
+          "severity": "低",
+          "description": "水性涂料环保"
+        }
+      ],
+      "visual_cues": [
+        "仿石材效果",
+        "立体感强"
+      ],
+      "certifications": [
+        "JG/T 24"
+      ]
+    },
+    "source": "第六轮数据扩充-厨卫照明暖通",
+    "last_updated": "2026-01-30T21:22:42.312381",
+    "version": "6.0"
+  },
+  {
+    "material_id": "516c5e71bcc840eb",
+    "category": "外墙材料",
+    "data": {
+      "category": "外墙材料",
+      "material_type": "外墙保温一体板",
+      "chemical_components": [
+        {
+          "name": "保温层+装饰面",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "粘结强度",
+          "severity": "中",
+          "description": "安装需牢固"
+        }
+      ],
+      "visual_cues": [
+        "一体化",
+        "保温装饰"
+      ],
+      "certifications": [
+        "GB/T 29906"
+      ]
+    },
+    "source": "第六轮数据扩充-厨卫照明暖通",
+    "last_updated": "2026-01-30T21:22:42.312381",
+    "version": "6.0"
+  },
+  {
+    "material_id": "81264f716be7fae7",
+    "category": "外墙材料",
+    "data": {
+      "category": "外墙材料",
+      "material_type": "铝塑复合板",
+      "chemical_components": [
+        {
+          "name": "铝板+PE芯材",
+          "cas": "N/A",
+          "hazard": "中"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "防火等级",
+          "severity": "高",
+          "description": "PE芯材易燃,选择阻燃型"
+        }
+      ],
+      "visual_cues": [
+        "金属光泽",
+        "平整"
+      ],
+      "certifications": [
+        "GB/T 17748"
+      ]
+    },
+    "source": "第六轮数据扩充-厨卫照明暖通",
+    "last_updated": "2026-01-30T21:22:42.312381",
+    "version": "6.0"
+  },
+  {
+    "material_id": "57d2cefa3c963602",
+    "category": "外墙材料",
+    "data": {
+      "category": "外墙材料",
+      "material_type": "文化石",
+      "chemical_components": [
+        {
+          "name": "水泥+天然石粉",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "放射性",
+          "severity": "低",
+          "description": "天然石材微量放射性"
+        }
+      ],
+      "visual_cues": [
+        "粗糙质感",
+        "仿天然石"
+      ],
+      "certifications": [
+        "GB 6566"
+      ]
+    },
+    "source": "第六轮数据扩充-厨卫照明暖通",
+    "last_updated": "2026-01-30T21:22:42.312381",
+    "version": "6.0"
+  },
+  {
+    "material_id": "82fd514f56eed176",
+    "category": "新风净化",
+    "data": {
+      "category": "新风净化",
+      "material_type": "HEPA滤网",
+      "chemical_components": [
+        {
+          "name": "玻璃纤维",
+          "cas": "65997-17-3",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "需定期更换",
+          "severity": "低",
+          "description": "6-12个月更换"
+        }
+      ],
+      "visual_cues": [
+        "褶皱结构",
+        "高效过滤"
+      ],
+      "certifications": [
+        "GB/T 14295"
+      ]
+    },
+    "source": "第六轮数据扩充-厨卫照明暖通",
+    "last_updated": "2026-01-30T21:22:42.312381",
+    "version": "6.0"
+  },
+  {
+    "material_id": "d4041ac75d54cbf6",
+    "category": "新风净化",
+    "data": {
+      "category": "新风净化",
+      "material_type": "活性炭滤网",
+      "chemical_components": [
+        {
+          "name": "活性炭",
+          "cas": "7440-44-0",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "吸附饱和",
+          "severity": "低",
+          "description": "需定期更换或暴晒"
+        }
+      ],
+      "visual_cues": [
+        "黑色",
+        "多孔",
+        "吸附异味"
+      ],
+      "certifications": [
+        "GB/T 7702"
+      ]
+    },
+    "source": "第六轮数据扩充-厨卫照明暖通",
+    "last_updated": "2026-01-30T21:22:42.312381",
+    "version": "6.0"
+  },
+  {
+    "material_id": "50866bdf200bcfb1",
+    "category": "新风净化",
+    "data": {
+      "category": "新风净化",
+      "material_type": "新风管道",
+      "chemical_components": [
+        {
+          "name": "PVC或镀锌钢",
+          "cas": "N/A",
+          "hazard": "低"
+        }
+      ],
+      "risk_points": [
+        {
+          "type": "清洁维护",
+          "severity": "低",
+          "description": "需定期清洁"
+        }
+      ],
+      "visual_cues": [
+        "白色或银色",
+        "圆形管道"
+      ],
+      "certifications": [
+        "GB 50243"
+      ]
+    },
+    "source": "第六轮数据扩充-厨卫照明暖通",
+    "last_updated": "2026-01-30T21:22:42.312381",
+    "version": "6.0"
   }
 ]
